@@ -2,12 +2,522 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Freudian Couch</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:57902/tags/</link>
     <description>Recent content in Tags on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Adarsh V</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 The Freudian Couch</copyright>
+    <lastBuildDate>Tue, 31 Dec 2024 22:17:00 +0000</lastBuildDate><atom:link href="http://localhost:57902/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:57902/tags/blogging/</link>
+      <pubDate>Tue, 31 Dec 2024 22:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/blogging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://localhost:57902/tags/books/</link>
+      <pubDate>Tue, 31 Dec 2024 22:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/books/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Year-in-Review</title>
+      <link>http://localhost:57902/tags/year-in-review/</link>
+      <pubDate>Tue, 31 Dec 2024 22:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/year-in-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>http://localhost:57902/tags/review/</link>
+      <pubDate>Wed, 18 Dec 2024 10:48:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mini-Rants</title>
+      <link>http://localhost:57902/tags/mini-rants/</link>
+      <pubDate>Tue, 16 Oct 2018 17:54:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/mini-rants/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>http://localhost:57902/tags/opinion/</link>
+      <pubDate>Tue, 16 Oct 2018 17:54:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/opinion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Short Story</title>
+      <link>http://localhost:57902/tags/short-story/</link>
+      <pubDate>Sat, 12 Aug 2017 23:39:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/short-story/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>http://localhost:57902/tags/story/</link>
+      <pubDate>Sat, 12 Aug 2017 23:39:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/story/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:57902/tags/personal/</link>
+      <pubDate>Sat, 11 Mar 2017 07:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/personal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chronicles of Narayana</title>
+      <link>http://localhost:57902/tags/chronicles-of-narayana/</link>
+      <pubDate>Sat, 18 Feb 2017 02:45:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/chronicles-of-narayana/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Capitalism</title>
+      <link>http://localhost:57902/tags/capitalism/</link>
+      <pubDate>Sat, 24 Dec 2016 05:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/capitalism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Road Safety</title>
+      <link>http://localhost:57902/tags/road-safety/</link>
+      <pubDate>Sat, 24 Dec 2016 05:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/road-safety/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Moral Stories</title>
+      <link>http://localhost:57902/tags/moral-stories/</link>
+      <pubDate>Fri, 18 Sep 2015 14:14:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/moral-stories/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guest Posts</title>
+      <link>http://localhost:57902/tags/guest-posts/</link>
+      <pubDate>Wed, 03 Jun 2015 13:39:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/guest-posts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cricket</title>
+      <link>http://localhost:57902/tags/cricket/</link>
+      <pubDate>Sat, 28 Mar 2015 02:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/cricket/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>George Carlin</title>
+      <link>http://localhost:57902/tags/george-carlin/</link>
+      <pubDate>Sat, 17 Jan 2015 13:35:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/george-carlin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My 10</title>
+      <link>http://localhost:57902/tags/my-10/</link>
+      <pubDate>Wed, 31 Dec 2014 12:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/my-10/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>http://localhost:57902/tags/movies/</link>
+      <pubDate>Wed, 10 Dec 2014 13:25:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/movies/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Justice</title>
+      <link>http://localhost:57902/tags/justice/</link>
+      <pubDate>Sun, 26 Oct 2014 10:45:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/justice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:57902/tags/politics/</link>
+      <pubDate>Sun, 26 Oct 2014 10:45:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nostalgia</title>
+      <link>http://localhost:57902/tags/nostalgia/</link>
+      <pubDate>Thu, 23 Oct 2014 10:23:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/nostalgia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:57902/tags/travel/</link>
+      <pubDate>Tue, 14 Oct 2014 14:42:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/travel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>http://localhost:57902/tags/poetry/</link>
+      <pubDate>Tue, 07 Oct 2014 09:40:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/poetry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Success</title>
+      <link>http://localhost:57902/tags/success/</link>
+      <pubDate>Sat, 04 Oct 2014 05:12:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/success/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Success Series</title>
+      <link>http://localhost:57902/tags/success-series/</link>
+      <pubDate>Sat, 04 Oct 2014 05:12:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/success-series/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Current Affairs</title>
+      <link>http://localhost:57902/tags/current-affairs/</link>
+      <pubDate>Tue, 30 Sep 2014 10:26:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/current-affairs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sastra</title>
+      <link>http://localhost:57902/tags/sastra/</link>
+      <pubDate>Wed, 24 Sep 2014 10:56:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/sastra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:57902/tags/philosophy/</link>
+      <pubDate>Fri, 29 Aug 2014 01:38:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/philosophy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>http://localhost:57902/tags/career/</link>
+      <pubDate>Tue, 26 Aug 2014 14:34:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/career/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flowcharts</title>
+      <link>http://localhost:57902/tags/flowcharts/</link>
+      <pubDate>Tue, 26 Aug 2014 14:34:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/flowcharts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rahul Dravid</title>
+      <link>http://localhost:57902/tags/rahul-dravid/</link>
+      <pubDate>Sun, 27 Jul 2014 12:17:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/rahul-dravid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Faking News</title>
+      <link>http://localhost:57902/tags/faking-news/</link>
+      <pubDate>Thu, 03 Jul 2014 09:28:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/faking-news/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kollywood</title>
+      <link>http://localhost:57902/tags/kollywood/</link>
+      <pubDate>Fri, 08 Nov 2013 06:13:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/kollywood/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sarcasm</title>
+      <link>http://localhost:57902/tags/sarcasm/</link>
+      <pubDate>Sat, 07 Sep 2013 13:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/sarcasm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Weekly Compilation of Interesting Reads</title>
+      <link>http://localhost:57902/tags/weekly-compilation-of-interesting-reads/</link>
+      <pubDate>Sun, 25 Aug 2013 14:42:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/weekly-compilation-of-interesting-reads/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Interned Addiction</title>
+      <link>http://localhost:57902/tags/interned-addiction/</link>
+      <pubDate>Wed, 07 Nov 2012 14:26:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/interned-addiction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Escapism</title>
+      <link>http://localhost:57902/tags/escapism/</link>
+      <pubDate>Fri, 10 Aug 2012 14:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/escapism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Knowledge</title>
+      <link>http://localhost:57902/tags/knowledge/</link>
+      <pubDate>Fri, 10 Aug 2012 14:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/knowledge/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Suffering</title>
+      <link>http://localhost:57902/tags/suffering/</link>
+      <pubDate>Fri, 10 Aug 2012 14:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/suffering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Truth</title>
+      <link>http://localhost:57902/tags/truth/</link>
+      <pubDate>Fri, 10 Aug 2012 14:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/truth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>http://localhost:57902/tags/disclaimer/</link>
+      <pubDate>Sun, 05 Aug 2012 03:58:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/disclaimer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Video Games</title>
+      <link>http://localhost:57902/tags/video-games/</link>
+      <pubDate>Tue, 26 Jun 2012 15:01:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/video-games/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anna Hazare</title>
+      <link>http://localhost:57902/tags/anna-hazare/</link>
+      <pubDate>Sun, 03 Jun 2012 03:27:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/anna-hazare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anti-Corruption</title>
+      <link>http://localhost:57902/tags/anti-corruption/</link>
+      <pubDate>Sun, 03 Jun 2012 03:27:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/anti-corruption/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lokpal</title>
+      <link>http://localhost:57902/tags/lokpal/</link>
+      <pubDate>Sun, 03 Jun 2012 03:27:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/lokpal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anarchy</title>
+      <link>http://localhost:57902/tags/anarchy/</link>
+      <pubDate>Sun, 22 Apr 2012 13:16:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/anarchy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Liberalism</title>
+      <link>http://localhost:57902/tags/liberalism/</link>
+      <pubDate>Sun, 22 Apr 2012 13:16:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/liberalism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kuruksastra</title>
+      <link>http://localhost:57902/tags/kuruksastra/</link>
+      <pubDate>Wed, 14 Mar 2012 15:25:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/kuruksastra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Script</title>
+      <link>http://localhost:57902/tags/script/</link>
+      <pubDate>Wed, 14 Mar 2012 15:25:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/script/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Short Films</title>
+      <link>http://localhost:57902/tags/short-films/</link>
+      <pubDate>Wed, 14 Mar 2012 15:25:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/short-films/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Intruder</title>
+      <link>http://localhost:57902/tags/the-intruder/</link>
+      <pubDate>Wed, 14 Mar 2012 15:25:00 +0000</pubDate>
+      
+      <guid>http://localhost:57902/tags/the-intruder/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
