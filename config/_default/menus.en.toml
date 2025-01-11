@@ -1,0 +1,23 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Book Reviews"
+pageRef = "books-reviews"
+identifier = "7r2dwlhV1R"
+weight = 9999
+
+[[main]]
+name = "Short stories"
+pageRef = "stories"
+identifier = "ob2Tajv3g4"
+weight = 9999
+
+[[main]]
+name = "Personal"
+pageRef = "personal"
+identifier = "nbZNWoTdnr"
+weight = 9999
+
+[[footer]]
+none = "none"

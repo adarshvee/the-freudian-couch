@@ -1,0 +1,17 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The Freudian Couch"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[params.author]
+name = "Adarsh V"
+links = [
+  { linkedin = "https://www.linkedin.com/in/adarsh-vijayaraghavan-25836219/" }
+]
