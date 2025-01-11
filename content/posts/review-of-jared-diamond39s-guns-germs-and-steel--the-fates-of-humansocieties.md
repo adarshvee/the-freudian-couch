@@ -1,0 +1,40 @@
++++
+title = "Review of Jared Diamond&#39;s Guns, Germs and Steel : The fates of human
+societies"
+date = 2017-04-25T11:25:00Z
+updated = 2017-04-25T11:39:15Z
+tags = ["Books", "Review"]
+blogimport = true 
+[author]
+	name = "The Freudian Couch"
+	uri = "https://www.blogger.com/profile/02846833382241285200"
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<a href="https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel" style="float: left; padding-right: 20px;"><img alt="Guns, Germs, and Steel: The Fates of Human Societies" border="0" src="https://images.gr-assets.com/books/1453215833m/1842.jpg"></a><a href="https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel">Guns, Germs, and Steel: The Fates of Human Societies</a> by <a href="https://www.goodreads.com/author/show/256.Jared_Diamond">Jared Diamond</a><br>
+My rating: <a href="https://www.goodreads.com/review/show/1966892732">4 of 5 stars</a><br>
+<br>
+<div style="text-align: justify;">
+In 1532, 168 Spanish men faced nearly 80000 men of the <i>Inca</i> empire at Peru. What was supposed to be a parlay between the Incas and the visiting Spanish men was actually a subterfuge by Spanish Conquistador <i>Francisso Pizzaro</i>, and in the ensuing battle, around 5 Spanish men lost their lives. They won the battle though, having killed approximately 7000 Inca army men. How was this possible? Jared Diamond's answer is "<i>Guns, Germs and Steel</i>". In his Pulitzer winning "<i>Guns, Germs and Steel : The fates of humans societies</i>", Jared Diamond attempts to answer a question by a New Guinean politician <i>Yali</i> on why there is a fundamental wealth inequality in the World. At first glance, the inequality seems to arise from an intellectual and cultural difference - after all, most major modern inventions were centred at Europe, the cradle of Industrial revolution. Jared Diamond wants to explore deeper though and arrive at the "<i>ultimate causes</i>" rather than the "<i>proximate causes</i>". To do this, he attempts to re-look at human societies since the Ice Age around 13000 years ago (approx. 11000 B.C) to get to the bottom of Yali's question. In fact, he actually starts 7 million years ago ever since human beings are understood to have walked the earth in Africa (though the history until 11000 BC is compressed into a single chapter of nearly 20 pages).</div>
+<div style="text-align: justify;">
+<br></div>
+<div style="text-align: justify;">
+To summarize the history of the whole of humanity, that too in just a little more than 400 pages, is no mean feat. It becomes harder considering the amount of subjects Jared Diamond attempts to deal with - archaeology, epidemiology, biology, geography, linguistics, botany, and much more. The author largely pulls it off though. He does this because he identifies broad patterns throughout human history. The broad pattern is simple - humans were initially hunters and gatherers, but some regions were blessed with edible, nutritious wild plants and domesticable animals. Some plants are easier to cultivate than others, some animals are easier to domesticate than others (or as Diamond puts is, <i>The Anna Karenina principle</i>). These regions favoured food production, leading to a sedentary society with large population density and a centralized decision-body, which in turn led to people with specialized skills and occupation. As a side-effect, the societies also developed immunity to various diseases by being in close contact with animals. These were hence the societies that had the time and labour to invent things. Also, geographic factors such as connectivity, climate, topology, the orientation of the landmass, and presence of similar societies around hastened the whole progression. He concludes that Eurasia was blessed in this regard, and hence European countries came out on top. The inequality, Jarod Diamond repeatedly stresses throughout the book, has nothing to do with the inherent superiority or inferiority of one race over another.</div>
+<div style="text-align: justify;">
+<br></div>
+<div style="text-align: justify;">
+The range of subjects Diamond deals with is insane. As a lay reader with almost zero knowledge on most of the subjects being dealt with, I found this book to be highly informative and educative. That is not to say that the book was not entertaining - <i>Guns, Germs and Steel</i> is written in an accessible and engaging style, encouraging lay audience to read it. I was mildly dissapointed about a few things that are not personally convincing to me, despite the fact that Jared Diamond touches upon these concerns towards the end of the book (and in an afterword written 6 years after the book's publication). The most happening place in the World in Jared Diamond's epic work is the <i>Fertile Crescent</i>, which is, I understand, roughly in the middle east surrounded by countries like Iran, Iraq, Syria. This is still the most happening place today, but for all the wrong reasons. Diamond seems to attribute this to the the geographical features being reversed, probably due to excessive deforestation; which seems to me to be a very simplistic explanation. A similar personal disappointment was with the fact that not much of the book deals with India, which finds only passing mention throughout the book. The epilogue and the afterword attributes India's current state to "<i>caste system</i>" and too much "<i>fragmentation</i>" between various regions within the country (prior to independence) and leaves it at that. In general, Diamond seems to concentrate on historical events that fit his pattern and quickly gloss over those which might not fit in easily. Also I felt that the humorous tone Diamond puts on at times did not work out. This was particularly true for me while Diamond describes why certain animals were not domesticated, making the chapter morose.</div>
+<div style="text-align: justify;">
+<br></div>
+<div style="text-align: justify;">
+I looked at a few other reviews of the book, and the negative ones point out that the book endorses "<i>Geographical determinism</i>" and does not give importance to individual brilliance or cultural characteristics that may have determined many critical moments in history. I do not find this to be an issue with the book though. In fact, science already looks at humanity impersonally as a biological accident. I don't find it far fetched to think that geography has as much influence on us as, say, genetics (Jared Diamond thinks it has much much more influence than genetics). The caveat with such a thinking is that it supports determinism, and removes moral responsibility. When Jared Diamond implies that if Indian Americans from Mesoamerica and Europeans from Europe had geographically exchanged places in some sort of mass Freaky Friday scenario, the Indian Americans would have invented the motor car. And further more, they would have gone on to brutally kill millions of Europeans. He basically absolves Europeans of their ingeniousness as well as inhumanity. This is a tricky slope, and one needs to be careful of what the conclusions are. The impunity with which Europeans exterminated societies throughout the World is worthy of our disgust, and nothing should make us forget that.</div>
+<div style="text-align: justify;">
+<br></div>
+<div style="text-align: justify;">
+Despite the minor disappointments, I am very grateful I picked this book and persisted till the end. I now know a lot more about human societies than I did. For example, I know now that the people in New Zeland and Hawai actually originated in China, probably Taiwan. I also know that the same people developed into a race that conquered Madagascar, which is all extremely fascinating. Most importantly, my interest to learn more history has been kindled. Do give this book a try, and you are unlikely to regret it.
+</div>
+<div style="text-align: justify;">
+<br></div>
+<a href="https://www.goodreads.com/review/list/4391307-adarsh">View all my reviews</a>
+</div>
+
