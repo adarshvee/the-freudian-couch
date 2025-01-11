@@ -21,19 +21,19 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
-showRecent = false
+layout = "card"
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
 showDate = true
 showViews = false
-showLikes = false
+showLikes = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
@@ -53,7 +53,7 @@ showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = false
@@ -64,7 +64,7 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = true
 cardView = false

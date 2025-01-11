@@ -1,6 +1,5 @@
 +++
-title = "Review of Jared Diamond&#39;s Guns, Germs and Steel : The fates of human
-societies"
+title = "Review of Jared Diamond's Guns, Germs and Steel : The fates of human societies"
 date = 2017-04-25T11:25:00Z
 updated = 2017-04-25T11:39:15Z
 tags = ["Books", "Review"]

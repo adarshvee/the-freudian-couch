@@ -11,7 +11,7 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [params.author]
-name = "Adarsh V"
+name = "The Freudian Couch"
 links = [
   { linkedin = "https://www.linkedin.com/in/adarsh-vijayaraghavan-25836219/" }
 ]
