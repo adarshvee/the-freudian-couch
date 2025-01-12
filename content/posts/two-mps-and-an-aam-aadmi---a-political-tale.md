@@ -1,9 +1,10 @@
 +++
-title = "Two MPs and an Aam Aadmi - A Political tale"
+title = "Two Monkeys and an Aam Aadmi - A Political tale"
 date = 2013-05-28T14:01:00Z
 updated = 2013-06-24T14:20:08Z
 tags = ["Politics", "Story", "Opinion"]
 blogimport = true 
+url = "2013/05/two-monkeys-and-aam-aadmi-political-tale.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

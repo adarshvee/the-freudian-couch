@@ -4,6 +4,7 @@ date = 2014-12-28T10:43:00Z
 updated = 2014-12-29T08:01:13Z
 tags = ["Opinion"]
 blogimport = true 
+url = "2014/12/the-grass-better-be-greener-on-other.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

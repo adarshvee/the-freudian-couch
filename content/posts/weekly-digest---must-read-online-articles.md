@@ -4,6 +4,7 @@ date = 2013-08-25T14:42:00Z
 updated = 2013-08-25T14:42:09Z
 tags = ["Weekly Compilation of interesting reads"]
 blogimport = true 
+url = "2013/08/weekly-digest-must-read-online-articles.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

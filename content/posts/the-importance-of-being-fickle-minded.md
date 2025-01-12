@@ -4,6 +4,7 @@ date = 2012-08-05T03:58:00Z
 updated = 2012-11-04T10:16:27Z
 tags = ["Disclaimer", "Philosophy", "Opinion", "Books", "Personal"]
 blogimport = true 
+url = "2012/08/the-important-of-being-fickle-minded.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

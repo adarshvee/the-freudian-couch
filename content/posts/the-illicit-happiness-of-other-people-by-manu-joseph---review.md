@@ -4,6 +4,7 @@ date = 2014-09-06T10:12:00Z
 updated = 2014-09-06T10:12:17Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2014/09/the-illicit-happiness-of-other-people.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

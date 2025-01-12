@@ -4,6 +4,7 @@ date = 2014-07-12T13:50:00Z
 updated = 2014-07-14T12:56:18Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2014/07/thoughts-on-crime-and-punishment.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

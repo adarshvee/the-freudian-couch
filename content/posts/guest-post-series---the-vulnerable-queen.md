@@ -4,6 +4,7 @@ date = 2014-09-30T10:26:00Z
 updated = 2014-10-01T09:05:20Z
 tags = ["Guest posts", "Current Affairs", "Politics"]
 blogimport = true 
+url = "2014/09/guest-post-series-vulnerable-queen.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

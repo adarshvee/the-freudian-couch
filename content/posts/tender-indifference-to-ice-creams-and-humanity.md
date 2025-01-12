@@ -4,6 +4,7 @@ date = 2014-11-12T09:57:00Z
 updated = 2014-11-12T10:41:59Z
 tags = ["Personal"]
 blogimport = true 
+url = "2014/11/tender-indifference-to-ice-creams-and.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

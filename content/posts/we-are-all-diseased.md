@@ -4,6 +4,7 @@ date = 2014-07-27T12:17:00Z
 updated = 2014-07-27T13:01:30Z
 tags = ["Philosophy", "Opinion", "Rahul Dravid"]
 blogimport = true 
+url = "2014/07/we-are-all-diseased.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

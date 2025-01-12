@@ -2,19 +2,19 @@
 none = "none"
 
 [[main]]
-name = "Book Reviews"
-pre = "lightbulb"
+name = "Reviews"
+pre = "book"
 pageRef = "tags/books"
 weight = 1
 
 [[main]]
-name = "Short stories"
-pre = "comment"
+name = "Stories"
+pre = "writing"
 pageRef = "tags/short-story"
 weight = 2
 
 [[main]]
-name = "Tag cloud"
+name = "Tags"
 pre = "soundcloud"
 pageRef = "tags"
 weight = 3
@@ -30,6 +30,12 @@ name = "Programming"
 pre = "dev"
 pageRef = "a"
 weight = 5
+
+[[main]]
+name = "RSS"
+pre = "rss"
+pageRef = "index.xml"
+weight = 6
 
 [[footer]]
 none = "none"

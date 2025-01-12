@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Story on The Freudian Couch</title>
-    <link>http://localhost:60163/tags/story/</link>
+    <link>http://localhost:1313/tags/story/</link>
     <description>Recent content in Story on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
-    <lastBuildDate>Sat, 12 Aug 2017 23:39:00 +0000</lastBuildDate><atom:link href="http://localhost:60163/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2017 23:39:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Prodigy</title>
-      <link>http://localhost:60163/posts/the-prodigy/</link>
+      <link>http://localhost:1313/2017/08/the-prodigy.html</link>
       <pubDate>Sat, 12 Aug 2017 23:39:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/the-prodigy/</guid>
+      <guid>http://localhost:1313/2017/08/the-prodigy.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nithya</title>
-      <link>http://localhost:60163/posts/nithya/</link>
+      <link>http://localhost:1313/2017/07/nithya.html</link>
       <pubDate>Sat, 29 Jul 2017 11:47:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/nithya/</guid>
+      <guid>http://localhost:1313/2017/07/nithya.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chronicles of Narayana - The Punch</title>
-      <link>http://localhost:60163/posts/chronicles-of-narayana---the-punch/</link>
+      <link>http://localhost:1313/2017/02/chronicles-of-narayana-punch.html</link>
       <pubDate>Sat, 18 Feb 2017 02:45:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/chronicles-of-narayana---the-punch/</guid>
+      <guid>http://localhost:1313/2017/02/chronicles-of-narayana-punch.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modern moral stories - The Hare and the Tortoise. And a crow.</title>
-      <link>http://localhost:60163/posts/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./</link>
+      <link>http://localhost:1313/2015/09/modern-moral-stories-hare-and-tortoise.html</link>
       <pubDate>Fri, 18 Sep 2015 14:14:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./</guid>
+      <guid>http://localhost:1313/2015/09/modern-moral-stories-hare-and-tortoise.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Guest post series - Cancer</title>
-      <link>http://localhost:60163/posts/guest-post-series---cancer/</link>
+      <link>http://localhost:1313/2015/06/guest-post-series-cancer.html</link>
       <pubDate>Wed, 03 Jun 2015 13:39:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/guest-post-series---cancer/</guid>
+      <guid>http://localhost:1313/2015/06/guest-post-series-cancer.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Guest Posts Series - Vagabond</title>
-      <link>http://localhost:60163/posts/guest-posts-series---vagabond/</link>
+      <link>http://localhost:1313/2014/09/guest-posts-series-vagabound.html</link>
       <pubDate>Fri, 19 Sep 2014 02:26:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/guest-posts-series---vagabond/</guid>
+      <guid>http://localhost:1313/2014/09/guest-posts-series-vagabound.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Money Where the Mouth Is</title>
-      <link>http://localhost:60163/posts/money-where-the-mouth-is/</link>
+      <link>http://localhost:1313/2014/08/money-where-mouth-is.html</link>
       <pubDate>Wed, 06 Aug 2014 12:11:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/money-where-the-mouth-is/</guid>
+      <guid>http://localhost:1313/2014/08/money-where-mouth-is.html</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Two MPs and an Aam Aadmi - A Political tale</title>
-      <link>http://localhost:60163/posts/two-mps-and-an-aam-aadmi---a-political-tale/</link>
+      <title>Two Monkeys and an Aam Aadmi - A Political tale</title>
+      <link>http://localhost:1313/2013/05/two-monkeys-and-aam-aadmi-political-tale.html</link>
       <pubDate>Tue, 28 May 2013 14:01:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/two-mps-and-an-aam-aadmi---a-political-tale/</guid>
+      <guid>http://localhost:1313/2013/05/two-monkeys-and-aam-aadmi-political-tale.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Social Network</title>
-      <link>http://localhost:60163/posts/the-social-network/</link>
+      <link>http://localhost:1313/2012/11/the-social-network.html</link>
       <pubDate>Wed, 07 Nov 2012 14:26:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/the-social-network/</guid>
+      <guid>http://localhost:1313/2012/11/the-social-network.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>A Strange Tale - A Short Story</title>
-      <link>http://localhost:60163/posts/a-strange-tale---a-short-story/</link>
+      <link>http://localhost:1313/2012/04/strange-tale.html</link>
       <pubDate>Thu, 12 Apr 2012 15:59:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/a-strange-tale---a-short-story/</guid>
+      <guid>http://localhost:1313/2012/04/strange-tale.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Intruder</title>
-      <link>http://localhost:60163/posts/the-intruder/</link>
+      <link>http://localhost:1313/2012/03/intruder.html</link>
       <pubDate>Wed, 14 Mar 2012 15:25:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/the-intruder/</guid>
+      <guid>http://localhost:1313/2012/03/intruder.html</guid>
       <description></description>
       
     </item>
