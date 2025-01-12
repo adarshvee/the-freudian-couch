@@ -4,6 +4,7 @@ date = 2010-02-23T13:31:00Z
 updated = 2012-11-04T09:51:40Z
 tags = ["Current Affairs", "sarcasm"]
 blogimport = true 
+url = "2010/02/selfless-entertainers.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

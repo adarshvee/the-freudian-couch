@@ -4,6 +4,7 @@ date = 2014-09-29T10:38:00Z
 updated = 2014-09-29T10:38:11Z
 tags = ["Success", "Success Series"]
 blogimport = true 
+url = "2014/09/the-success-series-with-whatsapp-and.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

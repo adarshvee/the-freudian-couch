@@ -4,6 +4,7 @@ date = 2012-12-25T13:21:00Z
 updated = 2012-12-25T13:21:51Z
 tags = ["Books", "Review", "year-in-review"]
 blogimport = true 
+url = "2012/12/the-books-that-defined-my-2012-part-1.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

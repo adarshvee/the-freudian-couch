@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George Carlin on The Freudian Couch</title>
-    <link>http://localhost:60163/tags/george-carlin/</link>
+    <link>http://localhost:1313/tags/george-carlin/</link>
     <description>Recent content in George Carlin on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
-    <lastBuildDate>Sat, 17 Jan 2015 13:35:00 +0000</lastBuildDate><atom:link href="http://localhost:60163/tags/george-carlin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2015 13:35:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/george-carlin/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>George Carlin Tees</title>
-      <link>http://localhost:60163/posts/george-carlin-tees/</link>
+      <link>http://localhost:1313/2015/01/george-carlin-tees.html</link>
       <pubDate>Sat, 17 Jan 2015 13:35:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/george-carlin-tees/</guid>
+      <guid>http://localhost:1313/2015/01/george-carlin-tees.html</guid>
       <description></description>
       
     </item>

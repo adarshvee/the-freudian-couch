@@ -4,6 +4,7 @@ date = 2012-11-07T14:26:00Z
 updated = 2012-11-08T12:30:24Z
 tags = ["Story", "Interned Addiction", "Short Story", "Road Safety"]
 blogimport = true 
+url = "2012/11/the-social-network.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interned Addiction on The Freudian Couch</title>
-    <link>http://localhost:60163/tags/interned-addiction/</link>
+    <link>http://localhost:1313/tags/interned-addiction/</link>
     <description>Recent content in Interned Addiction on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
-    <lastBuildDate>Wed, 07 Nov 2012 14:26:00 +0000</lastBuildDate><atom:link href="http://localhost:60163/tags/interned-addiction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Nov 2012 14:26:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/interned-addiction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Social Network</title>
-      <link>http://localhost:60163/posts/the-social-network/</link>
+      <link>http://localhost:1313/2012/11/the-social-network.html</link>
       <pubDate>Wed, 07 Nov 2012 14:26:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/the-social-network/</guid>
+      <guid>http://localhost:1313/2012/11/the-social-network.html</guid>
       <description></description>
       
     </item>

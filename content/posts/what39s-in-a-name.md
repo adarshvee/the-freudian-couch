@@ -1,9 +1,10 @@
 +++
-title = "What&#39;s in a name?"
+title = "What's in a name?"
 date = 2014-03-31T14:56:00Z
 updated = 2014-09-25T09:36:00Z
 tags = ["Personal"]
 blogimport = true 
+url = "2014/03/what-in-name.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Year-in-Review on The Freudian Couch</title>
-    <link>http://localhost:60163/tags/year-in-review/</link>
+    <link>http://localhost:1313/tags/year-in-review/</link>
     <description>Recent content in Year-in-Review on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
-    <lastBuildDate>Tue, 31 Dec 2024 22:17:00 +0000</lastBuildDate><atom:link href="http://localhost:60163/tags/year-in-review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 22:17:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/year-in-review/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My 2024 in books</title>
-      <link>http://localhost:60163/posts/my-2024-in-books/</link>
+      <link>http://localhost:1313/2024/12/my-2024-in-books.html</link>
       <pubDate>Tue, 31 Dec 2024 22:17:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/my-2024-in-books/</guid>
+      <guid>http://localhost:1313/2024/12/my-2024-in-books.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>My 2021 in books</title>
-      <link>http://localhost:60163/posts/my-2021-in-books/</link>
+      <link>http://localhost:1313/2021/12/my-2021-in-books.html</link>
       <pubDate>Thu, 30 Dec 2021 23:16:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/my-2021-in-books/</guid>
+      <guid>http://localhost:1313/2021/12/my-2021-in-books.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>My 2020 in books</title>
-      <link>http://localhost:60163/posts/my-2020-in-books/</link>
+      <link>http://localhost:1313/2021/01/my-2020-in-books.html</link>
       <pubDate>Fri, 01 Jan 2021 00:48:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/my-2020-in-books/</guid>
+      <guid>http://localhost:1313/2021/01/my-2020-in-books.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Books that defined my 2012 (Part 1 of 2)</title>
-      <link>http://localhost:60163/posts/the-books-that-defined-my-2012-part-1-of-2/</link>
+      <link>http://localhost:1313/2012/12/the-books-that-defined-my-2012-part-1.html</link>
       <pubDate>Tue, 25 Dec 2012 13:21:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/the-books-that-defined-my-2012-part-1-of-2/</guid>
+      <guid>http://localhost:1313/2012/12/the-books-that-defined-my-2012-part-1.html</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kollywood in 2011 - My Personal Favourites</title>
-      <link>http://localhost:60163/posts/kollywood-in-2011---my-personal-favourites/</link>
+      <link>http://localhost:1313/2012/01/kollywood-in-2011-my-personal.html</link>
       <pubDate>Sun, 01 Jan 2012 03:17:00 +0000</pubDate>
       
-      <guid>http://localhost:60163/posts/kollywood-in-2011---my-personal-favourites/</guid>
+      <guid>http://localhost:1313/2012/01/kollywood-in-2011-my-personal.html</guid>
       <description></description>
       
     </item>
