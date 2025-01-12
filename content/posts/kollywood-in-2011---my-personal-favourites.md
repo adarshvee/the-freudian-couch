@@ -4,6 +4,7 @@ date = 2012-01-01T03:17:00Z
 updated = 2012-12-25T13:23:54Z
 tags = ["Kollywood", "Movies", "My 10", "Review", "year-in-review"]
 blogimport = true 
+url = "2012/01/kollywood-in-2011-my-personal.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

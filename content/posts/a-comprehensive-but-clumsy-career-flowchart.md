@@ -4,6 +4,7 @@ date = 2014-08-26T14:34:00Z
 updated = 2017-07-27T11:44:05Z
 tags = ["Career", "Flowcharts"]
 blogimport = true 
+url = "/2014/08/comprehensive-but-clumsy-career.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -4,6 +4,7 @@ date = 2016-12-24T05:17:00Z
 updated = 2016-12-24T05:17:04Z
 tags = ["Opinion", "Capitalism", "Road Safety"]
 blogimport = true 
+url = "2016/12/hurry-up.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

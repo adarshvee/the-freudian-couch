@@ -4,6 +4,7 @@ date = 2013-12-23T10:06:00Z
 updated = 2013-12-23T13:48:42Z
 tags = ["Opinion", "Personal"]
 blogimport = true 
+url = "2013/12/entropy-and-orderliness.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -4,6 +4,7 @@ date = 2017-05-17T16:32:00Z
 updated = 2017-05-17T16:32:47Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/05/review-of-manu-josephs-serious-men.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

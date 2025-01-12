@@ -23,8 +23,8 @@ showScrollToTop = true
 [homepage]
 layout = "card"
 showRecent = true
-showRecentItems = 5
-showMoreLink = false
+showRecentItems = 9
+showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
@@ -50,7 +50,7 @@ showPagination = true
 invertPagination = false
 showReadingTime = true
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
@@ -67,7 +67,7 @@ showTableOfContents = false
 showCards = true
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
@@ -81,7 +81,7 @@ showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-cardView = false
+cardView = true
 
 [term]
 showHero = false

@@ -4,6 +4,7 @@ date = 2014-09-27T14:18:00Z
 updated = 2014-09-27T14:19:08Z
 tags = ["Guest posts"]
 blogimport = true 
+url = "2014/09/guest-post-series-bureaucrat-bloody-hell.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

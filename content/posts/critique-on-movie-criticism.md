@@ -4,6 +4,7 @@ date = 2013-11-08T06:13:00Z
 updated = 2013-11-08T06:13:56Z
 tags = ["Kollywood", "Movies", "Opinion"]
 blogimport = true 
+url = "2013/11/critique-on-movie-criticism.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

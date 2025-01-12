@@ -4,6 +4,7 @@ date = 2017-06-14T16:22:00Z
 updated = 2017-06-14T16:24:23Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/06/review-of-rknarayanans-guide.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

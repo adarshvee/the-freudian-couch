@@ -4,6 +4,7 @@ date = 2014-06-21T11:25:00Z
 updated = 2014-06-22T10:25:30Z
 tags = ["Philosophy", "Opinion"]
 blogimport = true 
+url = "2014/06/on-freedom-and-semantics.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

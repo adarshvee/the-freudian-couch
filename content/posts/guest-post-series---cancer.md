@@ -3,7 +3,8 @@ title = "Guest post series - Cancer"
 date = 2015-06-03T13:39:00Z
 updated = 2015-06-03T13:39:07Z
 tags = ["Guest posts", "Story", "Short Story"]
-blogimport = true 
+blogimport = true
+url = "2015/06/guest-post-series-cancer.html" 
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

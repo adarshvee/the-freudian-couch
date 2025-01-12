@@ -4,6 +4,7 @@ date = 2015-09-18T14:14:00Z
 updated = 2015-09-18T14:14:45Z
 tags = ["Moral stories", "Story", "Short Story"]
 blogimport = true 
+url = "2015/09/modern-moral-stories-hare-and-tortoise.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

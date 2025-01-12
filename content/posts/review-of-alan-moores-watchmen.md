@@ -4,6 +4,7 @@ date = 2017-07-24T22:54:00Z
 updated = 2017-07-24T23:07:49Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/07/review-of-alan-moores-watchmen.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

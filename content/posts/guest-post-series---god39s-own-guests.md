@@ -1,9 +1,10 @@
 +++
-title = "Guest Post Series - God&#39;s own guests"
+title = "Guest Post Series - God's own guests"
 date = 2014-10-16T12:08:00Z
 updated = 2014-10-17T02:12:52Z
 tags = ["Guest posts"]
 blogimport = true 
+url = "2014/10/guest-post-series-gods-own-guests.html" 
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

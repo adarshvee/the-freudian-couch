@@ -4,6 +4,7 @@ date = 2017-05-14T23:15:00Z
 updated = 2017-05-14T23:28:36Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/05/review-of-scott-fitzgeralds-this-side.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

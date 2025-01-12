@@ -4,6 +4,7 @@ date = 2013-09-07T13:07:00Z
 updated = 2013-09-07T13:07:20Z
 tags = ["Current Affairs", "Faking News", "sarcasm"]
 blogimport = true 
+url = "2013/09/girl-arrested-for-checking-in-from-29.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

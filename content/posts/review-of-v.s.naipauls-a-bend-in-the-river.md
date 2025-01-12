@@ -4,6 +4,7 @@ date = 2017-04-08T23:19:00Z
 updated = 2017-04-08T23:19:09Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/04/review-of-vsnaipauls-bend-in-river.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

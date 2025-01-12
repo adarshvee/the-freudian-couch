@@ -4,6 +4,7 @@ date = 2012-04-22T13:16:00Z
 updated = 2012-11-04T09:55:16Z
 tags = ["Liberalism", "Current Affairs", "Anna Hazare", "Opinion", "Anarchy"]
 blogimport = true 
+url = "2012/04/gen-next-are-we-heading-in-right.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

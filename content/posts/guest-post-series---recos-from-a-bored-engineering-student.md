@@ -4,6 +4,7 @@ date = 2014-11-02T10:29:00Z
 updated = 2014-11-02T10:29:33Z
 tags = ["Guest posts", "Movies", "Books", "My 10", "Review"]
 blogimport = true 
+url = "2014/11/guest-post-series-recos-from-bored.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

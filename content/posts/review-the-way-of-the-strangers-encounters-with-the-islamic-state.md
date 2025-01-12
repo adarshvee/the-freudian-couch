@@ -4,6 +4,7 @@ date = 2017-06-28T18:23:00Z
 updated = 2017-06-29T17:38:05Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/06/review-way-of-strangers-encounters-with.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

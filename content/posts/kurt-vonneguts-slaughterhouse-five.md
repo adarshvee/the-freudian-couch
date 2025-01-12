@@ -4,6 +4,7 @@ date = 2024-12-08T08:07:00Z
 updated = 2024-12-22T07:44:11Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2024/12/kurt-vonneguts-slaughterhouse-five.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

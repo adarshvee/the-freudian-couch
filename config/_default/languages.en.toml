@@ -11,7 +11,8 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [params.author]
-name = "The Freudian Couch"
+name = "Adarsh Vijayaraghavan"
 links = [
-  { linkedin = "https://www.linkedin.com/in/adarsh-vijayaraghavan-25836219/" }
+  { linkedin = "https://www.linkedin.com/in/adarsh-vijayaraghavan-25836219/" },
+  { goodreads = "https://www.goodreads.com/user/show/4391307-adarsh" }
 ]

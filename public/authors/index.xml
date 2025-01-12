@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on The Freudian Couch</title>
-    <link>http://localhost:57902/authors/</link>
+    <link>http://localhost:60163/authors/</link>
     <description>Recent content in Authors on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 The Freudian Couch</copyright>
-    <atom:link href="http://localhost:57902/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
+    <atom:link href="http://localhost:60163/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

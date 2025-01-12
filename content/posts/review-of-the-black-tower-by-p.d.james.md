@@ -4,6 +4,7 @@ date = 2017-02-03T14:55:00Z
 updated = 2017-02-03T14:56:16Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/02/review-of-black-tower-by-pdjames.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"
