@@ -4,6 +4,7 @@ date = 2024-12-18T10:48:00Z
 updated = 2024-12-18T10:48:54Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2024/12/fredrik-backmans-anxious-people.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

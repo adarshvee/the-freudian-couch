@@ -4,6 +4,7 @@ date = 2014-05-10T04:56:00Z
 updated = 2014-05-10T04:56:17Z
 tags = ["Philosophy"]
 blogimport = true 
+url = "2014/05/science-morality-and-sam-harris.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -3,7 +3,8 @@ title = "Oiling Happiness"
 date = 2014-08-29T01:38:00Z
 updated = 2014-08-29T01:38:24Z
 tags = ["Philosophy", "Opinion"]
-blogimport = true 
+blogimport = true
+url = "2014/08/oiling-happiness.html" 
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

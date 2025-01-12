@@ -4,6 +4,7 @@ date = 2017-06-10T23:58:00Z
 updated = 2017-06-10T23:58:36Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/06/review-of-liu-cixins-three-body-problem.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

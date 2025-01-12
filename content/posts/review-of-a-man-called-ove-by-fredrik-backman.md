@@ -4,6 +4,7 @@ date = 2022-05-26T15:00:00Z
 updated = 2024-12-16T18:40:09Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2022/05/review-of-man-called-ove-by-fredrik.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -4,6 +4,7 @@ date = 2017-06-19T00:29:00Z
 updated = 2017-06-19T10:51:28Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/06/review-of-arundhathi-roys-ministry-of.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

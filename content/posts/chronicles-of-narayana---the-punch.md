@@ -4,6 +4,7 @@ date = 2017-02-18T02:45:00Z
 updated = 2017-06-12T19:43:09Z
 tags = ["Chronicles Of Narayana", "Story", "Short Story"]
 blogimport = true 
+url = "2017/02/chronicles-of-narayana-punch.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

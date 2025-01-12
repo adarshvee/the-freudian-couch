@@ -4,6 +4,7 @@ date = 2013-06-24T13:01:00Z
 updated = 2013-08-03T09:56:58Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2013/06/and-mountains-echoed-review.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

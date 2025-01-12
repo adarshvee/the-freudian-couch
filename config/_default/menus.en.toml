@@ -3,21 +3,33 @@ none = "none"
 
 [[main]]
 name = "Book Reviews"
-pageRef = "books-reviews"
-identifier = "7r2dwlhV1R"
-weight = 9999
+pre = "lightbulb"
+pageRef = "tags/books"
+weight = 1
 
 [[main]]
 name = "Short stories"
-pageRef = "stories"
-identifier = "ob2Tajv3g4"
-weight = 9999
+pre = "comment"
+pageRef = "tags/short-story"
+weight = 2
 
 [[main]]
-name = "Personal"
-pageRef = "personal"
-identifier = "nbZNWoTdnr"
-weight = 9999
+name = "Tag cloud"
+pre = "soundcloud"
+pageRef = "tags"
+weight = 3
+
+[[main]]
+name = "All posts"
+pre = "sun"
+pageRef = "posts"
+weight = 4
+
+[[main]]
+name = "Programming"
+pre = "dev"
+pageRef = "a"
+weight = 5
 
 [[footer]]
 none = "none"

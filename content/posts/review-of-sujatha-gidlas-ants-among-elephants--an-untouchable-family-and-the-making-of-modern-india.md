@@ -4,6 +4,7 @@ date = 2017-09-02T11:30:00Z
 updated = 2017-09-02T11:30:11Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/09/review-of-sujatha-gidlas-ants-among.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

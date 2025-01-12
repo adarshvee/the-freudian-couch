@@ -4,6 +4,7 @@ date = 2014-10-07T09:40:00Z
 updated = 2014-10-08T07:10:46Z
 tags = ["Guest posts", "Poetry"]
 blogimport = true 
+url = "2014/10/guest-post-series-poison-ivy.html" 
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

@@ -4,6 +4,7 @@ date = 2014-08-06T12:11:00Z
 updated = 2014-08-06T14:29:52Z
 tags = ["Story", "Short Story"]
 blogimport = true 
+url = "2014/08/money-where-mouth-is.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

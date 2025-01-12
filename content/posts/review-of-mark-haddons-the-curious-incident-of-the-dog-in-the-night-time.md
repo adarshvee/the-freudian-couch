@@ -4,6 +4,7 @@ date = 2017-04-27T21:38:00Z
 updated = 2017-04-27T21:38:33Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/04/review-of-mark-haddons-curious-incident.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

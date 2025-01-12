@@ -4,6 +4,7 @@ date = 2013-07-11T13:27:00Z
 updated = 2013-07-11T13:27:28Z
 tags = ["Movies", "Opinion"]
 blogimport = true 
+url = "2013/07/art-movies-and-philistines.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

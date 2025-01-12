@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgia on The Freudian Couch</title>
-    <link>http://localhost:57902/tags/nostalgia/</link>
+    <link>http://localhost:60163/tags/nostalgia/</link>
     <description>Recent content in Nostalgia on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 The Freudian Couch</copyright>
-    <lastBuildDate>Thu, 23 Oct 2014 10:23:00 +0000</lastBuildDate><atom:link href="http://localhost:57902/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
+    <lastBuildDate>Thu, 23 Oct 2014 10:23:00 +0000</lastBuildDate><atom:link href="http://localhost:60163/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Guest Post Series - On Writing</title>
-      <link>http://localhost:57902/posts/guest-post-series---on-writing/</link>
+      <link>http://localhost:60163/posts/guest-post-series---on-writing/</link>
       <pubDate>Thu, 23 Oct 2014 10:23:00 +0000</pubDate>
       
-      <guid>http://localhost:57902/posts/guest-post-series---on-writing/</guid>
+      <guid>http://localhost:60163/posts/guest-post-series---on-writing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Hindi Test</title>
-      <link>http://localhost:57902/posts/the-hindi-test/</link>
+      <link>http://localhost:60163/posts/the-hindi-test/</link>
       <pubDate>Mon, 01 Oct 2012 14:24:00 +0000</pubDate>
       
-      <guid>http://localhost:57902/posts/the-hindi-test/</guid>
+      <guid>http://localhost:60163/posts/the-hindi-test/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ten Video Games that I grew up with</title>
-      <link>http://localhost:57902/posts/ten-video-games-that-i-grew-up-with/</link>
+      <link>http://localhost:60163/posts/ten-video-games-that-i-grew-up-with/</link>
       <pubDate>Tue, 26 Jun 2012 15:01:00 +0000</pubDate>
       
-      <guid>http://localhost:57902/posts/ten-video-games-that-i-grew-up-with/</guid>
+      <guid>http://localhost:60163/posts/ten-video-games-that-i-grew-up-with/</guid>
       <description></description>
       
     </item>

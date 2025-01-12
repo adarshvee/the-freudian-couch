@@ -4,6 +4,7 @@ date = 2017-01-27T06:29:00Z
 updated = 2017-01-27T06:29:08Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2017/01/review-of-francis-cliffords-drummer-in.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

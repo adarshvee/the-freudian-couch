@@ -4,6 +4,7 @@ date = 2014-07-03T09:28:00Z
 updated = 2014-07-03T09:56:27Z
 tags = ["Faking News"]
 blogimport = true 
+url = "2014/07/man-hospitalized-after-showing-real.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

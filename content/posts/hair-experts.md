@@ -4,6 +4,7 @@ date = 2017-03-11T07:07:00Z
 updated = 2017-03-11T09:29:45Z
 tags = ["Personal"]
 blogimport = true 
+url = "2017/03/hair-experts.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

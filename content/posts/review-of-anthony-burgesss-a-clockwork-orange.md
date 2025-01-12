@@ -4,6 +4,7 @@ date = 2022-07-04T23:53:00Z
 updated = 2022-07-04T23:53:22Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2022/07/review-of-anthony-burgesss-clockwork.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

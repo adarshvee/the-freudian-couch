@@ -4,6 +4,7 @@ date = 2021-12-09T11:00:00Z
 updated = 2021-12-09T16:11:31Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2021/12/review-of-salman-rushdies-quichotte.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

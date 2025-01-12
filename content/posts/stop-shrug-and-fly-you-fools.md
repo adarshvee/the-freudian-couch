@@ -4,6 +4,7 @@ date = 2014-10-26T10:45:00Z
 updated = 2017-07-27T11:46:46Z
 tags = ["Politics", "Justice", "Opinion", "Capitalism"]
 blogimport = true 
+url = "2014/10/stop-shrug-and-fly-you-fools.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

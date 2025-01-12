@@ -4,6 +4,7 @@ date = 2021-12-04T12:35:00Z
 updated = 2021-12-04T13:46:15Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2021/12/review-of-nadine-gordimers-house-gun.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

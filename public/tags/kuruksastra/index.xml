@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kuruksastra on The Freudian Couch</title>
-    <link>http://localhost:57902/tags/kuruksastra/</link>
+    <link>http://localhost:60163/tags/kuruksastra/</link>
     <description>Recent content in Kuruksastra on The Freudian Couch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 The Freudian Couch</copyright>
-    <lastBuildDate>Wed, 14 Mar 2012 15:25:00 +0000</lastBuildDate><atom:link href="http://localhost:57902/tags/kuruksastra/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Adarsh Vijayaraghavan</copyright>
+    <lastBuildDate>Wed, 14 Mar 2012 15:25:00 +0000</lastBuildDate><atom:link href="http://localhost:60163/tags/kuruksastra/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Intruder</title>
-      <link>http://localhost:57902/posts/the-intruder/</link>
+      <link>http://localhost:60163/posts/the-intruder/</link>
       <pubDate>Wed, 14 Mar 2012 15:25:00 +0000</pubDate>
       
-      <guid>http://localhost:57902/posts/the-intruder/</guid>
+      <guid>http://localhost:60163/posts/the-intruder/</guid>
       <description></description>
       
     </item>

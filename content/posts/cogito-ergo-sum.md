@@ -4,6 +4,7 @@ date = 2014-03-29T09:10:00Z
 updated = 2014-03-29T09:10:53Z
 tags = ["Philosophy", "Opinion"]
 blogimport = true 
+url = "2014/03/cogito-ergo-sum.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

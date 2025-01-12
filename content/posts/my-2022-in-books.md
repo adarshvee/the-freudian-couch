@@ -4,6 +4,7 @@ date = 2023-01-03T22:36:00Z
 updated = 2023-01-04T18:57:58Z
 tags = ["Books", "Review"]
 blogimport = true 
+url = "2023/01/my-2022-in-books.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"
