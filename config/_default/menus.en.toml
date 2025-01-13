@@ -34,7 +34,7 @@ weight = 5
 [[main]]
 name = "RSS"
 pre = "rss"
-pageRef = "index.xml"
+url = "http://thefreudiancouch.com/index.xml"
 weight = 6
 
 [[footer]]
