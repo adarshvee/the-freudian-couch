@@ -24,5 +24,5 @@ about words. It’s about glowing lights and small things that are big.&nbsp;</b
 <blockquote class="tr_bq">
 </blockquote>
 <br />
-I Am Messenger is Markus Zusak's fourth of five novels, four of which are overshadowed by the immensely popular <a href="http://adarsh89.blogspot.in/2014/07/the-book-thief-review.html" target="_blank"><span style="color: blue;">Book Thief</span></a>.&nbsp;</div>
+I Am Messenger is Markus Zusak's fourth of five novels, four of which are overshadowed by the immensely popular <a href="http://thefreudiancouch.com/2014/07/the-book-thief-review.html" target="_blank"><span style="color: blue;">Book Thief</span></a>.&nbsp;</div>
 

@@ -18,7 +18,7 @@ url = "2013/03/on-kindness.html"
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-The&nbsp;weather&nbsp;that morning wasn't pleasant. It wasn't uncomfortable either, just unremarkable. As I wheeled out my bike out of my driveway, I wasn't as happy as <a href="http://www.adarsh89.blogspot.in/2012/11/the-social-network.html" target="_blank">this</a>&nbsp;person (yes, I am quite shameless). I wasn't sad too, just indifferent. Brushing a speck of imaginary dirt from my relatively newer shirt, I started my bike and headed towards my office. The first person I came across on the road was staring at my shirt. I immediately looked down. Was something wrong? Perhaps a couple of buttons were undone? Nothing seemed out-of-place. I readjusted my belt with my left hand and continued driving.</div>
+The&nbsp;weather&nbsp;that morning wasn't pleasant. It wasn't uncomfortable either, just unremarkable. As I wheeled out my bike out of my driveway, I wasn't as happy as <a href="http://www.thefreudiancouch.com/2012/11/the-social-network.html" target="_blank">this</a>&nbsp;person (yes, I am quite shameless). I wasn't sad too, just indifferent. Brushing a speck of imaginary dirt from my relatively newer shirt, I started my bike and headed towards my office. The first person I came across on the road was staring at my shirt. I immediately looked down. Was something wrong? Perhaps a couple of buttons were undone? Nothing seemed out-of-place. I readjusted my belt with my left hand and continued driving.</div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
@@ -45,6 +45,6 @@ I turned with admiration at the man who had, without a moment's hesitation, acte
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-As I wheeled around my bike,&nbsp;<span style="text-align: justify;">I wasn't as happy as&nbsp;</span><a href="http://www.adarsh89.blogspot.in/2012/11/the-social-network.html" style="text-align: justify;" target="_blank">this</a><span style="text-align: justify;">&nbsp;person (yes, I am shameless enough to pimp up that link twice). I wasn't sad too, just indifferent.</span>&nbsp;<span style="text-align: justify;">Brushing a speck of (not imaginary) dirt from my relatively newer shirt (where the poor man had leaned) , I started my bike and headed towards my office. Strangely, no one seemed to stare at my shirt anymore.</span></div>
+As I wheeled around my bike,&nbsp;<span style="text-align: justify;">I wasn't as happy as&nbsp;</span><a href="http://www.thefreudiancouch.com/2012/11/the-social-network.html" style="text-align: justify;" target="_blank">this</a><span style="text-align: justify;">&nbsp;person (yes, I am shameless enough to pimp up that link twice). I wasn't sad too, just indifferent.</span>&nbsp;<span style="text-align: justify;">Brushing a speck of (not imaginary) dirt from my relatively newer shirt (where the poor man had leaned) , I started my bike and headed towards my office. Strangely, no one seemed to stare at my shirt anymore.</span></div>
 </div>
 

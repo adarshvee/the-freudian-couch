@@ -16,7 +16,7 @@ Late last week, India's Union Cabinet <a href="http://tech2.in.com/news/science-
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-Just for argument's sake, as I explained my liberty to do so in my previous blog<span style="color: blue;"> <a href="http://www.adarsh89.blogspot.in/2012/08/the-important-of-being-fickle-minded.html" target="_blank"><span style="color: blue;">post</span></a></span> , I am going to consider &nbsp;two sets of queries :</div>
+Just for argument's sake, as I explained my liberty to do so in my previous blog<span style="color: blue;"> <a href="http://www.thefreudiancouch.com/2012/08/the-important-of-being-fickle-minded.html" target="_blank"><span style="color: blue;">post</span></a></span> , I am going to consider &nbsp;two sets of queries :</div>
 <ol style="text-align: left;">
 <li>What if real truth is undesirable? Is&nbsp;suffering, like Nihilists and a few others claim, the real purpose of life? Even otherwise, if there are times in a Man's life when he suffers, is he morally bound to face it, or is it permissible for him to attempt an escape into an alternate reality?</li>
 <li>What if real truth is&nbsp;unpercievable? What if the real truths are beyond us? What if certain things are not meant to be understood? How important is pursuit of knowledge? Are all spheres of knowledge equally important?</li>

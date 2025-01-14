@@ -9,6 +9,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+logo = "icons/logo.png"
 
 [params.author]
 name = "Adarsh Vijayaraghavan"
@@ -16,3 +17,4 @@ links = [
   { linkedin = "https://www.linkedin.com/in/adarsh-vijayaraghavan-25836219/" },
   { goodreads = "https://www.goodreads.com/user/show/4391307-adarsh" }
 ]
+email = "adarshvijayaraghavan@gmail.com"
