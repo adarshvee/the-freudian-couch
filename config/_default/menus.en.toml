@@ -28,7 +28,7 @@ weight = 4
 [[main]]
 name = "Programming"
 pre = "dev"
-pageRef = "a"
+pageRef = "tags/dev"
 weight = 5
 
 [[main]]
