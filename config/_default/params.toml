@@ -3,7 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
-replyByEmail = false
+replyByEmail = true
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
@@ -54,6 +54,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
+sharingLinks = ["linkedin", "bluesky", "facebook", "whatsapp", "twitter"]
 
 [list]
 showHero = false

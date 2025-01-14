@@ -66,6 +66,6 @@ Since I happen to be conceited, selfish and self-centered, I won't be really qui
 9) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-from-hell.html" target="_blank"><span style="color: blue;">From Hell</span></a> by Arun Prasad<br />
 10) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-on-writing.html" target="_blank"><span style="color: blue;">On Writing</span></a> by Srinivas<br />
 11) <a href="http://adarsh89.blogspot.com/2014/11/guest-post-series-recos-from-bored.html" target="_blank"><span style="color: blue;">Recos by a bored Engineering student</span></a> by Pavithran</div>
-12) <a href="http://adarsh89.blogspot.in/2015/06/guest-post-series-cancer.html" target="_blank"><span style="color: blue;">Cancer</span></a> by Vaidhyanathan M<br />
+12) <a href="http://thefreudiancouch.com/2015/06/guest-post-series-cancer.html" target="_blank"><span style="color: blue;">Cancer</span></a> by Vaidhyanathan M<br />
 <br /></div>
 

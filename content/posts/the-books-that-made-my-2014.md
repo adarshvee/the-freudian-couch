@@ -23,7 +23,7 @@ Throughout the latter part year, I had been of the impression that I was reading
 <div style="text-align: justify;">
 <b><br /></b></div>
 <div style="text-align: justify;">
-<b>9) The Book Thief by Markus Zusak</b> : Previously reviewed in my blog&nbsp;<a href="http://adarsh89.blogspot.in/2014/07/the-book-thief-review.html" target="_blank"><span style="color: blue;">here</span></a>.</div>
+<b>9) The Book Thief by Markus Zusak</b> : Previously reviewed in my blog&nbsp;<a href="http://thefreudiancouch.com/2014/07/the-book-thief-review.html" target="_blank"><span style="color: blue;">here</span></a>.</div>
 </div>
 <div>
 <div style="text-align: justify;">
@@ -76,7 +76,7 @@ Throughout the latter part year, I had been of the impression that I was reading
 <div>
 <b><br /></b></div>
 <div>
-<b>2) The Illicit Happiness of Other People by Manu Joseph</b> : Reviewed on my blog <a href="http://adarsh89.blogspot.in/2014/09/the-illicit-happiness-of-other-people.html" target="_blank"><span style="color: blue;">here</span></a>.<br />
+<b>2) The Illicit Happiness of Other People by Manu Joseph</b> : Reviewed on my blog <a href="http://thefreudiancouch.com/2014/09/the-illicit-happiness-of-other-people.html" target="_blank"><span style="color: blue;">here</span></a>.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYnz2PANhXxFawTOFiaifuQWiFVTr2pvbbIv8CGysUEBYb2-3eYD2fOca1Bp4FacVMcCUwCVPUWMyyRVApWLjmbtj0lnQyBtrtVASp0RxEOebfvpw9vYc7-c-m8vqiZIuQdphWvenHDgve/s1600/Illicit+Happiness.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYnz2PANhXxFawTOFiaifuQWiFVTr2pvbbIv8CGysUEBYb2-3eYD2fOca1Bp4FacVMcCUwCVPUWMyyRVApWLjmbtj0lnQyBtrtVASp0RxEOebfvpw9vYc7-c-m8vqiZIuQdphWvenHDgve/s1600/Illicit+Happiness.jpg" height="320" width="199" /></a></div>
