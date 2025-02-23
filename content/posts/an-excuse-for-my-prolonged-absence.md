@@ -4,7 +4,7 @@ date = 2010-12-04T05:13:00Z
 updated = 2012-11-04T09:52:05Z
 tags = ["Blogging", "Personal"]
 blogimport = true 
-url = "22010/12/excuse-for-my-prolonged-absence.html"
+url = "2010/12/excuse-for-my-prolonged-absence.html"
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"
