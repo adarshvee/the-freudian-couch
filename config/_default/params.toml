@@ -55,6 +55,7 @@ showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
 sharingLinks = ["linkedin", "bluesky", "facebook", "whatsapp", "twitter"]
+showComments = true
 
 [list]
 showHero = false
