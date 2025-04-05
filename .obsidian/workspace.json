@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The Russia House/index.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "default"
             }
           }
         ]
@@ -170,6 +170,11 @@
   },
   "active": "76e46b294101fb42",
   "lastOpenFiles": [
+    "layouts/partials/comments.html",
+    "layouts/partials/comments.htmls",
+    "layouts/partials",
+    "static/favicon-16x16.png",
+    "content/posts/The Russia House/index.md",
     "public/tags/espionage-thriller/index.xml",
     "public/tags/espionage-thriller/page/1/index.html",
     "public/tags/espionage-thriller/page/1",
@@ -178,9 +183,6 @@
     "public/tags/espionage-thriller",
     "public/tags/espionage-/index.xml",
     "public/tags/espionage-/page/1/index.html",
-    "public/tags/espionage-/page/1",
-    "public/tags/espionage-/page",
-    "public/tags/espionage-/index.html",
     "public/2025/04/russia-house-le-carre/featuredSmall_hu13821237227550166388.jpeg",
     "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu13821237227550166388.jpeg",
     "public/2025/04/russia-house-le-carre/featuredSmall_hu1915994878363995115.jpeg",
@@ -190,9 +192,7 @@
     "public/2025/04/russia-house-le-carre/featuredSmall_hu4610926550419063427.jpeg",
     "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu4610926550419063427.jpeg",
     "public/2025/04/russia-house-le-carre/featuredSmall_hu6406675026634131878.jpeg",
-    "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu6406675026634131878.jpeg",
     "content/posts/wool-silo-1-hugh-howey/index.md",
-    "content/posts/The Russia House/index.md",
     "content/posts/daughter-of-fortune-allende/index.md",
     "content/posts/review-of-arthur-millers-death-of-a-salesman.md"
   ]

@@ -38,6 +38,10 @@ googleAnalytics = "UA-4446290-9"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[services]
+  [services.disqus]
+    shortname = 'www-thefreudiancouch-com'
+
 [related]
   threshold = 0
   toLower = false
