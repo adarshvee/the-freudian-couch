@@ -1,7 +1,7 @@
 +++
 title = "The Remains of the Day by Kazuo Ishiguro"
 url = "2025/04/remains-of-day-kazuo-ishiguro.html" 
-date = 2025-04-09
+date = 2025-04-11
 tags = ["Books", "Review"]
 +++
 
