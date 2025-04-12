@@ -1,7 +1,7 @@
 +++
 title = "Review of The Russia House by John le Carr&eacute;"
 url = "2025/04/russia-house-le-carre.html" 
-date = 2025-03-05
+date = 2025-04-05
 tags = ["Books", "Review"]
 +++
 
