@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/flowers-for-algernon/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default"
+              "title": "index"
             }
           }
         ]
@@ -165,36 +165,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
     }
   },
   "active": "76e46b294101fb42",
   "lastOpenFiles": [
-    "public/2025/04/russia-house-le-carre/featuredSmall_hu6898664631244118290.jpeg",
-    "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu6898664631244118290.jpeg",
-    "public/2025/04/russia-house-le-carre/featuredSmall_hu17570932759416612149.jpeg",
-    "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu17570932759416612149.jpeg",
-    "public/2025/04/russia-house-le-carre/featuredSmall_hu508452793048558595.jpeg",
-    "public/2025/04/russia-house-le-carre/featuredSmall_hu13341337346716696502.jpeg",
-    "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu508452793048558595.jpeg",
-    "public/2025/04/russia-house-le-carre/featuredSmall_hu7275041901829720895.jpeg",
-    "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu7275041901829720895.jpeg",
-    "resources/_gen/images/2025/04/russia-house-le-carre/featuredSmall_hu13341337346716696502.jpeg",
-    "public/2025/04/russia-house-le-carre/featuredSmall_hu11282351852500984442.jpeg",
-    "content/posts/The Russia House/featured.jpg.sb-6c9fc7e7-73HdVL",
-    "archetypes/default.md",
-    "layouts/partials/comments.html",
-    "layouts/partials/comments.htmls",
-    "layouts/partials",
-    "content/posts/The Russia House/index.md",
-    "public/tags/espionage-thriller/index.xml",
-    "public/tags/espionage-thriller/page/1/index.html",
-    "public/tags/espionage-thriller/page/1",
-    "public/tags/espionage-thriller/page",
-    "public/tags/espionage-thriller/index.html",
-    "public/tags/espionage-thriller",
-    "content/posts/wool-silo-1-hugh-howey/index.md",
+    "public/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu6803444219103194071.jpg",
+    "resources/_gen/images/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu6803444219103194071.jpg",
+    "public/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu6395082552649021107.jpg",
+    "resources/_gen/images/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu6395082552649021107.jpg",
+    "public/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu10822503875934097314.jpg",
+    "resources/_gen/images/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu10822503875934097314.jpg",
+    "public/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu9978147767141321067.jpg",
+    "resources/_gen/images/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu9978147767141321067.jpg",
+    "public/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu5708018422114115662.jpg",
+    "resources/_gen/images/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall_hu5708018422114115662.jpg",
+    "public/2025/08/flowers-for-algernon-daniel-keyes/featuredSmall.jpg",
     "content/posts/daughter-of-fortune-allende/index.md",
+    "content/posts/flowers-for-algernon/index.md",
+    "resources/_gen/images/2025/08/flowers-for-algernon-daniel-keyes",
+    "resources/_gen/images/2025/08",
+    "public/2025/08/flowers-for-algernon-daniel-keyes",
+    "public/posts/page/12/index.html",
+    "public/posts/page/12",
+    "public/2025/08/flowers-for-algernon-daniel-keyes.html",
+    "public/2025/08/flowers-foalgernon-daniel-keyes.html",
+    "public/2025/08/rflowers-algernon-daniel-keyes.html",
+    "public/2025/08/rflowers-algernon-daniel.html",
+    "public/2025/08/rflowers-alge.html",
+    "content/posts/the_vegetarian/index.md",
+    "content/posts/The Russia House/index.md",
+    "content/posts/The Blind Assasin/index.md",
+    "content/posts/Remains_Of_Day/index.md",
+    "archetypes/default.md",
+    "content/posts/wool-silo-1-hugh-howey/index.md",
     "content/posts/review-of-arthur-millers-death-of-a-salesman.md"
   ]
 }
