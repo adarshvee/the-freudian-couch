@@ -1,5 +1,5 @@
 +++
-title = "The Vegetarian by Han King"
+title = "The Vegetarian by Han Kang"
 url = "2025/06/vegetarian-han-kang.html" 
 date = 2025-06-18
 tags = ["Books", "Review"]
