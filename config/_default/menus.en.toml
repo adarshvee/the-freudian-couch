@@ -2,13 +2,13 @@
 none = "none"
 
 [[main]]
-name = "Reviews"
+name = "Book Reviews"
 pre = "book"
 pageRef = "tags/books"
 weight = 1
 
 [[main]]
-name = "Stories"
+name = "Fiction"
 pre = "writing"
 pageRef = "tags/short-story"
 weight = 2
@@ -20,22 +20,16 @@ pageRef = "tags"
 weight = 3
 
 [[main]]
-name = "All posts"
-pre = "sun"
-pageRef = "posts"
+name = "Personal"
+pre = "personal"
+pageRef = "tags/personal"
 weight = 4
-
-[[main]]
-name = "Programming"
-pre = "dev"
-pageRef = "tags/dev"
-weight = 5
 
 [[main]]
 name = "RSS"
 pre = "rss"
 url = "http://thefreudiancouch.com/index.xml"
-weight = 6
+weight = 5
 
 [[footer]]
 none = "none"
