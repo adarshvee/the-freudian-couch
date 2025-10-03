@@ -14,7 +14,9 @@ logo = "icons/logo.png"
 [params.author]
 name = "Adarsh Vijayaraghavan"
 links = [
-  { linkedin = "https://www.linkedin.com/in/adarsh-vijayaraghavan-25836219/" },
-  { goodreads = "https://www.goodreads.com/user/show/4391307-adarsh" }
+  { facebook = "https://www.facebook.com/profile.php?id=61580810498423" },
+  { Twitter = "https://x.com/CouchFreudian" },
+  { Instagram = "https://www.instagram.com/thefreudiancouch/"}
+  
 ]
-email = "adarshvijayaraghavan@gmail.com"
+email = "thefreudiancouch@gmail.com"

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/mother-tongue/index.md",
+                "file": "themes/blowfish/exampleSite/content/samples/icons/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hugo.toml",
+                "query": "linkedin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,6 +189,7 @@
   },
   "active": "2cec33ab254f6a05",
   "lastOpenFiles": [
+    "content/posts/mother-tongue/index.md",
     "public/2025/10/mother-tongue-other-tongues/featuredSmall_hu14961472545258224665.png",
     "resources/_gen/images/2025/10/mother-tongue-other-tongues/featuredSmall_hu14961472545258224665.png",
     "public/2025/10/mother-tongue-other-tongues/featuredSmall_hu14420514284951795908.png",
@@ -197,12 +199,10 @@
     "public/2025/10/mother-tongue-other-tongues/featuredSmall_hu6254274695929798465.png",
     "resources/_gen/images/2025/10/mother-tongue-other-tongues/featuredSmall_hu6254274695929798465.png",
     "content/posts/migrations-charlotte-mcconaghy/index.md",
-    "content/posts/mother-tongue/index.md",
     "public/2025/10/mother-tongue-other-tongues/featuredSmall_hu6327304361302169516.png",
     "resources/_gen/images/2025/10/mother-tongue-other-tongues/featuredSmall_hu6327304361302169516.png",
     "resources/_gen/images/2025/10/mother-tongue-other-tongues",
     "resources/_gen/images/2025/10",
-    "public/2025/10/mother-tongue-other-tongues/featuredSmall.png",
     "public/2025/10/mother-tongue-other-tongues",
     "Untitled.base",
     "themes/blowfish/exampleSite/content/docs/installation/index.md",
