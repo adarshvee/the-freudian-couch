@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linkedin",
+                "query": "Twitter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2cec33ab254f6a05",
+  "active": "10e9a17a987fe1e3",
   "lastOpenFiles": [
     "content/posts/mother-tongue/index.md",
     "public/2025/10/mother-tongue-other-tongues/featuredSmall_hu14961472545258224665.png",
