@@ -15,7 +15,8 @@ logo = "icons/logo.png"
 name = "The Freudian Couch"
 links = [
   { facebook = "https://www.facebook.com/profile.php?id=61580810498423" },
-  { Twitter = "https://x.com/CouchFreudian" },
-  { Instagram = "https://www.instagram.com/thefreudiancouch/"}
+  { x-twitter = "https://x.com/CouchFreudian" },
+  { instagram = "https://www.instagram.com/thefreudiancouch/"},
+  { bluesky = "https://bsky.app/profile/thefreudiancouch.bsky.social"}
 ]
 email = "thefreudiancouch@gmail.com"
