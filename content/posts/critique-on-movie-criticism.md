@@ -2,7 +2,7 @@
 title = "Critique on Movie Criticism"
 date = 2013-11-08T06:13:00Z
 updated = 2013-11-08T06:13:56Z
-tags = ["Kollywood", "Movies", "Opinion"]
+tags = ["Movies"]
 blogimport = true 
 url = "2013/11/critique-on-movie-criticism.html"
 [author]

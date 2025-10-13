@@ -2,7 +2,7 @@
 title = "Review: The Way of the Strangers: Encounters with the Islamic State"
 date = 2017-06-28T18:23:00Z
 updated = 2017-06-29T17:38:05Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction"]
 blogimport = true 
 url = "2017/06/review-way-of-strangers-encounters-with.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Review of The Black Tower by P.D.James"
 date = 2017-02-03T14:55:00Z
 updated = 2017-02-03T14:56:16Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Thriller"]
 blogimport = true 
 url = "2017/02/review-of-black-tower-by-pdjames.html"
 [author]

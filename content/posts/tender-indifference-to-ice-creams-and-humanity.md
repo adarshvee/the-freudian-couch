@@ -2,7 +2,7 @@
 title = "Tender indifference to ice creams and humanity"
 date = 2014-11-12T09:57:00Z
 updated = 2014-11-12T10:41:59Z
-tags = ["Personal"]
+tags = ["Personal Essay"]
 blogimport = true 
 url = "2014/11/tender-indifference-to-ice-creams-and.html"
 [author]

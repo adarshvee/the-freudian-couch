@@ -2,7 +2,7 @@
 title = "Cogito Ergo Sum"
 date = 2014-03-29T09:10:00Z
 updated = 2014-03-29T09:10:53Z
-tags = ["Philosophy", "Opinion"]
+tags = ["Personal Essay"]
 blogimport = true 
 url = "2014/03/cogito-ergo-sum.html"
 [author]

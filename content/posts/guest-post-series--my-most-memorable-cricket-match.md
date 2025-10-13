@@ -2,7 +2,7 @@
 title = "Guest Post Series : My Most Memorable Cricket Match"
 date = 2014-09-24T10:56:00Z
 updated = 2014-09-24T11:03:44Z
-tags = ["Guest posts", "Sastra"]
+tags = ["Guest posts"]
 blogimport = true 
 url = "2014/09/guest-post-series-my-most-memorable.html"
 [author]

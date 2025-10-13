@@ -2,7 +2,7 @@
 title = "Money Where the Mouth Is"
 date = 2014-08-06T12:11:00Z
 updated = 2014-08-06T14:29:52Z
-tags = ["Story", "Short Story"]
+tags = ["Short Story", "Dark"]
 blogimport = true 
 url = "2014/08/money-where-mouth-is.html"
 [author]

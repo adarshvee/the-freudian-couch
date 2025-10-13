@@ -2,7 +2,7 @@
 title = "The Vegetarian by Han Kang"
 url = "2025/06/vegetarian-han-kang.html" 
 date = 2025-06-18
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Dark"]
 +++
 
 > It’s your body, you can treat it however you please. The only area where you’re free to do just as you like. And even that doesn’t turn out how you wanted.

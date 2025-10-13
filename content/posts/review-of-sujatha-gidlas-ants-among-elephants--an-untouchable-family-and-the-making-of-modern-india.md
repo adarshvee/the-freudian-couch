@@ -2,7 +2,7 @@
 title = "Review of Sujatha Gidla's Ants Among Elephants : An Untouchable Family and the Making of Modern India"
 date = 2017-09-02T11:30:00Z
 updated = 2017-09-02T11:30:11Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction", "Indian Literature"]
 blogimport = true 
 url = "2017/09/review-of-sujatha-gidlas-ants-among.html"
 [author]

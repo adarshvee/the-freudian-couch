@@ -2,7 +2,7 @@
 title = "The Prodigy"
 date = 2017-08-12T23:39:00Z
 updated = 2017-08-12T23:39:54Z
-tags = ["Story", "Short Story"]
+tags = ["Short Story", "Childhood"]
 blogimport = true 
 url = "2017/08/the-prodigy.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Oiling Happiness"
 date = 2014-08-29T01:38:00Z
 updated = 2014-08-29T01:38:24Z
-tags = ["Philosophy", "Opinion"]
+tags = ["Books", "Personal Essay"]
 blogimport = true
 url = "2014/08/oiling-happiness.html" 
 [author]

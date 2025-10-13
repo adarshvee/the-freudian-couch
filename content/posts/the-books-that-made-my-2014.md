@@ -2,7 +2,7 @@
 title = "The Books That Made My 2014"
 date = 2014-12-31T12:57:00Z
 updated = 2014-12-31T12:57:31Z
-tags = ["Books", "My 10", "Review"]
+tags = ["Books", "Lists", "Book Review"]
 blogimport = true 
 url = "2014/12/the-books-that-made-my-2014.html"
 [author]

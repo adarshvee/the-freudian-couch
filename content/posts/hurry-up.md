@@ -2,7 +2,7 @@
 title = "Hurry up!"
 date = 2016-12-24T05:17:00Z
 updated = 2016-12-24T05:17:04Z
-tags = ["Opinion", "Capitalism", "Road Safety"]
+tags = ["Personal Essay", "Road Safety"]
 blogimport = true 
 url = "2016/12/hurry-up.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Libraries and refugees"
 url = "2025/10/libraries-and-refugees.html" 
 date = 2025-10-05
-tags = ["Personal", "Libraries", "Books", "Nostalgia"]
+tags = ["Personal Essay", "Libraries", "Books", "Childhood"]
 +++
 
 I remember my school library visits when I was about 12 years old. The book shelves were inviting and packed with books that I wanted to get hold of. However, these book shelves were usually locked. We had one *"library period"* every week. My friends and I would line up and walk to the library, and find our seats around a humungous table. Each of us would be handed a random magazine or a newspaper. Instead of reading, most of us played made-up games with the kids sitting across the table.  If our librarian felt generous, he would sometimes allow us to check out a book. But he would randomly pick some books and distribute them to us. I usually ended up with a non-fiction on a topic I had zero interest in. I would return the unopened book a week later. The library had a good collection of subject books too. As a 14-year old, I figured out that displaying an exaggerated deference to my Librarian would allow me the privilege of checking out a few subject books. I did not hesitate even a tiny bit to bend to authority if it offered an easy way out.

@@ -2,7 +2,7 @@
 title = "Gen Next - Are we heading in the right direction?"
 date = 2012-04-22T13:16:00Z
 updated = 2012-11-04T09:55:16Z
-tags = ["Liberalism", "Current Affairs", "Anna Hazare", "Opinion", "Anarchy"]
+tags = ["Contemporary"]
 blogimport = true 
 url = "2012/04/gen-next-are-we-heading-in-right.html"
 [author]

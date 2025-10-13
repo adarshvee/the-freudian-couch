@@ -2,7 +2,7 @@
 title = "Ten Video Games that I grew up with"
 date = 2012-06-26T15:01:00Z
 updated = 2012-11-04T10:14:40Z
-tags = ["Video Games", "Nostalgia", "My 10"]
+tags = ["Childhood", "Lists"]
 blogimport = true 
 url = "2012/06/ten-video-games-that-i-grew-up-with.html"
 [author]

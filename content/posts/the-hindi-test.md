@@ -2,7 +2,7 @@
 title = "The Hindi Test"
 date = 2012-10-01T14:24:00Z
 updated = 2012-11-04T10:17:37Z
-tags = ["Nostalgia", "Personal"]
+tags = ["Childhood", "Personal Essay", "Humor"]
 blogimport = true 
 url = "2012/10/the-hindi-test.html"
 [author]

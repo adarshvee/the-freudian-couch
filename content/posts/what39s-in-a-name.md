@@ -2,7 +2,7 @@
 title = "What's in a name?"
 date = 2014-03-31T14:56:00Z
 updated = 2014-09-25T09:36:00Z
-tags = ["Personal"]
+tags = ["Personal Essay", "Humor", "Childhood"]
 blogimport = true 
 url = "2014/03/what-in-name.html"
 [author]

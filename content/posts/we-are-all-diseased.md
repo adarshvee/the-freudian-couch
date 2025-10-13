@@ -2,7 +2,7 @@
 title = "We Are All Diseased"
 date = 2014-07-27T12:17:00Z
 updated = 2014-07-27T13:01:30Z
-tags = ["Philosophy", "Opinion", "Rahul Dravid"]
+tags = ["Personal Essay", "Meta"]
 blogimport = true 
 url = "2014/07/we-are-all-diseased.html"
 [author]

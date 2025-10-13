@@ -2,7 +2,7 @@
 title = "On Freedom and semantics"
 date = 2014-06-21T11:25:00Z
 updated = 2014-06-22T10:25:30Z
-tags = ["Philosophy", "Opinion"]
+tags = ["Personal Essay"]
 blogimport = true 
 url = "2014/06/on-freedom-and-semantics.html"
 [author]

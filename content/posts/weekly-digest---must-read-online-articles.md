@@ -2,7 +2,7 @@
 title = "Weekly Digest - Must read online articles"
 date = 2013-08-25T14:42:00Z
 updated = 2013-08-25T14:42:09Z
-tags = ["Weekly Compilation of interesting reads"]
+tags = ["Curation"]
 blogimport = true 
 url = "2013/08/weekly-digest-must-read-online-articles.html"
 [author]

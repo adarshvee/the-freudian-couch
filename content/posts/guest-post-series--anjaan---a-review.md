@@ -2,7 +2,7 @@
 title = "Guest Post Series : Anjaan - A Review"
 date = 2014-09-22T15:00:00Z
 updated = 2014-09-22T15:00:14Z
-tags = ["Guest posts", "Movies", "Review"]
+tags = ["Guest posts", "Movies"]
 blogimport = true 
 url = "2014/09/guest-post-series-anjaan-review.html"
 [author]

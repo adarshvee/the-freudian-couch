@@ -2,7 +2,7 @@
 title = "Review of Pearl S.Buck's Kinfolk"
 date = 2021-12-05T23:05:00Z
 updated = 2021-12-30T10:50:50Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Coming of Age"]
 blogimport = true 
 url = "2021/12/review-of-pearl-sbucks-kinfolk.html"
 [author]

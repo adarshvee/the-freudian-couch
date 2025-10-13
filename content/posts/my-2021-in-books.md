@@ -2,7 +2,7 @@
 title = "My 2021 in books"
 date = 2021-12-30T23:16:00Z
 updated = 2021-12-31T08:21:07Z
-tags = ["Books", "year-in-review"]
+tags = ["Books", "Lists", "Book Review"]
 blogimport = true 
 url = "2021/12/my-2021-in-books.html"
 [author]

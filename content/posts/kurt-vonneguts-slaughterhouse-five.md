@@ -2,7 +2,7 @@
 title = "Kurt Vonnegut's Slaughterhouse-Five"
 date = 2024-12-08T08:07:00Z
 updated = 2024-12-22T07:44:11Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Classics", "War", "Science Fiction"]
 blogimport = true 
 url = "2024/12/kurt-vonneguts-slaughterhouse-five.html"
 [author]

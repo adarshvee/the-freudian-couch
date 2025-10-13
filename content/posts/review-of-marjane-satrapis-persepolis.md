@@ -2,7 +2,7 @@
 title = "Review of Marjane Satrapi's Persepolis"
 date = 2021-12-07T21:46:00Z
 updated = 2021-12-08T08:29:20Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction", "Graphic Novels"]
 blogimport = true 
 url = "2021/12/review-of-marjane-satrapis-persepolis.html"
 [author]

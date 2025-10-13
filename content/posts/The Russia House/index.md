@@ -2,7 +2,7 @@
 title = "Review of The Russia House by John le Carr&eacute;"
 url = "2025/04/russia-house-le-carre.html" 
 date = 2025-04-05
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Thriller"]
 +++
 
 > "Today one must think like a hero to behave like a merely decent human being."

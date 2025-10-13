@@ -2,7 +2,7 @@
 title = "Review of Arthur Miller's Death of a Salesman"
 date = 2022-01-03T21:01:00Z
 updated = 2022-01-03T21:01:51Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Classics", "Play"]
 blogimport = true 
 url = "2022/01/review-of-arthur-millers-death-of.html"
 [author]

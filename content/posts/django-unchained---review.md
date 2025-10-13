@@ -2,7 +2,7 @@
 title = "Django Unchained - Review"
 date = 2013-02-01T14:49:00Z
 updated = 2013-02-02T06:55:14Z
-tags = ["Movies", "Review"]
+tags = ["Movies"]
 blogimport = true 
 url = "2013/02/django-unchained-review.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Guest Post Series - Recos from a bored Engineering student"
 date = 2014-11-02T10:29:00Z
 updated = 2014-11-02T10:29:33Z
-tags = ["Guest posts", "Movies", "Books", "My 10", "Review"]
+tags = ["Guest posts", "Movies", "Books", "Lists"]
 blogimport = true 
 url = "2014/11/guest-post-series-recos-from-bored.html"
 [author]

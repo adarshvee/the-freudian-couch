@@ -2,7 +2,7 @@
 title = "Entropy and Orderliness"
 date = 2013-12-23T10:06:00Z
 updated = 2013-12-23T13:48:42Z
-tags = ["Opinion", "Personal"]
+tags = ["Personal Essay", "Demotivation"]
 blogimport = true 
 url = "2013/12/entropy-and-orderliness.html"
 [author]

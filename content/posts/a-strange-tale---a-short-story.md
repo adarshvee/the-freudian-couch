@@ -2,7 +2,7 @@
 title = "A Strange Tale - A Short Story"
 date = 2012-04-12T15:59:00Z
 updated = 2012-11-04T10:22:23Z
-tags = ["Story", "Short Story"]
+tags = ["Short Story"]
 blogimport = true 
 url = "2012/04/strange-tale.html"
 [author]

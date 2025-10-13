@@ -2,7 +2,7 @@
 title = "The Undesirability of Truth"
 date = 2012-08-10T14:05:00Z
 updated = 2012-11-04T10:15:57Z
-tags = ["Philosophy", "Movies", "Opinion", "Escapism", "Truth", "Knowledge", "Suffering"]
+tags = ["Personal Essay", "Movies"]
 blogimport = true 
 url = "2012/08/the-undesirability-of-truth.html"
 [author]

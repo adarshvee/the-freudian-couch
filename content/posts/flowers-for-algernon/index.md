@@ -2,7 +2,7 @@
 title = "Flowers for Algernon by Daniel Keyes"
 url = "2025/08/flowers-for-algernon-daniel-keyes.html" 
 date = 2025-08-18
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Dystopian", "Science Fiction", "Classics"]
 +++
 
 > Who's to say my light is better than your darkness?

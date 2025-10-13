@@ -2,7 +2,7 @@
 title = "Thoughts on Crime and Punishment"
 date = 2014-07-12T13:50:00Z
 updated = 2014-07-14T12:56:18Z
-tags = ["Books", "Review"]
+tags = ["Book Review", "Books", "Classics"]
 blogimport = true 
 url = "2014/07/thoughts-on-crime-and-punishment.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Kollywood in 2011 - My Personal Favourites"
 date = 2012-01-01T03:17:00Z
 updated = 2012-12-25T13:23:54Z
-tags = ["Kollywood", "Movies", "My 10", "Review", "year-in-review"]
+tags = ["Movies", "Lists"]
 blogimport = true 
 url = "2012/01/kollywood-in-2011-my-personal.html"
 [author]

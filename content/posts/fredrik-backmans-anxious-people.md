@@ -2,7 +2,7 @@
 title = "Fredrik Backman's Anxious People"
 date = 2024-12-18T10:48:00Z
 updated = 2024-12-18T10:48:54Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review"]
 blogimport = true 
 url = "2024/12/fredrik-backmans-anxious-people.html"
 [author]

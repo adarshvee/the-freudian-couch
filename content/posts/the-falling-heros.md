@@ -2,7 +2,7 @@
 title = "The Falling Heros"
 date = 2009-11-11T13:09:00Z
 updated = 2012-11-04T10:19:43Z
-tags = ["Cricket", "Personal", "Rahul Dravid"]
+tags = ["Cricket", "Personal Essay"]
 blogimport = true 
 url = "2009/11/falling-heros.html"
 [author]

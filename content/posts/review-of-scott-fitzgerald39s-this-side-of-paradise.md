@@ -2,7 +2,7 @@
 title = "Review of Scott Fitzgerald&#39;s This Side of Paradise"
 date = 2017-05-14T23:15:00Z
 updated = 2017-05-14T23:28:36Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "CLassics"]
 blogimport = true 
 url = "2017/05/review-of-scott-fitzgeralds-this-side.html"
 [author]

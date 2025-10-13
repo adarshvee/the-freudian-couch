@@ -2,7 +2,7 @@
 title = "Review of Franz Kafka's The Trial"
 date = 2017-03-31T11:41:00Z
 updated = 2017-03-31T11:41:18Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Classics"]
 blogimport = true 
 url = "2017/03/review-of-franz-kafkas-trial.html"
 [author]

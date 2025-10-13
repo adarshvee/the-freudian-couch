@@ -2,7 +2,7 @@
 title = "Review of Jared Diamond's Guns, Germs and Steel : The fates of human societies"
 date = 2017-04-25T11:25:00Z
 updated = 2017-04-25T11:39:15Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction"]
 blogimport = true 
 url = "2017/04/review-of-jared-diamonds-guns-germs-and.html"
 [author]

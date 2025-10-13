@@ -2,7 +2,7 @@
 title = "Review of A Feast for Crows - Book # 4 in A Song of Ice and Fire series"
 date = 2017-02-15T14:20:00Z
 updated = 2017-02-15T14:20:52Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Fantasy"]
 blogimport = true 
 url = "2017/02/review-of-feast-for-crows-book-4-in.html"
 [author]

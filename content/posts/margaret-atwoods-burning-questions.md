@@ -2,7 +2,7 @@
 title = "Margaret Atwood's Burning Questions"
 date = 2024-11-24T13:28:00Z
 updated = 2024-11-24T17:22:51Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction"]
 blogimport = true 
 url = "2024/11/margaret-atwoods-burning-questions.html"
 [author]

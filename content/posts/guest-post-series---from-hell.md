@@ -3,6 +3,7 @@ title = "Guest Post Series - From Hell"
 date = 2014-10-21T10:57:00Z
 updated = 2014-10-23T10:03:56Z
 blogimport = true 
+tags = ["Guest posts"]
 url = "2014/10/guest-post-series-from-hell.html" 
 [author]
 	name = "The Freudian Couch"
