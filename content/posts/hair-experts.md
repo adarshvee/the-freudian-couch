@@ -2,7 +2,7 @@
 title = "Hair experts"
 date = 2017-03-11T07:07:00Z
 updated = 2017-03-11T09:29:45Z
-tags = ["Personal"]
+tags = ["Personal Essay", "Humor"]
 blogimport = true 
 url = "2017/03/hair-experts.html"
 [author]

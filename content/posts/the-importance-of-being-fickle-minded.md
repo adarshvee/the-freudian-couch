@@ -2,7 +2,7 @@
 title = "The Importance of being Fickle-Minded"
 date = 2012-08-05T03:58:00Z
 updated = 2012-11-04T10:16:27Z
-tags = ["Disclaimer", "Philosophy", "Opinion", "Books", "Personal"]
+tags = ["Books", "Personal Essay", "Meta"]
 blogimport = true 
 url = "2012/08/the-important-of-being-fickle-minded.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Me Too!"
 date = 2009-11-09T12:28:00Z
 updated = 2012-11-04T09:49:58Z
-tags = ["Blogging", "Personal"]
+tags = ["Meta", "Personal Essay"]
 blogimport = true 
 url = "/2009/11/me-too"
 [author]

@@ -2,7 +2,7 @@
 title = "Man hospitalized after showing real passion towards work"
 date = 2014-07-03T09:28:00Z
 updated = 2014-07-03T09:56:27Z
-tags = ["Faking News"]
+tags = ["Faking News", "Satire", "Humor", "Demotivation"]
 blogimport = true 
 url = "2014/07/man-hospitalized-after-showing-real.html"
 [author]

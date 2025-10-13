@@ -2,7 +2,7 @@
 title = "Memories of chokes and near-chokes"
 date = 2015-03-28T02:43:00Z
 updated = 2015-03-28T08:10:25Z
-tags = ["Cricket", "Personal"]
+tags = ["Personal Essay"]
 blogimport = true 
 url = "2015/03/memories-of-chokes-and-near-chokes.html"
 [author]

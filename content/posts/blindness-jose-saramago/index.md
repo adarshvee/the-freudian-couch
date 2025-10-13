@@ -2,7 +2,7 @@
 title = "Blindness by José Saramago"
 url = "2025/09/blindness-jose-saramago.html" 
 date = 2025-09-13
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Dystopian"]
 +++
 
 > Perhaps only in a world of the blind will things be what they truly are

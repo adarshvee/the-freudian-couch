@@ -2,7 +2,7 @@
 title = "Guest Posts Series - Vagabond"
 date = 2014-09-19T02:26:00Z
 updated = 2014-09-24T12:37:51Z
-tags = ["Guest posts", "Story", "Short Story"]
+tags = ["Guest posts", "Short Story"]
 blogimport = true 
 url = "2014/09/guest-posts-series-vagabound.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Review of Anthony Burgess's A Clockwork Orange"
 date = 2022-07-04T23:53:00Z
 updated = 2022-07-04T23:53:22Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Classics", "Dystopian"]
 blogimport = true 
 url = "2022/07/review-of-anthony-burgesss-clockwork.html"
 [author]

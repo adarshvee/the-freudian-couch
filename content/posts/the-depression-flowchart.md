@@ -2,7 +2,7 @@
 title = "The Depression Flowchart"
 date = 2013-08-09T01:44:00Z
 updated = 2017-07-27T11:44:58Z
-tags = ["Blogging", "Flowcharts", "Books", "Personal"]
+tags = ["Flowcharts", "Meta", "Personal Essay"]
 blogimport = true 
 url = "2013/08/the-depression-flowchart.html"
 [author]

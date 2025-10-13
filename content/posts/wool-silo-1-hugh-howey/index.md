@@ -2,7 +2,7 @@
 title = "Review of Wool (Silo # 1) by Hugh Howey"
 url = "2025/03/wool-silo-howey.html" 
 date = 2025-03-05
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Dystopian", "Science Fiction"]
 +++
 
 > What god would make so much rock below and air above and just a measly silo between?

@@ -2,7 +2,7 @@
 title = "Review of Virginia Woolf&#39;s Mrs.Dalloway"
 date = 2017-05-29T22:09:00Z
 updated = 2017-07-04T18:19:57Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Classics"]
 blogimport = true 
 url = "2017/05/review-of-virginia-wolfs-mrsdalloway.html"
 [author]

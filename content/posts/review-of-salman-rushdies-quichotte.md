@@ -2,7 +2,7 @@
 title = "Review of Salman Rushdie's Quichotte"
 date = 2021-12-09T11:00:00Z
 updated = 2021-12-09T16:11:31Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Indian Literature", "Satire"]
 blogimport = true 
 url = "2021/12/review-of-salman-rushdies-quichotte.html"
 [author]

@@ -2,7 +2,7 @@
 title = "The Illicit Happiness of Other People by Manu Joseph - Review"
 date = 2014-09-06T10:12:00Z
 updated = 2014-09-06T10:12:17Z
-tags = ["Books", "Review"]
+tags = ["Book Review", "Books", "Indian Literature"]
 blogimport = true 
 url = "2014/09/the-illicit-happiness-of-other-people.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Review of ain’t i a woman? black women and feminism by Bell Hooks"
 date = 2022-07-26T22:09:00Z
 updated = 2022-07-26T22:26:05Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction"]
 blogimport = true 
 url = "2022/07/review-of-aint-i-woman-black-women-and.html"
 [author]

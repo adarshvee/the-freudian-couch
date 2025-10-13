@@ -2,7 +2,7 @@
 title = "Stop, shrug, and fly, you fools!"
 date = 2014-10-26T10:45:00Z
 updated = 2017-07-27T11:46:46Z
-tags = ["Politics", "Justice", "Opinion", "Capitalism"]
+tags = ["Contemporary", "Personal Essay"]
 blogimport = true 
 url = "2014/10/stop-shrug-and-fly-you-fools.html"
 [author]

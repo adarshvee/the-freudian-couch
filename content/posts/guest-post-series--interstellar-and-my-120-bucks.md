@@ -2,7 +2,7 @@
 title = "Guest Post Series : Interstellar and my 120 Bucks"
 date = 2014-12-10T13:25:00Z
 updated = 2014-12-10T13:26:58Z
-tags = ["Guest posts", "Movies", "Review"]
+tags = ["Guest posts", "Movies"]
 blogimport = true 
 url = "2014/12/guest-post-series-interstellar-and-my.html"
 [author]

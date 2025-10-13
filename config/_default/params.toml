@@ -21,14 +21,12 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "page"
 showRecent = true
-showRecentItems = 9
+showRecentItems = 6
 showMoreLink = true
-showMoreLinkDest = "/posts/"
-cardView = true
+cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
 
 [article]
 showDate = true

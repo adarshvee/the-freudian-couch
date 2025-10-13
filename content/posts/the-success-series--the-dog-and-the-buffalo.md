@@ -2,7 +2,7 @@
 title = "The Success Series : The Dog and the Buffalo"
 date = 2014-10-04T05:12:00Z
 updated = 2014-10-04T05:12:10Z
-tags = ["Success", "Success Series"]
+tags = ["Pursuit of Success", "Demotivation"]
 blogimport = true 
 url = "2014/10/the-success-series-dog-and-buffalo.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Stephen Hawking's Black Holes And Baby Universes and other essays - Review"
 date = 2013-08-31T03:44:00Z
 updated = 2013-08-31T09:05:51Z
-tags = ["Philosophy", "Books", "Review"]
+tags = ["Books", "Book Review", "Non Fiction"]
 blogimport = true 
 url = "2013/08/stephen-hawkings-black-holes-and-baby.html"
 [author]

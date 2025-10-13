@@ -2,7 +2,7 @@
 title = "On Kindness"
 date = 2013-03-02T15:03:00Z
 updated = 2013-03-02T15:03:41Z
-tags = ["Philosophy", "Opinion", "Personal"]
+tags = ["Personal Essay"]
 blogimport = true 
 url = "2013/03/on-kindness.html"
 [author]

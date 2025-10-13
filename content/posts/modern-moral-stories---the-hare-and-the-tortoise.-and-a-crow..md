@@ -2,7 +2,7 @@
 title = "Modern moral stories - The Hare and the Tortoise. And a crow."
 date = 2015-09-18T14:14:00Z
 updated = 2015-09-18T14:14:45Z
-tags = ["Moral stories", "Story", "Short Story"]
+tags = ["Moral stories", "Demotivation", "Short Story"]
 blogimport = true 
 url = "2015/09/modern-moral-stories-hare-and-tortoise.html"
 [author]

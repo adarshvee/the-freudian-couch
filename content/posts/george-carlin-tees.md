@@ -2,7 +2,7 @@
 title = "George Carlin Tees"
 date = 2015-01-17T13:35:00Z
 updated = 2015-01-18T08:06:30Z
-tags = ["George Carlin"]
+tags = ["Personal Essay", "Demotivation"]
 blogimport = true 
 url = "2015/01/george-carlin-tees.html"
 [author]

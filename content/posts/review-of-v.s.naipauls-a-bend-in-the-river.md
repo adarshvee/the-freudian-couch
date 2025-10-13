@@ -2,7 +2,7 @@
 title = "Review of V.S.Naipaul's A Bend in the River"
 date = 2017-04-08T23:19:00Z
 updated = 2017-04-08T23:19:09Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review"]
 blogimport = true 
 url = "2017/04/review-of-vsnaipauls-bend-in-river.html"
 [author]

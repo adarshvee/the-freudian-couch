@@ -2,7 +2,7 @@
 title = "Review of Alan Moore's Watchmen"
 date = 2017-07-24T22:54:00Z
 updated = 2017-07-24T23:07:49Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Graphic Novels"]
 blogimport = true 
 url = "2017/07/review-of-alan-moores-watchmen.html"
 [author]

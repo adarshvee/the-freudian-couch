@@ -2,7 +2,7 @@
 title = "Broken April - A poetic and poignant movie"
 date = 2012-09-23T05:05:00Z
 updated = 2012-11-04T10:17:11Z
-tags = ["Movies", "Review"]
+tags = ["Movies"]
 blogimport = true 
 url = "2012/09/broken-april-poetic-and-poignant-movie.html"
 [author]

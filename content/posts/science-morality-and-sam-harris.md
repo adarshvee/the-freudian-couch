@@ -2,7 +2,7 @@
 title = "Science, Morality and Sam Harris"
 date = 2014-05-10T04:56:00Z
 updated = 2014-05-10T04:56:17Z
-tags = ["Philosophy"]
+tags = ["Personal Essay"]
 blogimport = true 
 url = "2014/05/science-morality-and-sam-harris.html"
 [author]

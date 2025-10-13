@@ -2,7 +2,7 @@
 title = "The Future Number Three"
 date = 2012-03-11T13:22:00Z
 updated = 2012-11-04T10:21:36Z
-tags = ["Cricket", "Opinion", "Rahul Dravid"]
+tags = ["Cricket"]
 blogimport = true 
 url = "2012/03/future-number-three.html"
 [author]

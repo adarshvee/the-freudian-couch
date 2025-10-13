@@ -2,7 +2,7 @@
 title = "The Impatient Indian"
 date = 2012-06-03T03:27:00Z
 updated = 2012-11-04T10:13:57Z
-tags = ["Anti-Corruption", "Lokpal", "Current Affairs", "Anna Hazare", "Opinion", "Books"]
+tags = ["Contemporary", "Personal Essay"]
 blogimport = true
 url = "2012/06/impatient-indian.html" 
 [author]

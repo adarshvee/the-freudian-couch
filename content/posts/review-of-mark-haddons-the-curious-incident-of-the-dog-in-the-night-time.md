@@ -2,7 +2,7 @@
 title = "Review of Mark Haddon's The Curious Incident of the Dog in the Night-time"
 date = 2017-04-27T21:38:00Z
 updated = 2017-04-27T21:38:33Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review"]
 blogimport = true 
 url = "2017/04/review-of-mark-haddons-curious-incident.html"
 [author]

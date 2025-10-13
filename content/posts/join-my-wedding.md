@@ -2,7 +2,7 @@
 title = "Join my wedding*"
 date = 2018-10-16T17:54:00Z
 updated = 2018-10-16T17:54:46Z
-tags = ["mini-rants", "Opinion"]
+tags = ["Demotivation", "Satire"]
 blogimport = true 
 url = "2018/10/join-my-wedding.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Review of Francis Clifford's Drummer in the Dark"
 date = 2017-01-27T06:29:00Z
 updated = 2017-01-27T06:29:08Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Thriller"]
 blogimport = true 
 url = "2017/01/review-of-francis-cliffords-drummer-in.html"
 [author]

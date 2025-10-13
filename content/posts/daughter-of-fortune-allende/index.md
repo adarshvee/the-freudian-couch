@@ -2,7 +2,7 @@
 title = "Daughter of Fortune"
 url = "2025/02/daughter-of-fortune-allende.html" 
 date = 2025-02-23
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review", "Coming of Age"]
 +++
 
 > ..she had fallen in love with love and was trapped in the morass of a legendary passion with no link to reality. 

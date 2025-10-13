@@ -2,7 +2,7 @@
 title = "Guest Post Series - The Vulnerable Queen"
 date = 2014-09-30T10:26:00Z
 updated = 2014-10-01T09:05:20Z
-tags = ["Guest posts", "Current Affairs", "Politics"]
+tags = ["Guest posts", "Contemporary"]
 blogimport = true 
 url = "2014/09/guest-post-series-vulnerable-queen.html"
 [author]

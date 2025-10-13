@@ -2,7 +2,7 @@
 title = "The Book Thief - Review"
 date = 2014-07-08T14:20:00Z
 updated = 2014-07-09T01:02:11Z
-tags = ["Books", "Review"]
+tags = ["Book Review", "Books", "Historical Fiction"]
 blogimport = true 
 url = "2014/07/the-book-thief-review.html"
 [author]

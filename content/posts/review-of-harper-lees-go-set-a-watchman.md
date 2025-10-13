@@ -2,7 +2,7 @@
 title = "Review of Harper Lee's Go Set a Watchman"
 date = 2017-03-19T08:07:00Z
 updated = 2017-03-19T08:07:55Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review"]
 blogimport = true 
 url = "2017/03/review-of-harper-lees-go-set-watchman.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Art, Movies and Philistines"
 date = 2013-07-11T13:27:00Z
 updated = 2013-07-11T13:27:28Z
-tags = ["Movies", "Opinion"]
+tags = ["Movies", "Personal Essay"]
 blogimport = true 
 url = "2013/07/art-movies-and-philistines.html"
 [author]
