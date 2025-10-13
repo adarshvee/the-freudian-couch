@@ -4,7 +4,7 @@ date = 2022-07-26T22:09:00Z
 updated = 2022-07-26T22:26:05Z
 tags = ["Books", "Book Review", "Non Fiction"]
 blogimport = true 
-description: "Bell Hooks's foundational text on Black feminism and intersectionality—a rigorous examination of racism within feminism and sexism within civil rights movements."
+description = "Bell Hooks's foundational text on Black feminism and intersectionality—a rigorous examination of racism within feminism and sexism within civil rights movements."
 url = "2022/07/review-of-aint-i-woman-black-women-and.html"
 [author]
 	name = "The Freudian Couch"
