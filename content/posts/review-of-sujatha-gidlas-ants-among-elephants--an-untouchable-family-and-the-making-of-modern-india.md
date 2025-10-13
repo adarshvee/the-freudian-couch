@@ -5,6 +5,7 @@ updated = 2017-09-02T11:30:11Z
 tags = ["Books", "Book Review", "Non Fiction", "Indian Literature"]
 blogimport = true 
 url = "2017/09/review-of-sujatha-gidlas-ants-among.html"
+description: "Sujatha Gidla's family history across generations of Dalit oppression in India—a stark, unflinching account of caste, communism, and survival."
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"

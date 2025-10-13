@@ -4,6 +4,7 @@ date = 2022-01-03T21:01:00Z
 updated = 2022-01-03T21:01:51Z
 tags = ["Books", "Book Review", "Classics", "Play"]
 blogimport = true 
+description: "Arthur Miller's Death of a Salesman as a critique of American toxic positivity. Why Willy Loman reminds me of Trump, minus the vileness and unearned success."
 url = "2022/01/review-of-arthur-millers-death-of.html"
 [author]
 	name = "The Freudian Couch"

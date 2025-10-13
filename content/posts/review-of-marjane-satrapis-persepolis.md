@@ -4,6 +4,7 @@ date = 2021-12-07T21:46:00Z
 updated = 2021-12-08T08:29:20Z
 tags = ["Books", "Book Review", "Non Fiction", "Graphic Novels"]
 blogimport = true 
+description: "Marjane Satrapi's Persepolis chronicles growing up during Iran's revolution with humor and lightness—a graphic memoir that balances history with teenage desires."
 url = "2021/12/review-of-marjane-satrapis-persepolis.html"
 [author]
 	name = "The Freudian Couch"

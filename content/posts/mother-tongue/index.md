@@ -3,6 +3,7 @@ title = "Mother tongue and other tongues"
 url = "2025/10/mother-tongue-other-tongues.html" 
 date = 2025-10-01
 tags = ["Personal Essay", "Humor"]
+description: "Reflections on language, identity, and the complexity of mother tongues—what it means to think and write in a language that isn't your first."
 +++
 
 Many, many years back, I was traveling in a public bus in my home state of *Tamil Nadu*. The state derives its name, and its identity, from its language: *Tamil*. I overheard a fellow passenger discussing a short film script over the phone. I am not extroverted by any means, but these were the days when I nurtured ambitions of becoming a screenwriter. I felt that this was an opportunity too good to pass, and I quickly struck a conversation with this random person. Soon, his excitement revealed that he was a nobody like me. He narrated a full script, and boldly handed me a piece of paper. It was a lyric to a Tamil song he had written. The problem? I can't read Tamil. By now, I was too involved in this conversation and had nudged him on with too much fake enthusiasm to reveal this. I glanced at his lyrics for roughly the amount of time it would take to read it, appreciated him even further, promptly got out of the bus and walked the rest of the way. 
