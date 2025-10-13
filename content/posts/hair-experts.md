@@ -5,7 +5,7 @@ updated = 2017-03-11T09:29:45Z
 tags = ["Personal Essay", "Humor"]
 blogimport = true 
 url = "2017/03/hair-experts.html"
-description: "A short story about hair salons, expertise, and the small negotiations of everyday life—told with the understated humor you'd expect from a barber shop visit."
+description = "A short story about hair salons, expertise, and the small negotiations of everyday life—told with the understated humor you'd expect from a barber shop visit."
 [author]
 	name = "The Freudian Couch"
 	uri = "https://www.blogger.com/profile/02846833382241285200"
