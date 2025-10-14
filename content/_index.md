@@ -17,4 +17,6 @@ Some favorites from the archives:
 
 If you like or dislike anything I write, let me know through comments or through social media.
 
+{{< newsletter >}}
+
 ---
