@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/daughters-of-madurai/index.md",
+                "file": "content/posts/review-of-a-man-called-ove-by-fredrik-backman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "review-of-a-man-called-ove-by-fredrik-backman"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dusq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,10 +172,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0111d60400356403",
+  "active": "10e9a17a987fe1e3",
   "lastOpenFiles": [
-    "content/posts/flowers-for-algernon/index.md",
+    "content/posts/critique-on-movie-criticism.md",
+    "content/posts/fredrik-backmans-anxious-people.md",
     "content/posts/daughters-of-madurai/index.md",
+    "content/posts/flowers-for-algernon/index.md",
     "content/posts/daughters-of-madurai/featuredSmall.jpg",
     "public/2025/10/daughters-of-madurai-variya/featuredSmall_hu14743899542920971988.jpg",
     "resources/_gen/images/2025/10/daughters-of-madurai-variya/featuredSmall_hu14743899542920971988.jpg",
@@ -216,7 +219,6 @@
     "content/_index.md",
     "themes/blowfish/exampleSite/content/docs/shortcodes/index.it.md",
     "content/posts/the_vegetarian/index.md",
-    "public/posts/blindness-jose-saramago/index.md",
-    "content/posts/The Blind Assasin/index.md"
+    "public/posts/blindness-jose-saramago/index.md"
   ]
 }
