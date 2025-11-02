@@ -40,7 +40,7 @@ googleAnalytics = "G-EHF8DNR5DL"
 
 [services]
   [services.disqus]
-    shortname = 'www-thefreudiancouch-com'
+    shortname = 'adarsh89'
 
 [related]
   threshold = 0
