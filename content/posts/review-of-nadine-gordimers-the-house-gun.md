@@ -3,6 +3,7 @@ title = "Review of Nadine Gordimer's The House Gun"
 date = 2021-12-04T12:35:00Z
 updated = 2021-12-04T13:46:15Z
 tags = ["Books", "Book Review"]
+description = "The House Gun Review: Gordimer on Post-Apartheid Liberalism"
 blogimport = true 
 url = "2021/12/review-of-nadine-gordimers-house-gun.html"
 [author]
