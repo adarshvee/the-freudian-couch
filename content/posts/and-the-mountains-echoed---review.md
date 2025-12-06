@@ -2,7 +2,7 @@
 title = "And The Mountains Echoed - Review"
 date = 2013-06-24T13:01:00Z
 updated = 2013-08-03T09:56:58Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review"]
 blogimport = true 
 url = "2013/06/and-mountains-echoed-review.html"
 [author]
