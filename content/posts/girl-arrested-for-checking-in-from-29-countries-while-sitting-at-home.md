@@ -2,7 +2,7 @@
 title = "Girl arrested for checking in from 29 countries while sitting at home"
 date = 2013-09-07T13:07:00Z
 updated = 2013-09-07T13:07:20Z
-tags = ["Contemporary", "Faking News", "Sarcasm", "Humor"]
+tags = ["Contemporary", "Faking News", "Humor"]
 blogimport = true 
 url = "2013/09/girl-arrested-for-checking-in-from-29.html"
 [author]

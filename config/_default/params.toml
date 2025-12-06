@@ -13,6 +13,8 @@ smartTOC = "Enable"
 [header]
 layout = "basic"
 
+mainSections = ["posts"]
+
 [footer]
 showMenu = true
 showCopyright = true

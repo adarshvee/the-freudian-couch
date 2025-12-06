@@ -2,7 +2,7 @@
 title = "Review of  Roshani Sinha's Snippets "
 date = 2017-12-28T14:58:00Z
 updated = 2017-12-28T14:58:35Z
-tags = ["Books", "Review"]
+tags = ["Books", "Book Review"]
 blogimport = true 
 url = "2017/12/review-of-roshani-sinhas-snippets.html"
 [author]
