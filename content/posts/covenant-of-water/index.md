@@ -2,7 +2,7 @@
 title = "The Covenant of Water by Abraham Verghese"
 url = "2025/12/covenant-of-water.html" 
 date = 2025-12-26
-description = "Abraham Verghese's historical fiction has the thesis that everyone is connected doubles down as a medical thriller at times."
+description = "Abraham Verghese's historical fiction has the thesis that everyone is connected and it doubles down as a medical thriller at times."
 tags = ["Books", "Book Review", ""]
 +++
 
