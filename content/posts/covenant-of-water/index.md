@@ -3,7 +3,7 @@ title = "The Covenant of Water by Abraham Verghese"
 url = "2025/12/covenant-of-water.html" 
 date = 2025-12-26
 description = "Abraham Verghese's historical fiction has the thesis that everyone is connected and it doubles down as a medical thriller at times."
-tags = ["Books", "Book Review", ""]
+tags = ["Books", "Book Review", "Historical Fiction", "Indian Literature"]
 +++
 
 > Every family has secrets, but not all secrets are meant to deceive. What defines a family is not blood, molay, but the secrets they share.
