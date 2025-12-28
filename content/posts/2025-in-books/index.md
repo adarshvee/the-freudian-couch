@@ -50,4 +50,4 @@ Goodreads tells me that I read about 20 pages each day on average. Put that way,
 
 On that uplifting note, wish you a very happy new year!
 
-{{< related >}} [My 2024 in books](/2024/12/my-2024-in-books.html) · [My 2022 in books](/2023/01/my-2022-in-books.html) · [My 2021 in books](/2021/12/my-2021-in-books.html) · [My 2020 in books](/2021/01/my-2020-in-books.html) · [The books that made my 2024](/2014/12/the-books-that-made-my-2014.html) {{< /related >}}
+{{< related >}} [My 2024 in books](/2024/12/my-2024-in-books.html) · [My 2022 in books](/2023/01/my-2022-in-books.html) · [My 2021 in books](/2021/12/my-2021-in-books.html) · [My 2020 in books](/2021/01/my-2020-in-books.html) · [The books that made my 2014](/2014/12/the-books-that-made-my-2014.html) {{< /related >}}
