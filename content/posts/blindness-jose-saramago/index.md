@@ -15,7 +15,7 @@ José Saramago's Blindness begins with the colorful lines: *"The amber light cam
 
 On a regular weekday, an automobile driver causes a minor commotion on a busy street. *"Seen merely at a glance, the man’s eyes seem healthy, the iris looks bright, luminous, the sclera white, as compact as porcelain."*  However, he insists that he cannot see. A stranger offers to help him, as others move on. The Good Samaritan makes a prescient remark, saying, *"\[n\]ow then, don’t give it another thought, today it’s your turn, tomorrow it will be mine, we never know what might lie in store for us"*. Soon there is a contagion, and the affected people are quarantined. Among the quarantined blind people, however, is one woman who can still see. Saramago examines the deterioration of civility in the quarantine facility and beyond, as a society of newly blind people abandons pretensions to become the primal creatures humans are beneath our civilized veneer.
 
-![alt](featuredSmall.jpg)
+![alt](content/posts/blindness-jose-saramago/featuredSmall.jpg)
 # Narrative style and characterization
 
 > If we cannot live entirely like human beings, at least let us do everything in our power not to live entirely like animals
