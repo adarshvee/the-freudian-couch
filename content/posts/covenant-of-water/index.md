@@ -16,7 +16,7 @@ The novel begins in *Travancore* in 1900, when India was a British colony. 12-ye
 
 God wills it; and belying expectations for novels that are set in India where such marriages were common, things get better for *Mariamma*. Her husband and sister-in-law treat the child kindly as she transforms into a woman and a matriarch - *Big Ammachi*. Her happiness is shattered by an accident, and she discovers an ailment that runs in the family. Known only as *"The Condition"*, it causes many male members of the family to encounter strange accidents often related to drowning. *The Covenant of Water* tracks the family through three generations across about seventy five years as they share and hide secrets and battle the mysterious condition.
 
-![The Covenant of Water cover](featuredSmall.jpg)
+![The Covenant of Water cover](content/posts/covenant-of-water/featuredSmall.jpg)
 
 The multi-generational setup with fantastical elements echoes *Gabriel Garcia Marquez*'s *One Hundred Years of Solitude*. Arundhati Roy showed influences of Marquez in her excellent *God of Small Things*, which is also set in Kerala. However, while Marquez leans into the magic and Roy examines the impact of the caste system, Verghese borrows from his successful career as a doctor to introduce a scientific twist. This makes *The Covenant of Water* unique - it is a character study that morphs into a medical thriller before switching back to literary fiction.  Unlike Marquez and Roy, Verghese deals with humane characters who, despite their flaws, are trying their best. His characters are good to a fault.
 
