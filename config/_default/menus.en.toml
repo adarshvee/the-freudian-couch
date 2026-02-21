@@ -31,5 +31,10 @@ pre = "rss"
 url = "http://thefreudiancouch.com/index.xml"
 weight = 5
 
+[[main]]
+  name = "Archive"
+  url = "/archive"
+  weight = 6
+
 [[footer]]
 none = "none"
