@@ -1,0 +1,58 @@
+{{ define "main" }}
+<style>
+  details > summary { list-style: none; }
+  details > summary::-webkit-details-marker { display: none; }
+  details > summary > .chevron { transition: transform 0.2s ease; }
+  details[open] > summary > .chevron { transform: rotate(90deg); }
+</style>
+
+<div class="max-w-2xl mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold mb-10 text-neutral-800 dark:text-neutral-100">Archive</h1>
+
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range $posts.GroupByDate "2006" }}
+    <details class="mb-8">
+      <summary class="flex items-center gap-3 cursor-pointer select-none group mb-5">
+        <svg class="chevron text-neutral-400 shrink-0" style="width:14px;height:14px;min-width:14px;" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+        </svg>
+        <span class="text-xl font-bold text-neutral-800 dark:text-neutral-100 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+          {{ .Key }}
+        </span>
+        <span class="text-neutral-300 dark:text-neutral-600">·</span>
+        <span class="text-xs text-neutral-400 dark:text-neutral-500">{{ len .Pages }} posts</span>
+        <div class="flex-1 h-px bg-neutral-200 dark:bg-neutral-700"></div>
+      </summary>
+
+      <div class="pl-7">
+        {{ range $month := .Pages.GroupByDate "January 2006" }}
+          <details class="mb-6">
+            <summary class="flex items-center gap-2 cursor-pointer select-none group mb-0">
+              <svg class="chevron text-neutral-300 shrink-0" style="width:11px;height:11px;min-width:11px;" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+              </svg>
+              <span class="text-xs font-bold uppercase tracking-widest text-neutral-500 dark:text-neutral-400 group-hover:text-neutral-700 dark:group-hover:text-neutral-200 transition-colors py-2">
+                {{ $month.Key }}
+              </span>
+            </summary>
+
+            <div class="mt-2 ml-3 pl-4 border-l-2 border-neutral-200 dark:border-neutral-700">
+              {{ range $month.Pages }}
+                <div class="flex items-baseline gap-4 py-2 border-b border-neutral-100 dark:border-neutral-800 last:border-0">
+                  <span class="text-xs text-neutral-400 dark:text-neutral-500 tabular-nums shrink-0" style="min-width:3.5rem;">
+                    {{ .Date.Format "02 Jan" }}
+                  </span>
+                  <a href="{{ .Permalink }}"
+                     class="text-sm font-medium text-primary-700 dark:text-primary-400 underline underline-offset-2 decoration-primary-300 dark:decoration-primary-700 hover:decoration-primary-600 dark:hover:decoration-primary-400 transition-colors leading-snug">
+                    {{ .Title }}
+                  </a>
+                </div>
+              {{ end }}
+            </div>
+          </details>
+        {{ end }}
+      </div>
+    </details>
+  {{ end }}
+</div>
+{{ end }}
