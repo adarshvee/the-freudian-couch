@@ -3,7 +3,7 @@ title = "And Your Byrd Can Sing by Jim Roberts"
 url = "2026/01/and-your-byrd-can-sing-roberts" 
 date = 2026-01-11
 description = "A gritty Southern-Gothic coming-of-age story that focusses on a misfit's attempts to fit, and to free himself of the burden of his past."
-tags = ["Books", "Lists", "Southern Gothic", "Coming of age"]
+tags = ["Books", "Literary Fiction", "Book Review", "Historical Fiction", "Southern Gothic", "Coming of age"]
 +++
 
 > Most men, as they reach the far side of midlife, can look back on maybe a moment or two in their youth when they had the opportunity to take that final step from a boy to a man...My moment came that night in the basement men’s room of the Knope County courthouse...But there were no men there that night.
