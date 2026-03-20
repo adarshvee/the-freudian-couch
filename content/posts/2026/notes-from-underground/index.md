@@ -3,7 +3,7 @@ title = "Treated Like a Fly"
 url = "2026/02/treated-like-a-fly" 
 date = 2026-02-24
 description = "Fyodor Dostoyevsky's Notes from the Underground makes us hate its narrator while forcing us to admit we are more like him than we would like. A review, and a confession of my own ineptness"
-tags = ["Books", "Classics", "Personal"]
+tags = ["Books", "Classics", "Personal Essay"]
 +++
 
 When I was fifteen, I started an argument with a schoolmate. He was well-built and the second-tallest boy in the class, while I was skinny and the second-shortest. We were on the third floor of our school building, standing near a balustrade which overlooked the central lawn. I can't recall what the argument was. But the sight of the green lawn from great height as he effortlessly lifted me up over his head and held me there for a whole minute before setting me down calmly is clear as yesterday. I was not hurt, but my ego was. I could feel the pity of the onlooking kids as I walked away in silent defeat. This event stays buried in my brain, but no one else is likely to remember or remark on it today.

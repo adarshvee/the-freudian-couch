@@ -22,7 +22,7 @@ weight = 3
 [[main]]
 name = "Personal"
 pre = "personal"
-pageRef = "tags/personal"
+pageRef = "tags/personal-essay"
 weight = 4
 
 [[main]]
