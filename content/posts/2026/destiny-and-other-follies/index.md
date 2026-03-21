@@ -30,4 +30,6 @@ But if you peel the layers, *Destiny and other Follies* is an examination of our
 
 Thanks to BookSirens and Atmosphere Press for an advance copy of the book.
 
+Note : Another review of this book by [NotesOnBooks](https://www.notesonbooks.net/destiny-and-other-follies/) focuses on how managed speech is the novel's essence.
+
 {{< related >}} [Treated like a fly](2026/02/treated-like-a-fly/) · [And your Byrd Can Sing by Jim Roberts](/2026/01/and-your-byrd-can-sing-roberts/) . [The Remains of the Day by Kazuo Ishiguro](/2025/04/remains-of-day-kazuo-ishiguro.html)  {{< /related >}}
