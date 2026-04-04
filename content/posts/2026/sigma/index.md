@@ -2,7 +2,7 @@
 title = "Sigma - A short story"
 url = "2026/04/sigma" 
 date = 2026-04-03
-description = "a darkly humors story about the influence of manosphere on adolescents in a South Indian town"
+description = "a darkly humorous story about the influence of manosphere on adolescents in a South Indian town"
 tags = ["Short Story", "Literary Fiction", "Fiction", "Childhood", "Dark Humor"]
 +++
 
@@ -113,5 +113,8 @@ Narayana was about to lift his hands, but wiped it over his pants first before w
 *Dosa* - Dosa is a South Indian crepe dish.
 *Maavu* - Rice and lentil based flour used to make dosa
 *Amman* - South Indian Goddess, depicted as a fierce deity
+
+---
+This story was originally [published at ArtoonsInn](https://prowritersroom.com/sigma) in response to the prompt "You see something you were never meant to."
 
 {{< related >}} [Nithya](/2017/07/nithya.html) · [The Prodigy](/2017/08/the-prodigy.html) . [By myself](/2026/03/by-myself/)  {{< /related >}}
