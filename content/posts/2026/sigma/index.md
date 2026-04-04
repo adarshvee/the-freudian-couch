@@ -15,11 +15,17 @@ Narayana turned around quickly away from the wild bushes he was facing, his mout
 Thankfully, Raja Anna hadn't noticed. He walked away from the bushes nonchalantly.
 
 "*He has been irritating me for a long time. And now, he keeps parking his cycle at my spot. We need to teach him a lesson.*"
+
 "*But, Anna. How?*"
+
 "*On Friday evenings, he loiters around the tank ground with his gang of simps, trying to attract college girls who walk there. He rides his bicycle back home alone. That's when we will corner him.*"
+
 Narayana nodded.
+
 "*I will bring my knife. You bring the cricket stumps.*"
+
 "*What knife?*"
+
 "*Didn't I tell you? I stole one from my chittapa last week. The drunken louse didn't even notice. It is the real deal. As sharp as an aruval. Come with me, I will show you.*"
 
 As they walked to Raja anna’s home, he described a YouTube video he had been watching.
@@ -31,7 +37,9 @@ Narayana nodded, giving the impression that he understood.
 "*They're all controlled by the illuminati. Even the feminazis.*”
 
 Narayana noticed a familiar face at the corner of the street.
+
 Savitha.
+
 She was talking with a boy he couldn't recognize. He smelt his hands, and was not sure if he was imagining the faint stink.
 
 "*Did you watch the video uploaded by the man who killed himself in Coimbatore? His wife filed a fake marital rape case... Oh, look at that chad. He thinks he can bed that witch Savitha. He will end up as a frustoo*".
@@ -87,11 +95,17 @@ Aunty entered the room, facing the window, but eyes gleaming at Raja Anna. It lo
 Narayana quickly crouched below the window sill, moving back in the same position. Like a green beret. His legs betrayed him as he stepped on a rock and slipped, scratching himself on the bush and emitting a short shriek.
 
 The voices inside quietened.
+
 Resisting the temptation to look, Narayana bolted.
+
 He ran.
+
 And ran.
+
 Until he saw a distant yellow figure on a bicycle.
+
 He slowed down to catch his breath.
+
 Narayana was about to lift his hands, but wiped it over his pants first before waving to Savitha.
 
 
