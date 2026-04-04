@@ -2,7 +2,7 @@
 title = "Sigma - A short story"
 url = "2026/04/sigma" 
 date = 2026-04-03
-description = "a darkly humorous story about the influence of manosphere on adolescents in a South Indian town"
+description = "A darkly humorous story about the influence of Manosphere on adolescents in a South Indian town"
 tags = ["Short Story", "Literary Fiction", "Fiction", "Childhood", "Dark Humor"]
 +++
 
