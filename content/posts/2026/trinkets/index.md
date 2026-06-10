@@ -1,6 +1,6 @@
 +++
 title = "Trinkets - A short story"
-url = "2026/06/sigma" 
+url = "2026/06/trinkets" 
 date = 2026-06-09
 description = "A blend of historical fiction and magical realism set in 15th century Calicut for the prompt 'For Sale - Baby Shoes - Never Worn'"
 tags = ["Short Story", "Historical Fiction", "Fiction", "Magical Realism", "Absurdism"]
@@ -81,24 +81,24 @@ Chen drew out the anklets.
 
 Image source : [https://franpritchett.com/00routesdata/1700\_1799/malabar/calicut/calicut.html](https://franpritchett.com/00routesdata/1700_1799/malabar/calicut/calicut.html) which points to the defunct [http://historic-cities.huji.ac.il/india/calicut/maps/braun\_hogenberg\_I\_54\_1.html](http://historic-cities.huji.ac.il/india/calicut/maps/braun_hogenberg_I_54_1.html)
 
-Glossary and author’s notes
+### Glossary and author’s notes
 
-Ko-li \- Calicut (Kozhikode) in Kerala, India, as referred to by 15th century Chinese travellers. Ko-li itself is referred to as a country  
-Ma Huan \- A Chinese Muslim voyager who visited Kerala with Admiral Zheng He multiple times, starting in 1405 and documented his travels in “The Overall Survey of the Ocean's Shores”  
-Kung Chen \- Name borrowed from a real traveller in 1405\. Character is fictional  
-*Zaws* \- Medium sized Chinese boats  
-Zamorin \- Anglicized word for Samoothari, the title of the ruler of Calicut  
-Ormuz \- Port of Hormuz. I promise that I am not optimizing my story with trending topics. At least, not consciously  
-Kochi \- Another city in Kerala. In early 1400s, the rulers of Kochi and Kozhikode were at loggerheads  
-Ceylon \- Sri Lanka  
-Tamilakam \- Tamil Nadu, India  
-Palayam : I initially thought this word translates to market, but it apparently does not. I still kept it because I see it mentioned in at least one source [https://www.livehistoryindia.com/story/cover-story/zamorins-of-calicut](https://www.livehistoryindia.com/story/cover-story/zamorins-of-calicut)  
-Ashtavaidya \- Ayurvedic physician  
-Jyothista \- Astrologer  
-*Naan Poganum \-* Tamil for “I need to go”  
-*Nalladu \-* Tamil for “good”  
-Pinne vannu kaananam \- Malayalam for “come and see me later”  
-Pishukkan \- Malayalam for “miser”
+**Ko-li** \- Calicut (Kozhikode) in Kerala, India, as referred to by 15th century Chinese travellers. Ko-li itself is referred to as a country  
+**Ma Huan** \- A Chinese Muslim voyager who visited Kerala with Admiral Zheng He multiple times, starting in 1405 and documented his travels in “The Overall Survey of the Ocean's Shores”  
+**Kung Chen** \- Name borrowed from a real traveller in 1405\. Character is fictional  
+**Zaws** \- Medium sized Chinese boats  
+**Zamorin** \- Anglicized word for Samoothari, the title of the ruler of Calicut  
+**Ormuz** \- Port of Hormuz. I promise that I am not optimizing my story with trending topics. At least, not consciously  
+**Kochi** \- Another city in Kerala. In early 1400s, the rulers of Kochi and Kozhikode were at loggerheads  
+**Ceylon** \- Sri Lanka  
+**Tamilakam** \- Tamil Nadu, India  
+**Palayam** : I initially thought this word translates to market, but it apparently does not. I still kept it because I see it mentioned in at least one source [https://www.livehistoryindia.com/story/cover-story/zamorins-of-calicut](https://www.livehistoryindia.com/story/cover-story/zamorins-of-calicut)  
+**Ashtavaidya** \- Ayurvedic physician  
+**Jyothista** \- Astrologer  
+**Naan Poganum** \-* Tamil for “I need to go”  
+**Nalladu** \-* Tamil for “good”  
+**Pinne vannu kaananam** \- Malayalam for “come and see me later”  
+**Pishukkan** \- Malayalam for “miser”
 
 Other sources 
 
