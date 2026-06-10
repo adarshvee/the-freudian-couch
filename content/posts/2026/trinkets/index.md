@@ -109,6 +109,6 @@ Other sources
 
 
 ---
-This story was originally [published at ArtoonsInn](https://prowritersroom.com/trinkets/) in response to the prompt "For Sale - Baby shoes - Never worn"
+This story was originally [published at ArtoonsInn](https://prowritersroom.com/trinkets/) in response to the prompt "For sale: baby shoes. Never worn."
 
 {{< related >}} [Hallucination](2026/05/hallucination/) · [Sigma](/2026/04/sigma/) . [By myself](/2026/03/by-myself/)  {{< /related >}}
