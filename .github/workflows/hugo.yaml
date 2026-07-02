@@ -33,7 +33,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.140.2
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
       - name: Install Hugo CLI
         run: |
@@ -76,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
