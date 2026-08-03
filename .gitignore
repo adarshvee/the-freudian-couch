@@ -1,3 +1,11 @@
+# Hugo build output
 public/*
+resources/_gen/
+
+# OS / editor cruft
+.DS_Store
 .obsidian/*
 *.base
+
+# Local working docs (not part of the site)
+SITE_AUDIT.md
