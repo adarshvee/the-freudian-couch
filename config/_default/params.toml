@@ -33,7 +33,7 @@ cardViewScreenWidth = false
 [article]
 showDate = true
 showViews = false
-showLikes = true
+showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
@@ -89,7 +89,7 @@ cardView = true
 showHero = false
 showBreadcrumbs = false
 showViews = false
-showLikes = true
+showLikes = false
 showTableOfContents = true
 groupByYear = true
 cardView = false
