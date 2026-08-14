@@ -12,7 +12,7 @@ url = "2017/07/nithya.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsJsyNdz0gXeqLGwVQKggsAi6r5qjZ0a3nnYfT1kqrF_UzQ8Ex4uVX_PhvtX7GoEiBc-nPdDFlipRZnSyr3ajtaPd6ScySgqs_awNz6m3WagO28OLoUYuH7eZwBOBj89bXT6H_BYzdPDpg/s1600/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="939" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsJsyNdz0gXeqLGwVQKggsAi6r5qjZ0a3nnYfT1kqrF_UzQ8Ex4uVX_PhvtX7GoEiBc-nPdDFlipRZnSyr3ajtaPd6ScySgqs_awNz6m3WagO28OLoUYuH7eZwBOBj89bXT6H_BYzdPDpg/s320/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965.jpg" width="187" /></a></div>
+<a href="/images/blogger/nithya/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965__633dce94.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="939" height="320" src="/images/blogger/nithya/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965__5e2edd17.jpg" width="187" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

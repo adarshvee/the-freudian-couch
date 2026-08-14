@@ -29,7 +29,7 @@ He had more surprise for us in store as he started a blog soon. Though he hasn't
 <div style="text-align: justify;">
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtslp6tnm1Vr8Lr-5X5WgCblpPkUK3CCyBxGpSVWewLdJU5hSuqPdv5Z0c-IeSQvM2TKNVBG7nk6N86fVSiXw5PAdVXWnqwb8T9XssX4elSR2yRI0hxXRaESfu7mfcWF5T0D5ML8wFK3h9/s1600/10350618_703884633039848_6184319377554270064_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtslp6tnm1Vr8Lr-5X5WgCblpPkUK3CCyBxGpSVWewLdJU5hSuqPdv5Z0c-IeSQvM2TKNVBG7nk6N86fVSiXw5PAdVXWnqwb8T9XssX4elSR2yRI0hxXRaESfu7mfcWF5T0D5ML8wFK3h9/s1600/10350618_703884633039848_6184319377554270064_n.jpg" height="200" width="320" /></span></a></div>
+<a href="/images/blogger/guest-post-series--anjaan---a-review/10350618_703884633039848_6184319377554270064_n__5f293e59.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><img border="0" src="/images/blogger/guest-post-series--anjaan---a-review/10350618_703884633039848_6184319377554270064_n__5f293e59.jpg" height="200" width="320" /></span></a></div>
 <div style="text-align: justify;">
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span></div>
 <div style="text-align: justify;">
@@ -47,7 +47,7 @@ He had more surprise for us in store as he started a blog soon. Though he hasn't
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieHHid3Hrv-cagqW56cGTEgccKwhqsEsnFa8mHG4aPwP5iiPIDt6Ka1E-caJAVPdZQ0UawGsoEaokrMrVSkgVOyFYatkc6Ajw1NpXV8t7EocQKPlMmUCTHSbqvtapbZemoxAm1WEUEis3r/s1600/1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieHHid3Hrv-cagqW56cGTEgccKwhqsEsnFa8mHG4aPwP5iiPIDt6Ka1E-caJAVPdZQ0UawGsoEaokrMrVSkgVOyFYatkc6Ajw1NpXV8t7EocQKPlMmUCTHSbqvtapbZemoxAm1WEUEis3r/s1600/1.jpg" /></span></a></div>
+<a href="/images/blogger/guest-post-series--anjaan---a-review/1__d3106564.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><img border="0" src="/images/blogger/guest-post-series--anjaan---a-review/1__d3106564.jpg" /></span></a></div>
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
 <br />
@@ -68,7 +68,7 @@ He had more surprise for us in store as he started a blog soon. Though he hasn't
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qKXs0AcGsdpWmncFZpAWcHJ7x1vpcTPnfpkocwLmNYsMWyZXa7jmVfcLMHx7DBzOr9Q1Ctt6EX3QLPNLE-MnvJzP495bjv60e1GiDneX_LBUyas0Ne1tm-j_0d1LjLkWm9IGp4Lp4GaV/s1600/1610784_704943446267300_2008385430787493242_n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qKXs0AcGsdpWmncFZpAWcHJ7x1vpcTPnfpkocwLmNYsMWyZXa7jmVfcLMHx7DBzOr9Q1Ctt6EX3QLPNLE-MnvJzP495bjv60e1GiDneX_LBUyas0Ne1tm-j_0d1LjLkWm9IGp4Lp4GaV/s1600/1610784_704943446267300_2008385430787493242_n.jpg" height="320" width="155" /></span></a></div>
+<a href="/images/blogger/guest-post-series--anjaan---a-review/1610784_704943446267300_2008385430787493242_n__9a39dd9d.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><img border="0" src="/images/blogger/guest-post-series--anjaan---a-review/1610784_704943446267300_2008385430787493242_n__9a39dd9d.jpg" height="320" width="155" /></span></a></div>
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><br /></span>
 <span style="color: #20124d; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;">Bottomline: Rajju Bhai has made Viswha bhai a better bhai (Acha Kidar?).</span><br />

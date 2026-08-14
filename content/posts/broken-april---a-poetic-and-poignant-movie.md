@@ -20,7 +20,7 @@ The movie starts with a young boy, who introduces himself as Pacu. He goes on to
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihgfxiBnboSJRKNBg1sNbR7Ik9dzHCGMHUkDt2xQKJ4nuUoCB6DaK_gh0L8Ta_8l6aIE6S0lh2R9g95WT47Mk_x3LLhXZAlhR1O5OgUFdGF5HSQQ5ENqEqPcR4j5DLf8YKLoiAK2LB-Gg9/s1600/abril.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihgfxiBnboSJRKNBg1sNbR7Ik9dzHCGMHUkDt2xQKJ4nuUoCB6DaK_gh0L8Ta_8l6aIE6S0lh2R9g95WT47Mk_x3LLhXZAlhR1O5OgUFdGF5HSQQ5ENqEqPcR4j5DLf8YKLoiAK2LB-Gg9/s320/abril.jpg" width="320" /></a></div>
+<a href="/images/blogger/broken-april---a-poetic-and-poignant-movie/abril__c7d9ff98.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/broken-april---a-poetic-and-poignant-movie/abril__c4f80e2e.jpg" width="320" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <br />
@@ -33,7 +33,7 @@ Reading my sludgy attempt to describe the plot line, you must be imagining a gor
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSw_4L9n_8uLSaKey-UEC4d1kAaPiuqz4qH_-mWsc5kWQ-ojZs5dAZgyovfGiIfIZyG4ncjV0hL7bVYh6MZFfZ08AXdO434qitXYn9GYRGQXui5kDA7kbIQ4YMcyu1abdEvfEzhbGjC7GE/s1600/tonio-and-pacu-in-behind-the-sun.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSw_4L9n_8uLSaKey-UEC4d1kAaPiuqz4qH_-mWsc5kWQ-ojZs5dAZgyovfGiIfIZyG4ncjV0hL7bVYh6MZFfZ08AXdO434qitXYn9GYRGQXui5kDA7kbIQ4YMcyu1abdEvfEzhbGjC7GE/s320/tonio-and-pacu-in-behind-the-sun.jpg" width="320" /></a></div>
+<a href="/images/blogger/broken-april---a-poetic-and-poignant-movie/tonio-and-pacu-in-behind-the-sun__58d96000.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="184" src="/images/blogger/broken-april---a-poetic-and-poignant-movie/tonio-and-pacu-in-behind-the-sun__63084fd0.jpg" width="320" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <ul style="text-align: left;">

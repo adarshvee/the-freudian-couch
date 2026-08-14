@@ -41,7 +41,7 @@ A few years back, I wanted to write about a very small Tamil movie made by a deb
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpZiNsJOaDmk1Pm00RoelPXzk9DpMu65CCx821mFy-qpdzd6SdN_D5dG-1ouYXSTf8vxhF79AIZ2p2zFbSozOR70fUiYpeUkQVrMHH5FQkhmitzG5CZ66xAF-6XULjZEZKsbOiCj5XJRri/s1600/harry-illustration-.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpZiNsJOaDmk1Pm00RoelPXzk9DpMu65CCx821mFy-qpdzd6SdN_D5dG-1ouYXSTf8vxhF79AIZ2p2zFbSozOR70fUiYpeUkQVrMHH5FQkhmitzG5CZ66xAF-6XULjZEZKsbOiCj5XJRri/s320/harry-illustration-.jpg" width="214" /></a></div>
+<a href="/images/blogger/hair-experts/harry-illustration__94fe44a4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/hair-experts/harry-illustration__fcae6ecb.jpg" width="214" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

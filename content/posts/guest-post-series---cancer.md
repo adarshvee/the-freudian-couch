@@ -27,7 +27,7 @@ url = "2015/06/guest-post-series-cancer.html"
 </div>
 <div class="MsoNormal" style="text-align: justify;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2GyXnVK2zre77bPuID73A0pkR0NjuICCYO7cVDiM5b4zfKgqFv9F0icKOsZ2i6xLZEVU3Bd-5xYYHJutwuWyMlZTAaSXwv2_IzTi-FD5q4qIzZ6q52wKFwCEp4xV4-hj1Auz443nvJKLb/s1600/cartoonspeech_bubble_117738.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2GyXnVK2zre77bPuID73A0pkR0NjuICCYO7cVDiM5b4zfKgqFv9F0icKOsZ2i6xLZEVU3Bd-5xYYHJutwuWyMlZTAaSXwv2_IzTi-FD5q4qIzZ6q52wKFwCEp4xV4-hj1Auz443nvJKLb/s320/cartoonspeech_bubble_117738.jpg" width="320" /></a></div>
+<a href="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__9477de18.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="238" src="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__5f9c621b.jpg" width="320" /></a></div>
 <span lang="EN-IN"><span style="color: #20124d; font-family: Georgia, Times New Roman, serif;"><br /></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <span lang="EN-IN"><span style="color: #20124d; font-family: Georgia, Times New Roman, serif;"><br /></span></span>

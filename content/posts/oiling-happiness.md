@@ -16,7 +16,7 @@ url = "2014/08/oiling-happiness.html"
 A couple of months back, I was having one of those sudden urges I occasionally get to read a book immedietely. Such urges have an uncanny ability to creep in exactly when there is not a single good book within reach. But they are also compulsive, and I couldn't give up. I scoured my uncle's place thoroughly, and located a few books that I had to do with. One of them was this interesting looking book that you see below. Since my work is related vaguely to the oil and gas industry, I decided to do something that I seldom do : mix business with pleasure.</span></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I6DxaKfxDH1pU2pz6jiwl1jEuckRPHlPZzJbhgs2sbPHmFeg9-czds79mdXgu0TeyDGZQeJcaT5EfkDJpuRKdPfl6tPQ-ujn677ZiuRd5yazTe_89nIGaAaysz9ZE42RjprBOGl00wIJ/s1600/2014-04-04+13.25.37-1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I6DxaKfxDH1pU2pz6jiwl1jEuckRPHlPZzJbhgs2sbPHmFeg9-czds79mdXgu0TeyDGZQeJcaT5EfkDJpuRKdPfl6tPQ-ujn677ZiuRd5yazTe_89nIGaAaysz9ZE42RjprBOGl00wIJ/s1600/2014-04-04+13.25.37-1.jpg" height="320" width="240" /></a></div>
+<a href="/images/blogger/oiling-happiness/2014-04-04-13.25.37-1__a85b220c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/oiling-happiness/2014-04-04-13.25.37-1__a85b220c.jpg" height="320" width="240" /></a></div>
 <br />
 <div style="text-align: justify;">
 <span style="font-size: medium;">

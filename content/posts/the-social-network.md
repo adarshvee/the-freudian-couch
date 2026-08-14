@@ -76,7 +76,7 @@ url = "2012/11/the-social-network.html"
 <span style="font-family: Verdana, sans-serif;"><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi25iyDj9e2F1wW3l4jYpryjs2bcG5W1NE0W3O7bsn0YCioX_XjvrR3SLL8vNRyUU4ldttK47k1D0NI_g5yA3HE2gVlQ9XOwlEuXvNgPsN1-VXGyUMTtAjzB0qoBS6xFkxMxZOJLP4x4g0Q/s1600/internet-addiction.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="266" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi25iyDj9e2F1wW3l4jYpryjs2bcG5W1NE0W3O7bsn0YCioX_XjvrR3SLL8vNRyUU4ldttK47k1D0NI_g5yA3HE2gVlQ9XOwlEuXvNgPsN1-VXGyUMTtAjzB0qoBS6xFkxMxZOJLP4x4g0Q/s320/internet-addiction.jpg" width="320" /></a></div>
+<a href="/images/blogger/the-social-network/internet-addiction__aba10710.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="266" src="/images/blogger/the-social-network/internet-addiction__8ea0789a.jpg" width="320" /></a></div>
 <span style="font-family: Verdana, sans-serif;"><br /></span></div>
 </div>
 <div style="text-align: center;">

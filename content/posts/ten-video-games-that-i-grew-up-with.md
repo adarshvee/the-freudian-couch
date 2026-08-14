@@ -22,7 +22,7 @@ When I see the variety and detail in video games today, I never cease to be amaz
 <div style="text-align: justify;">
 I apologise for the not-so-catchy-sounding title, but if you stretch your memory a litttle, you will remember that hand-held games we grew up with did not have names. They had numbers, and in my own device, the car games were numbered B1 to B4. The concept was simple. You are riding a car in what can be imagined as a two lane highway. The only aim of the game is that you should not crash with the cars coming in the oppsite direction. Yet, this game was completely engrossing. I remember starting with level 1, where the car would move slowly, and the speed would get increased as we gather more speed. In case I stirred your nostalgia a little, have a look at this <a href="http://www.youtube.com/watch?v=rUcxD9_6eiM" target="_blank">video</a>.&nbsp;</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAqpGz5djLlFmjC3c8AvcAZiaqTsq9U1wO63NOlGtWrkCzTw_xS3fXFOgO0g0GNObqMDFlAVBaZIVP3H__mFIKs3fKQxD4kLCJrOr07Ohb5wTgGXIyGuGWri7xzv-KCsiBLAUPHJUBBokx/s1600/BrickVideoGame.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="244" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAqpGz5djLlFmjC3c8AvcAZiaqTsq9U1wO63NOlGtWrkCzTw_xS3fXFOgO0g0GNObqMDFlAVBaZIVP3H__mFIKs3fKQxD4kLCJrOr07Ohb5wTgGXIyGuGWri7xzv-KCsiBLAUPHJUBBokx/s320/BrickVideoGame.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__bfe50f83.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="244" src="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__03b88424.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: justify;">
@@ -32,7 +32,7 @@ I am sure this is up high on everyone's list. I won't waste time by trying to de
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAw_K7brfIaRidCPqzhyphenhyphenp3TguhotYqTND7h811aOchyWzDSDR9Bhw_KGGLLXrTNJmNb-ZCuLj-uddIxm5oXOryfpcq3hQPg5vVYA_rdUvvma53UKDDvcCLOjukW6e3dSZ8Jqy7MXD6rvK/s1600/super_mario_war.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAw_K7brfIaRidCPqzhyphenhyphenp3TguhotYqTND7h811aOchyWzDSDR9Bhw_KGGLLXrTNJmNb-ZCuLj-uddIxm5oXOryfpcq3hQPg5vVYA_rdUvvma53UKDDvcCLOjukW6e3dSZ8Jqy7MXD6rvK/s320/super_mario_war.png" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__56c2ffc4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__4a0b1f05.png" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -66,7 +66,7 @@ I saw this game for the first time when a school mate took me to a browsing cent
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAw_K7brfIaRidCPqzhyphenhyphenp3TguhotYqTND7h811aOchyWzDSDR9Bhw_KGGLLXrTNJmNb-ZCuLj-uddIxm5oXOryfpcq3hQPg5vVYA_rdUvvma53UKDDvcCLOjukW6e3dSZ8Jqy7MXD6rvK/s1600/super_mario_war.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTAw_K7brfIaRidCPqzhyphenhyphenp3TguhotYqTND7h811aOchyWzDSDR9Bhw_KGGLLXrTNJmNb-ZCuLj-uddIxm5oXOryfpcq3hQPg5vVYA_rdUvvma53UKDDvcCLOjukW6e3dSZ8Jqy7MXD6rvK/s320/super_mario_war.png" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__56c2ffc4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__4a0b1f05.png" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -78,7 +78,7 @@ I discovered this game along with a couple of my cousins, and we were awed by th
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoyn5Dy5EFkE0QlmUzn2qpY-TfyzNTBTIGj6mA84oo-muV041SH5C1z_K0ePrCUI0AxwtKkmeflDvJ0Xs6Iyc8dJtBpRO1XBSih1_P_pYtl2cGx5Px7xXar5qG36PVgSozxSndGuYWHCR-/s1600/TeutonicKnight.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoyn5Dy5EFkE0QlmUzn2qpY-TfyzNTBTIGj6mA84oo-muV041SH5C1z_K0ePrCUI0AxwtKkmeflDvJ0Xs6Iyc8dJtBpRO1XBSih1_P_pYtl2cGx5Px7xXar5qG36PVgSozxSndGuYWHCR-/s1600/TeutonicKnight.jpg" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/TeutonicKnight__58161b14.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/ten-video-games-that-i-grew-up-with/TeutonicKnight__58161b14.jpg" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -91,7 +91,7 @@ I have always had a fascination for cricket games, and EA Cricket is here purely
 <div class="separator" style="clear: both; text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw0IEb8PLkXY61ddgUxnWfAtSC_dsAOALbhcVdNHzY_kN8lMBdTZKyca8M6hMEIwOTlHXo6yVS0IZ7fqoEHY8WD5bloPXX4TjwCELrUzB56GxU-42jaUiXF0_RcoXZt6MzFBOAw3oZqCBc/s1600/_-EA-Sports-Cricket-07-PS2-_.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="224" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw0IEb8PLkXY61ddgUxnWfAtSC_dsAOALbhcVdNHzY_kN8lMBdTZKyca8M6hMEIwOTlHXo6yVS0IZ7fqoEHY8WD5bloPXX4TjwCELrUzB56GxU-42jaUiXF0_RcoXZt6MzFBOAw3oZqCBc/s320/_-EA-Sports-Cricket-07-PS2-_.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___cbdb547a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="224" src="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___c72de76c.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -103,7 +103,7 @@ This was a game that originated from a less interesting version in Brick video g
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnZezOuomItnzTIFS7b4ta_6c786fAc_LxpnabS_mgjn38fiW0Cjdvlj02FCpZYPQBsInjOlR-Vfgr1R9Tfcaen8KrhiyKC4AuDBrVLgf5degpTFZqe5VyqvYVczyb6RxHGE2sRNzQAY1/s1600/Snake.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnZezOuomItnzTIFS7b4ta_6c786fAc_LxpnabS_mgjn38fiW0Cjdvlj02FCpZYPQBsInjOlR-Vfgr1R9Tfcaen8KrhiyKC4AuDBrVLgf5degpTFZqe5VyqvYVczyb6RxHGE2sRNzQAY1/s1600/Snake.jpg" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/Snake__98d985ca.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/ten-video-games-that-i-grew-up-with/Snake__98d985ca.jpg" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -115,7 +115,7 @@ The best cricket game ever, its only drawback being that the game is very fast p
 <div class="separator" style="clear: both; text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dOqpv9L0U_FaV4P88F2WMZeo-9CKoZ7n_QVst6AXy2BOe3mGaP4zmOY_k3tvh8B2DZr73LXXz6d-Rfuf95wAwX5f-dVNkNm5zUR-2qnJ0_qhuC_1FG23K0R0GHWrSOhDcMZnBX14bI5K/s1600/10de9beeb1f7413286a8b6b6e7a32d1f.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dOqpv9L0U_FaV4P88F2WMZeo-9CKoZ7n_QVst6AXy2BOe3mGaP4zmOY_k3tvh8B2DZr73LXXz6d-Rfuf95wAwX5f-dVNkNm5zUR-2qnJ0_qhuC_1FG23K0R0GHWrSOhDcMZnBX14bI5K/s320/10de9beeb1f7413286a8b6b6e7a32d1f.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__c1ed242b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__0711e4e1.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both;">
 <br /></div>
 <br />
@@ -128,7 +128,7 @@ I discovered this game when I got a laptop during the&nbsp;beginning&nbsp;of the
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPTNVeI2_mlO40rpxtDgyKIhx-90pnQjgwZzdAegxozrWSFvi0SJ0U4dQm2-C-B9_1wwP5SU7UskaFIWfPfFp9aNs3I1Dm1Vvk0p5qZBuXb4r_o96KiofrHRxSnIaQpCZnfwiqjsHhZMkY/s1600/3d-ping-pong-10-1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPTNVeI2_mlO40rpxtDgyKIhx-90pnQjgwZzdAegxozrWSFvi0SJ0U4dQm2-C-B9_1wwP5SU7UskaFIWfPfFp9aNs3I1Dm1Vvk0p5qZBuXb4r_o96KiofrHRxSnIaQpCZnfwiqjsHhZMkY/s320/3d-ping-pong-10-1.jpg" width="213" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__40c4dcfa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__14ca1947.png" width="213" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: justify;">
@@ -138,7 +138,7 @@ I came across this game in a friend's Sony Ericson mobile in my third year. The 
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3oTAlUZgMX6unwoL_PMDLAsQGSkFkkPT2vbtRG-cxRsIJCLEGATkbuoO8yeab_S-QwsqIG8ZPzWfBE7PBofHZFVVaZE1THn-wAumMYikArbw4lDSX_Ols_l8CYa-0ZWvoa2Se0hOWt2w/s1600/johnny-crash.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz3oTAlUZgMX6unwoL_PMDLAsQGSkFkkPT2vbtRG-cxRsIJCLEGATkbuoO8yeab_S-QwsqIG8ZPzWfBE7PBofHZFVVaZE1THn-wAumMYikArbw4lDSX_Ols_l8CYa-0ZWvoa2Se0hOWt2w/s320/johnny-crash.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__9e50a437.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__ec10fc61.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: justify;">

@@ -24,7 +24,7 @@ Wanting to write a series of articles on how I feel about motivational messages,
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSOIAhbEQ8bgVnm6CxTQhy5_ElozklGRdkonv-1iEVvU4YUsCIELpJgXFvclXrj7V8FWAFchZmnKSmjumt46Sm7x4azjzVKEgEjyaJMqW6hLnwJoiqfyC_Jo57iSXH8i01BSYT_gupOLFW/s1600/Success+Starts+Here+Freeway+Style+Desert+Landscape.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSOIAhbEQ8bgVnm6CxTQhy5_ElozklGRdkonv-1iEVvU4YUsCIELpJgXFvclXrj7V8FWAFchZmnKSmjumt46Sm7x4azjzVKEgEjyaJMqW6hLnwJoiqfyC_Jo57iSXH8i01BSYT_gupOLFW/s1600/Success+Starts+Here+Freeway+Style+Desert+Landscape.jpg" height="240" width="320" /></a></div>
+<a href="/images/blogger/the-success-series--the-dog-and-the-buffalo/Success-Starts-Here-Freeway-Style-Desert-Landscape__5db41f7e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-success-series--the-dog-and-the-buffalo/Success-Starts-Here-Freeway-Style-Desert-Landscape__5db41f7e.jpg" height="240" width="320" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

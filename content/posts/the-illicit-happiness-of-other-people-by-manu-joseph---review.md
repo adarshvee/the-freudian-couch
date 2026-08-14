@@ -37,7 +37,7 @@ they?</i>", she asks her younger son.&nbsp;</div>
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMwMXWWAk7OEvn-nGcs-wzC1UGdh4Uef-HKCcaffQdveqUlavV2O2V4-JfqyybR_Yh-xxdznzO0L_hyphenhyphen0-hWgCGly0xobNhrsuRkUKdRzjZ6nUqZWnhXzA5-_3Y6DRasiVCqvBiwlB9tSUb/s1600/Illicit+Happiness.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMwMXWWAk7OEvn-nGcs-wzC1UGdh4Uef-HKCcaffQdveqUlavV2O2V4-JfqyybR_Yh-xxdznzO0L_hyphenhyphen0-hWgCGly0xobNhrsuRkUKdRzjZ6nUqZWnhXzA5-_3Y6DRasiVCqvBiwlB9tSUb/s1600/Illicit+Happiness.jpg" height="320" width="199" /></a></div>
+<a href="/images/blogger/the-illicit-happiness-of-other-people-by-manu-joseph---review/Illicit-Happiness__b7015217.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-illicit-happiness-of-other-people-by-manu-joseph---review/Illicit-Happiness__b7015217.jpg" height="320" width="199" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

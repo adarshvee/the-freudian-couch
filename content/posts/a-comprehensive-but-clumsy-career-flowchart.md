@@ -30,7 +30,7 @@ Ever since the overwhelmingly positive response by all of my one and half reader
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH9Yy_aRwBlXYirEulhD1Tvc5ZvTPeJwZmGqysIfbIGk9GKO2AAhuGlmymI_jHzLTDl5k-YGDOFKNvDCDipsNvHgyZfIdTbI5Ngv9hJ0jphgqjwcI1WPOKFc56WFW9lS_YCks1j0jJo6In/s3000/Diagram1.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH9Yy_aRwBlXYirEulhD1Tvc5ZvTPeJwZmGqysIfbIGk9GKO2AAhuGlmymI_jHzLTDl5k-YGDOFKNvDCDipsNvHgyZfIdTbI5Ngv9hJ0jphgqjwcI1WPOKFc56WFW9lS_YCks1j0jJo6In/s1600/Diagram1.jpeg" /></a></div>
+<a href="/images/blogger/a-comprehensive-but-clumsy-career-flowchart/Diagram1__568818ae.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/a-comprehensive-but-clumsy-career-flowchart/Diagram1__17312d98.jpeg" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">

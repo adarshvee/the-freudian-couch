@@ -28,7 +28,7 @@ Desecrates was a rationalist. He was aware of the possibility that anything we s
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBh3fnjyRDGzkyFzNHY5sYKhmC9L3ABTMKM67uFHHdgXpTOSc3_ECNfBN_D7QfjM3J5kMBdl8NC7AJ4R9-3QqYB7w-b3oHtpf57XwojUYYx7WtKqQeogWwC6II8knJkddN3f8Wh7Sf9CdC/s1600/cogito-ergo-sum-consciousness-2.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBh3fnjyRDGzkyFzNHY5sYKhmC9L3ABTMKM67uFHHdgXpTOSc3_ECNfBN_D7QfjM3J5kMBdl8NC7AJ4R9-3QqYB7w-b3oHtpf57XwojUYYx7WtKqQeogWwC6II8knJkddN3f8Wh7Sf9CdC/s1600/cogito-ergo-sum-consciousness-2.gif" height="281" width="320" /></a></div>
+<a href="/images/blogger/cogito-ergo-sum/cogito-ergo-sum-consciousness-2__bf48a42a.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/cogito-ergo-sum/cogito-ergo-sum-consciousness-2__bf48a42a.gif" height="281" width="320" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

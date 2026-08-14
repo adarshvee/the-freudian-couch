@@ -35,7 +35,7 @@ ended up as an "old teak chair"</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZr8AYghYM19JehPx5dNivGKke9l7CRti9DUUeB_GnmvwQCHHF8vgy-nfr84SEZzbPqZfE40imNXsoZLH8qdHsI7qMxkBhul19WoPtlJTnIAmDv0bPLzdRcFqTca50Jf2g1NL_R71PuPJY/s1600/old-bullock-cart-chair.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZr8AYghYM19JehPx5dNivGKke9l7CRti9DUUeB_GnmvwQCHHF8vgy-nfr84SEZzbPqZfE40imNXsoZLH8qdHsI7qMxkBhul19WoPtlJTnIAmDv0bPLzdRcFqTca50Jf2g1NL_R71PuPJY/s320/old-bullock-cart-chair.jpg" width="320" /></a></div>
+<a href="/images/blogger/a-strange-tale---a-short-story/old-bullock-cart-chair__73fafb74.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/a-strange-tale---a-short-story/old-bullock-cart-chair__7ab4a61c.jpg" width="320" /></a></div>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />
 <br />
 <div style="text-align: justify;">

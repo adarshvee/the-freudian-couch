@@ -42,7 +42,7 @@ url = "2013/06/and-mountains-echoed-review.html"
 <span style="background-color: white;">
 </span>
 <div class="separator" style="clear: both; text-align: center;">
-<span style="background-color: white;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbwn9r3lfagGccyqYkhietTc9tG_4Q_pEpz8JzZsNnFMte2m_dLq8luS0efRIy1nVQoRGY8qeGq5Bgx31OlXygv-mkk1JWnOuHICq84TUHu8G4vR779XdDzb7NjTWSisVuRmumwDWPo7Ag/s1600/And+The+Mountains.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbwn9r3lfagGccyqYkhietTc9tG_4Q_pEpz8JzZsNnFMte2m_dLq8luS0efRIy1nVQoRGY8qeGq5Bgx31OlXygv-mkk1JWnOuHICq84TUHu8G4vR779XdDzb7NjTWSisVuRmumwDWPo7Ag/s1600/And+The+Mountains.jpg" /></a></span></div>
+<span style="background-color: white;"><a href="/images/blogger/and-the-mountains-echoed---review/And-The-Mountains__d398e4f6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/and-the-mountains-echoed---review/And-The-Mountains__d398e4f6.jpg" /></a></span></div>
 <span style="background-color: white;">
 <div style="text-align: justify;">
 <span style="color: #181818; font-family: Georgia, Times, 'Times New Roman', serif; line-height: 18px;"><br /></span></div>

@@ -20,7 +20,7 @@ url = "2014/10/stop-shrug-and-fly-you-fools.html"
 <span style="background-color: transparent; font-family: &quot;helvetica neue&quot;; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPb0BUbE6ww6LiDRlxGt7jo1fzaHCC5fMvhjWptSmiwn0HCYgtZDFTT2hKiVnMmCoDkk267v99psgFs9oeK-CuSLUMHIig6hYdPdZnMbYYbVwVoHyHBs_G7S1pBes6JGWlZeYlMc-wZn8A/s1600/calvin.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="278" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPb0BUbE6ww6LiDRlxGt7jo1fzaHCC5fMvhjWptSmiwn0HCYgtZDFTT2hKiVnMmCoDkk267v99psgFs9oeK-CuSLUMHIig6hYdPdZnMbYYbVwVoHyHBs_G7S1pBes6JGWlZeYlMc-wZn8A/s400/calvin.jpg" width="400" /></a></div>
+<a href="/images/blogger/stop-shrug-and-fly-you-fools/calvin__0ea27296.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="278" src="/images/blogger/stop-shrug-and-fly-you-fools/calvin__1039ae1d.jpg" width="400" /></a></div>
 <span style="background-color: transparent; font-family: &quot;helvetica neue&quot;; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div>
 <div style="text-align: justify;">
 <b style="font-weight: normal;"><br /></b></div>

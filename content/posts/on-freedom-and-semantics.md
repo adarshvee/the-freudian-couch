@@ -16,7 +16,7 @@ A stone thrown up in the air has to come back down. This is the undefiable law o
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgD_VV0VFapy6fcbHZgxW4CEztZ4hdXZ60x7KJfnuPj5Ww_uA1K6kyxryGZIffQUxJq41s8L8y1YgiHulhQoo8VTeDirySIxNaHWsnlOmPkqd-jSaMYM5C82goay51kLyl7caU17XOp8h5/s1600/be-free.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgD_VV0VFapy6fcbHZgxW4CEztZ4hdXZ60x7KJfnuPj5Ww_uA1K6kyxryGZIffQUxJq41s8L8y1YgiHulhQoo8VTeDirySIxNaHWsnlOmPkqd-jSaMYM5C82goay51kLyl7caU17XOp8h5/s1600/be-free.jpg" height="298" width="320" /></a></div>
+<a href="/images/blogger/on-freedom-and-semantics/be-free__9e62abc7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/on-freedom-and-semantics/be-free__9e62abc7.jpg" height="298" width="320" /></a></div>
 <div>
 <br /></div>
 <div>

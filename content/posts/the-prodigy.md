@@ -38,7 +38,7 @@ With a collective sigh of relief, the audience continued their applause. Radha t
 <i>She will be fine."</i> Saying so, he opened the door of his sedan, hesitated a little, and spoke again -- this time in an uncharacteristically soft and faraway voice -- <i>"I will retire from teaching dance once her Arengetram is over. She will be my last student. She will be the best."</i><br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_GFrdGOcl7-PQFxOGd2lBLYCr1XTnRBmjR-SNxiK6emjwM0W3n3865mgCRo_N4rd8AfNPLqQLzi80-sZIAgMIKof1rIEG-sTpVVg1kn9SCTrtR-ZcGeXptAR8c5aSySUdQE7vXembOUl/s1600/dancing1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1301" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_GFrdGOcl7-PQFxOGd2lBLYCr1XTnRBmjR-SNxiK6emjwM0W3n3865mgCRo_N4rd8AfNPLqQLzi80-sZIAgMIKof1rIEG-sTpVVg1kn9SCTrtR-ZcGeXptAR8c5aSySUdQE7vXembOUl/s320/dancing1.jpg" width="260" /></a></div>
+<a href="/images/blogger/the-prodigy/dancing1__021d00ca.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1301" height="320" src="/images/blogger/the-prodigy/dancing1__777487c4.jpg" width="260" /></a></div>
 <br />
 <br />
 <div style="text-align: justify;">

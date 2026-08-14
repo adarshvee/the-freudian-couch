@@ -79,14 +79,14 @@ Throughout the latter part year, I had been of the impression that I was reading
 <b>2) The Illicit Happiness of Other People by Manu Joseph</b> : Reviewed on my blog <a href="http://thefreudiancouch.com/2014/09/the-illicit-happiness-of-other-people.html" target="_blank"><span style="color: blue;">here</span></a>.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYnz2PANhXxFawTOFiaifuQWiFVTr2pvbbIv8CGysUEBYb2-3eYD2fOca1Bp4FacVMcCUwCVPUWMyyRVApWLjmbtj0lnQyBtrtVASp0RxEOebfvpw9vYc7-c-m8vqiZIuQdphWvenHDgve/s1600/Illicit+Happiness.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYnz2PANhXxFawTOFiaifuQWiFVTr2pvbbIv8CGysUEBYb2-3eYD2fOca1Bp4FacVMcCUwCVPUWMyyRVApWLjmbtj0lnQyBtrtVASp0RxEOebfvpw9vYc7-c-m8vqiZIuQdphWvenHDgve/s1600/Illicit+Happiness.jpg" height="320" width="199" /></a></div>
+<a href="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" height="320" width="199" /></a></div>
 <br /></div>
 <div>
 <br />
 <b>1) Crime and Punishment by Fyodor Dostoyevsky </b>: Reviewed on my blog <a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment" target="_blank"><span style="color: blue;">here</span></a>.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLSCZRlWRWuyI4NpiafZKXqlXHdxKk-2eI5JHe5s9GFTCpuMKHjdcO0ooBIscBJ-yl8Kq7t-HrQlNJUgyPpTzTeSdGUCNiZdpnJQZ1QX1RcvK5qNXXH8seePEjum4U36Wg2LD9IPkBzb8z/s1600/crime_punishment200.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLSCZRlWRWuyI4NpiafZKXqlXHdxKk-2eI5JHe5s9GFTCpuMKHjdcO0ooBIscBJ-yl8Kq7t-HrQlNJUgyPpTzTeSdGUCNiZdpnJQZ1QX1RcvK5qNXXH8seePEjum4U36Wg2LD9IPkBzb8z/s1600/crime_punishment200.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-made-my-2014/crime_punishment200__8a488a26.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-made-my-2014/crime_punishment200__8a488a26.jpg" /></a></div>
 <br />
 <br />
 Outside books, it has been my most memorable year till date. Also, this happens to be the year where I inundated you all with a personal record number of blogposts. I will try not to repeat it :) Thanks for putting up with me. Wish you all a great year ahead!</div>

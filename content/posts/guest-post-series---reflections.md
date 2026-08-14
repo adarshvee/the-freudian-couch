@@ -110,7 +110,7 @@ memories being created now! Maybe that’s something worth reflecting on…</spa
 <div class="MsoNormal" style="text-align: justify;">
 <span lang="EN-US"><span style="color: #20124d; font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-TN6UBU1yiecd55cA0KdIjuve0QfhFquESH61rbSo2jQsRM4MNkkZSHwh_OX7AFrd7DKAcXwtKOssQt4HKnsH-o5s6HbWPodiB6NDxoncOf63IYm1jRVmH73Zf6yPNPgWt2lSnzU2ymBt/s1600/Place+de+la+Bourse.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-TN6UBU1yiecd55cA0KdIjuve0QfhFquESH61rbSo2jQsRM4MNkkZSHwh_OX7AFrd7DKAcXwtKOssQt4HKnsH-o5s6HbWPodiB6NDxoncOf63IYm1jRVmH73Zf6yPNPgWt2lSnzU2ymBt/s1600/Place+de+la+Bourse.JPG" height="240" width="320"></a></div>
+<a href="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" height="240" width="320"></a></div>
 <div class="MsoNormal" style="text-align: justify;">
 <span lang="EN-US"><span style="color: #20124d; font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
 </div>

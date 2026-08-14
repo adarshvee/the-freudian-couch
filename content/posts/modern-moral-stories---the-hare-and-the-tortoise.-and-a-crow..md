@@ -16,7 +16,7 @@ Once upon a time, a Hare and a Tortoise happened to meet at a village. Being old
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4f-6wyxdkkS_vsafqYNg36GjzIUbR-rbdWVrNDHXZtTpNns9yWCByS7ysWZ7XhPfZsmuFxHTSYEee5BDQWhHzWj2DTPjsY_6eJ_H9gj2opSTHd_hWayEC0aQvMzPvQCIP8KLWvsERfV2s/s1600/tommy.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4f-6wyxdkkS_vsafqYNg36GjzIUbR-rbdWVrNDHXZtTpNns9yWCByS7ysWZ7XhPfZsmuFxHTSYEee5BDQWhHzWj2DTPjsY_6eJ_H9gj2opSTHd_hWayEC0aQvMzPvQCIP8KLWvsERfV2s/s320/tommy.gif" width="248" /></a></div>
+<a href="/images/blogger/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./tommy__e68d0537.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./tommy__e7fd429d.gif" width="248" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

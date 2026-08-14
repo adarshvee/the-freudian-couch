@@ -26,7 +26,7 @@ As described in a previous blog <a href="http://www.thefreudiancouch.com/2012/10
 <b>Verdict</b> : I would thoroughly recommend this book to most people. Go read!!<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Cy2_OvzH7aAcJHZDEECw-TQPcOiu8cSux2Qvhbt_6uLmnjCVelqknKlxoR0Ka3S1F0pfzK0GUqlegKSJxW1mg3VVGx8UG6ZMSRNB41kRTgXVrzed2w8p4R3xDZXZJiZ2PHhs6L5cMRlG/s1600/freedomatmidnight.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Cy2_OvzH7aAcJHZDEECw-TQPcOiu8cSux2Qvhbt_6uLmnjCVelqknKlxoR0Ka3S1F0pfzK0GUqlegKSJxW1mg3VVGx8UG6ZMSRNB41kRTgXVrzed2w8p4R3xDZXZJiZ2PHhs6L5cMRlG/s1600/freedomatmidnight.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/freedomatmidnight__d77d9dc9.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/freedomatmidnight__d77d9dc9.jpg" /></a></div>
 <br />
 <br />
 <h3 style="text-align: left;">
@@ -49,7 +49,7 @@ Let me declare at the outset that I haven't read this author's more famous "The 
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaG95WhK9ObKFXb0ccV3NDn4clBZb5PWJMEwczk0VtCcaW5TdC_w3yVmMLeCoe5isbu39aNNR9COaXghLZFB6cNT1JRp_7QoaKnoJxa4gSRCjSS9YmiUoMqJG1vRrMgaYm2vd6dPrD2CFh/s1600/LastManOnTower.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaG95WhK9ObKFXb0ccV3NDn4clBZb5PWJMEwczk0VtCcaW5TdC_w3yVmMLeCoe5isbu39aNNR9COaXghLZFB6cNT1JRp_7QoaKnoJxa4gSRCjSS9YmiUoMqJG1vRrMgaYm2vd6dPrD2CFh/s1600/LastManOnTower.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/LastManOnTower__749e395e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/LastManOnTower__749e395e.jpg" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 </div>
@@ -75,7 +75,7 @@ Each of us is a philosopher, and we all come up with a brand of philosophy that 
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOtdJ-hmIfByVxj4jhJjqmuh6pX95xbxaKLnpyP1MYp91PV3nYv4VFcvmHrQQvfDTfmJyWr0j2KqvVx3BYNfnHqxxjxElgOeOwZIU7nN5N8fflb04Sgxn2L8__jNVRUeFZxeGct1WOjri/s1600/OfhumanBondage.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOtdJ-hmIfByVxj4jhJjqmuh6pX95xbxaKLnpyP1MYp91PV3nYv4VFcvmHrQQvfDTfmJyWr0j2KqvVx3BYNfnHqxxjxElgOeOwZIU7nN5N8fflb04Sgxn2L8__jNVRUeFZxeGct1WOjri/s1600/OfhumanBondage.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/OfhumanBondage__554eb550.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/OfhumanBondage__554eb550.jpg" /></a></div>
 <div style="text-align: justify;">
 <br /></div>
 </div>
