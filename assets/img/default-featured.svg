@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <rect width="1200" height="600" fill="#1c1917"/>
+  <rect x="0" y="0" width="1200" height="600" fill="#84cc16" opacity="0.05"/>
+  <rect x="540" y="238" width="120" height="5" rx="2" fill="#84cc16"/>
+  <text x="600" y="318" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="58" fill="#e7e5e4" letter-spacing="2">The Freudian Couch</text>
+  <text x="600" y="372" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="25" fill="#84cc16" letter-spacing="7">BOOKS · STORIES · ESSAYS</text>
+  <rect x="540" y="410" width="120" height="5" rx="2" fill="#84cc16"/>
+</svg>

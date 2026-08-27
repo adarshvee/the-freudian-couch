@@ -9,6 +9,7 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 smartTOC = "Enable"
+defaultFeaturedImage = "img/default-featured.svg"
 
 [header]
 layout = "basic"
