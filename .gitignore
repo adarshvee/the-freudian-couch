@@ -9,3 +9,12 @@ resources/_gen/
 
 # Local working docs (not part of the site)
 SITE_AUDIT.md
+HANDOFF.md
+
+# One-off migration tooling and its generated reports.
+# These do work on the content; they aren't part of the site. Kept on disk only.
+# (scripts/blogger_migrate_manifest.json stays tracked — it's the rollback map
+# for the image migration, not tooling. Already-tracked files ignore this anyway.)
+scripts/*.py
+scripts/blogger_audit.json
+scripts/blogger_audit_report.md
