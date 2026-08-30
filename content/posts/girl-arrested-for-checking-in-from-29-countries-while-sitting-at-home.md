@@ -12,7 +12,7 @@ url = "2013/09/girl-arrested-for-checking-in-from-29.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: justify;">
-Inspired by a lot of Indian bloggers, I have been wanting to write satirical news items for a long time. I finally got myself to do it, thanks to the "Citizen Journalism" section of the fantastic website Faking News. Here is a link to my <a href="http://my.fakingnews.firstpost.com/2013/09/07/girl-arrested-for-checking-in-from-29-countries-while-sitting-at-home/" target="_blank"><span style="color: blue;">article</span></a>&nbsp;at their site. For the sake of posterity and my own reference, I am pasting the entire text of the article below :</div>
+Inspired by a lot of Indian bloggers, I have been wanting to write satirical news items for a long time. I finally got myself to do it, thanks to the "Citizen Journalism" section of the fantastic website Faking News. Here is a link to my <a href="http://my.fakingnews.firstpost.com/2013/09/07/girl-arrested-for-checking-in-from-29-countries-while-sitting-at-home/" target="_blank"><span>article</span></a>&nbsp;at their site. For the sake of posterity and my own reference, I am pasting the entire text of the article below :</div>
 <h3 style="text-align: left;">
 <br /></h3>
 <h3 style="text-align: left;">
@@ -24,7 +24,7 @@ The Tamil Nadu police has arrested 24-year old Soumya this morning following sta
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-When asked how the girl fell under Police scrutiny, our source replied, “We were going through random Facebook profiles to arrest people who abuse the Government on the internet, while we came across this girl’s profile. We were stunned to know that she managed to visit &nbsp;29 diverse countries in just two years. I mean, even our former <a href="http://www.thehindu.com/news/national/pratibhas-foreign-trips-cost-nation-a-record-rs-205-crore/article3223692.ece" target="_blank"><span style="color: blue;">President</span></a> managed to visit only 22 countries, and the Honourable President took 5 years for that. We were sure that something was amiss”, continued our source, “And we started tracking the IP addresses of all her check-ins, only to realize that all check-ins were made from the same IP address.”</div>
+When asked how the girl fell under Police scrutiny, our source replied, “We were going through random Facebook profiles to arrest people who abuse the Government on the internet, while we came across this girl’s profile. We were stunned to know that she managed to visit &nbsp;29 diverse countries in just two years. I mean, even our former <a href="http://www.thehindu.com/news/national/pratibhas-foreign-trips-cost-nation-a-record-rs-205-crore/article3223692.ece" target="_blank"><span>President</span></a> managed to visit only 22 countries, and the Honourable President took 5 years for that. We were sure that something was amiss”, continued our source, “And we started tracking the IP addresses of all her check-ins, only to realize that all check-ins were made from the same IP address.”</div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">

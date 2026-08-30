@@ -11,7 +11,7 @@ url = "2014/09/guest-post-series-bureaucrat-bloody-hell.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<span style="text-align: justify;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="text-align: justify;" target="_blank"><span style="color: blue;">Guest Post Series</span></a><span style="text-align: justify;">.</span><br />
+<span style="text-align: justify;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="text-align: justify;" target="_blank"><span>Guest Post Series</span></a><span style="text-align: justify;">.</span><br />
 <br />
 <div style="border: 0px; margin: 0px; padding: 0px;">
 <div style="border: 0px; margin: 0px; padding: 0px; text-align: justify;">
@@ -19,7 +19,7 @@ url = "2014/09/guest-post-series-bureaucrat-bloody-hell.html"
 <div style="border: 0px; margin: 0px; padding: 0px; text-align: justify;">
 <span style="font-size: 14px; line-height: 19.9999942779541px;"><span style="font-family: inherit;"><br /></span></span></div>
 <div style="border: 0px; margin: 0px; padding: 0px; text-align: justify;">
-<span style="font-family: inherit;"><span style="font-size: 14px; line-height: 19.9999942779541px;">I know Shyam since school. We were not close. Our conversations were on Sidney Sheldon and James Hadley Chase; <i>Anniyan</i> and <i>Rang De Basanti</i>. He would lend me his excellent&nbsp;</span><span style="font-size: 14px; line-height: 19.9999942779541px;">Haliday-Resnick-Walker&nbsp;</span><span style="font-size: 14px; line-height: 19.9999942779541px;">Physics book on my request, and I would return it untouched (along with the ₹50 notes he stuffs into his books and forgets). He became closer later on, when we both started blogging around the same time. We happened to meet randomly at movie festivals and bookshops, and through all these we have had some great discussions on a variety of things. He introduced me to and lent to me a book very close to my heart -- <i>Of Human Bondage</i> by Somerset Maugham. I have admired the variety in his blog : he writes poems, prose, reviews, interviews, travelogues and everything else. Read his brilliant series of articles on "<a href="http://wordsandbeauty.blogspot.com/2010/01/journey-from-boy-to-man-1.html" target="_blank"><span style="color: blue;">The journey from 'boy' to 'man'</span></a>", a write-up on the "<a href="http://wordsandbeauty.blogspot.com/2009/10/way-of-heart.html" target="_blank"><span style="color: blue;">The Way of the Heart</span></a>" and a cute poetic adaptation of "<a href="http://wordsandbeauty.blogspot.com/2011/11/and-then-there-were-none.html" target="_blank"><span style="color: blue;">And Then There Were None</span></a>". His feedback on my own blog are usually pinpoint - he quotes the lines he likes and politely disagrees when he has to. Shyam is also a part of a short story collection &nbsp;a few of us are attempting to self-publish online. Look forward to a couple of beautiful stories from him. I will introduce the other two writers of this collection too as a part of this series.</span></span></div>
+<span style="font-family: inherit;"><span style="font-size: 14px; line-height: 19.9999942779541px;">I know Shyam since school. We were not close. Our conversations were on Sidney Sheldon and James Hadley Chase; <i>Anniyan</i> and <i>Rang De Basanti</i>. He would lend me his excellent&nbsp;</span><span style="font-size: 14px; line-height: 19.9999942779541px;">Haliday-Resnick-Walker&nbsp;</span><span style="font-size: 14px; line-height: 19.9999942779541px;">Physics book on my request, and I would return it untouched (along with the ₹50 notes he stuffs into his books and forgets). He became closer later on, when we both started blogging around the same time. We happened to meet randomly at movie festivals and bookshops, and through all these we have had some great discussions on a variety of things. He introduced me to and lent to me a book very close to my heart -- <i>Of Human Bondage</i> by Somerset Maugham. I have admired the variety in his blog : he writes poems, prose, reviews, interviews, travelogues and everything else. Read his brilliant series of articles on "<a href="http://wordsandbeauty.blogspot.com/2010/01/journey-from-boy-to-man-1.html" target="_blank"><span>The journey from 'boy' to 'man'</span></a>", a write-up on the "<a href="http://wordsandbeauty.blogspot.com/2009/10/way-of-heart.html" target="_blank"><span>The Way of the Heart</span></a>" and a cute poetic adaptation of "<a href="http://wordsandbeauty.blogspot.com/2011/11/and-then-there-were-none.html" target="_blank"><span>And Then There Were None</span></a>". His feedback on my own blog are usually pinpoint - he quotes the lines he likes and politely disagrees when he has to. Shyam is also a part of a short story collection &nbsp;a few of us are attempting to self-publish online. Look forward to a couple of beautiful stories from him. I will introduce the other two writers of this collection too as a part of this series.</span></span></div>
 <div style="border: 0px; margin: 0px; padding: 0px; text-align: justify;">
 </div>
 <div style="border: 0px; margin: 0px; padding: 0px; text-align: justify;">
@@ -28,25 +28,25 @@ url = "2014/09/guest-post-series-bureaucrat-bloody-hell.html"
 <span style="font-family: Helvetica, Arial, Droid Sans, sans-serif;"><span style="font-size: 14px; line-height: 19.9999942779541px;"><br /></span></span></div>
 <div style="border: 0px; margin: 0px; padding: 0px;">
 <h1 align="center" style="text-align: center;">
-<span lang="EN-US"><span style="color: #20124d;">Bureaucrat Bloody
+<span lang="EN-US"><span>Bureaucrat Bloody
 Hell<o:p></o:p></span></span></h1>
 <blockquote class="tr_bq">
-<i><span lang="EN-US"><span style="color: #20124d;">&nbsp;</span></span></i><i><span lang="EN-US"><span style="color: #20124d;">“Every Government servant shall at all
+<i><span lang="EN-US"><span>&nbsp;</span></span></i><i><span lang="EN-US"><span>“Every Government servant shall at all
 times maintain absolute integrity”</span></span></i></blockquote>
 <div class="MsoNormal" style="margin-left: 105.0pt; text-indent: 21.0pt;">
-<span lang="EN-US"><span style="color: #20124d;">&nbsp;- Rule 3(1)(i), Central Civil
+<span lang="EN-US"><span>&nbsp;- Rule 3(1)(i), Central Civil
 Services (Conduct) Rules, 1964<o:p></o:p></span></span></div>
 <div class="MsoNormal">
 <br /></div>
 <blockquote class="tr_bq">
-<span style="color: #20124d;"><i><span lang="EN-US">“You're born, you take shit. You get out
+<span><i><span lang="EN-US">“You're born, you take shit. You get out
 in the world, you take more shit. You climb a little higher, you take less
 shit. Till one day you're up in the rarefied atmosphere and you've forgotten
 what shit even looks like. Welcome to the layer cake son.” &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></i><span lang="EN-US">- Eddie Temple in the film ‘Layer Cake’<o:p></o:p></span></span></blockquote>
 <div class="MsoNormal" style="margin-left: 126.0pt; text-indent: 21.0pt;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">The first quotation is from the rule book,
+<span lang="EN-US"><span>The first quotation is from the rule book,
 the second from a crafty gangster movie. Both apply equally to a government
 servant in India. I’ve been a bureaucrat for a year now. What follows is an
 account of my first impression of babudom. Read on then, you might at least be
@@ -54,7 +54,7 @@ amused. <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">Let me be honest about my attitude towards
+<span lang="EN-US"><span>Let me be honest about my attitude towards
 the services. It was an outsider’s urge to act that made me enter the Civil
 Services. The general apathy of things, the persistent sights of unemployment,
 disease, inefficiency and helplessness. When asked in the interview why I wanted
@@ -64,7 +64,7 @@ to serve, remuneration, status. <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">After entering the government factory, the
+<span lang="EN-US"><span>After entering the government factory, the
 workings of the machinery became more familiar. I looked at it in awe, in
 disgust and in sobriety. The system was immense, had a voracious appetite,
 there were rusted parts, there were finer parts. During the first two years,
@@ -82,7 +82,7 @@ mingling with the ocean. C’est la vie.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">I am from the Indian Information Service.
+<span lang="EN-US"><span>I am from the Indian Information Service.
 As trainees to become the communication ambassadors of the government, we spend
 many hours in presentations, field visits, debates and brain storming sessions.
 We analyse the excellence of the Election Commission, the handling 26/11
@@ -92,14 +92,14 @@ across red tape and deliver results. <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">We see the good, bad and ugly. The hope is
+<span lang="EN-US"><span>We see the good, bad and ugly. The hope is
 that this incubation time will acclimatise us to government temperature and
 hopefully pack our rucksacks with things necessary on the road trip from smart
 to wise. <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">After a year, the machine has helped show
+<span lang="EN-US"><span>After a year, the machine has helped show
 me my place in the scheme of things. It has taught me to understand that at
 whatever level we strive for whatever goal, let us remember that ‘’Tis but a
 part that we see, and not a whole’. It is necessary to keep it humble, to keep
@@ -107,7 +107,7 @@ it human. <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">Bureaucracy has also helped me appreciate
+<span lang="EN-US"><span>Bureaucracy has also helped me appreciate
 life more, embrace it with a bit more affinity. The same day throws at you
 experiences that are extraordinarily diverse. Just after drenching in the
 experience of seeing a Livelihood Mission change the lives of women in rural
@@ -119,17 +119,17 @@ a worm’s eyeview of that microcosm, the richness overwhelms and propels us&nbs
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-US"><span style="color: #20124d;">But let us see what unfolds in the coming
+<span lang="EN-US"><span>But let us see what unfolds in the coming
 years, what surprising turns and twists await. Robert Browning said it so well
 ‘Grow old along with me, the best is yet to be’. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
 <br /></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="color: #20124d;">Thanks a ton Adarsh for the opportunity,<o:p></o:p></span></span></div>
+<span lang="EN-US"><span>Thanks a ton Adarsh for the opportunity,<o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="color: #20124d;">Yours Cheerfully,<o:p></o:p></span></span></div>
+<span lang="EN-US"><span>Yours Cheerfully,<o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="color: #20124d;">Shyam</span></span></div>
+<span lang="EN-US"><span>Shyam</span></span></div>
 </div>
 </div>
 </div>

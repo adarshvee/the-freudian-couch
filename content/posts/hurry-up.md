@@ -36,6 +36,6 @@ With all the progress we have had, we only seem to have more to do. The greatest
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-Image source :&nbsp;<a href="https://www.megapixl.com/sisyphus-stressed-for-time-man-rolling-huge-clock-up-hill-stock-photo-60087173"><span style="color: blue;">https://www.megapixl.com/sisyphus-stressed-for-time-man-rolling-huge-clock-up-hill-stock-photo-60087173</span></a></div>
+Image source :&nbsp;<a href="https://www.megapixl.com/sisyphus-stressed-for-time-man-rolling-huge-clock-up-hill-stock-photo-60087173"><span>https://www.megapixl.com/sisyphus-stressed-for-time-man-rolling-huge-clock-up-hill-stock-photo-60087173</span></a></div>
 </div>
 

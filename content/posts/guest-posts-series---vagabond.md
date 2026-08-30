@@ -12,7 +12,7 @@ url = "2014/09/guest-posts-series-vagabound.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: left;">
-<span style="font-family: Georgia, Times New Roman, serif;">Note : This post is a part of the <a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span style="color: blue;">guest post series</span></a>.</span></div>
+<span style="font-family: Georgia, Times New Roman, serif;">Note : This post is a part of the <a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>guest post series</span></a>.</span></div>
 <span style="font-family: Georgia, Times New Roman, serif;"><br /></span>
 <br />
 <div style="text-align: justify;">
@@ -20,14 +20,14 @@ Hello! I wanted to begin the guest post series with my father's post, and I had 
 <br />
 <div style="text-align: center;">
 <h1>
-<b><span style="color: #20124d;">Vagabond</span></b></h1>
+<b><span>Vagabond</span></b></h1>
 </div>
 <div style="text-align: center;">
 </div>
 <div style="text-align: left;">
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span>
-<span lang="EN-GB"><span style="color: #20124d;">The Volvo bus was stuck in a
+<span lang="EN-GB"><span><br /></span></span>
+<span lang="EN-GB"><span>The Volvo bus was stuck in a
 traffic pile up between Jaipur and Delhi
 for more than half an hour. “This has
 become a frequent occurrence on this road.&nbsp;
@@ -37,9 +37,9 @@ He asked the young man whether Airport
 Metro Services had been resumed. &nbsp;“I believe it has” was the bored reply he got. The young man’s attention
 was now turned to his smart phone. &nbsp;&nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Kumar’s&nbsp;
+<span lang="EN-GB"><span>Kumar’s&nbsp;
 trip to Jaipur had been in
 connection with an eight year old case in which he had been summoned as a
 witness. It was only because of his alertness
@@ -51,9 +51,9 @@ country in which the wheels of justice did not even seem to move, lawyers by&nbs
 going on strike put their spokes in that wheel. Perhaps they had more faith in Trade Unionism
 than their advocacy skills.&nbsp;&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">There had been a time when he enjoyed travel
+<span lang="EN-GB"><span>There had been a time when he enjoyed travel
 by road and the thrills of it. But now
 it was getting on his nerves evidencing the fact that he was getting old. The
 luxury of travel by Volvo AC Bus was lost due to the intermittent hold ups of
@@ -70,9 +70,9 @@ other vehicles to come out of the diverted lane to merge into the wide
 highway. He hoped that he would be in
 Delhi in another 2 hours.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">But, it took more than two hours. After
+<span lang="EN-GB"><span>But, it took more than two hours. After
 reaching Gurgaon the bus had to crawl in the maddening City traffic. It was
 humid and hot when he got down at Daual Kuan and took the foot over bridge to
 reach the Metro Station. The silence of the Metro Station was a
@@ -83,28 +83,28 @@ ground level and plunged into the darkness of a tunnel. It was
 a long walk from the Metro station to the Terminal. When he reached the gate for his flight after
 completing the formalities, he felt that there was enough time for the boarding.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">He settled in a chair to watch the
+<span lang="EN-GB"><span>He settled in a chair to watch the
 news in Television channels. Jammu &amp;
 Kashmir had been hit by the worst ever disaster of the century. Cameras captured Srinagar floating in water, cut off villages, half washed bridges, collapsed houses and the irreplaceable
 tragedy of those who lost their kith and kin. The revenge of the nature for the stupidity of human tendency to destroy
 the ecosystem was of horrible proportions. The visuals stirred memories deep buried inside him. &nbsp;&nbsp; &nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm 177.2pt; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm 177.2pt; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">The boarding for
+<span lang="EN-GB"><span>The boarding for
 the Indian Airlines flight to Chennai had started. He would be having some
 rest in the flight. His awful mood after
 a futile and frustrating day was persisting. As people formed the queue for boarding, he
 almost lost his temper when the person standing behind him in the queue literally shoved him &nbsp;to draw the attention of the tall handsome person with a prominent nose
 standing before him.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Ram what a surprise! How are you?”&nbsp; <o:p></o:p></span></span></div>
+<span lang="EN-GB"><span>“Ram what a surprise! How are you?”&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span style="color: #20124d;"><span lang="EN-GB">He glared and stepped aside to
+<span><span lang="EN-GB">He glared and stepped aside to
 allow him to
 join his friend. They started talking
 animatedly in Tamil. Another Ramesh and
@@ -116,9 +116,9 @@ his Identity card in the counter and Kumar had to call
 him back to collect it. From the Yellow ID card he could gather that Ram was a Central &nbsp;Govt. Officer. He looked younger and more handsome than his
 friend.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">The movement in the plane was slow
+<span lang="EN-GB"><span>The movement in the plane was slow
 as usual. At row no 23, he observed with vexation that the Govt. Officer who
 was addressed as Ram was comfortably settled in the seat allotted to Kumar next
 to his long lost friend. As Kumar
@@ -127,35 +127,35 @@ nodded as if he was really doing a favour to them. &nbsp;He settled into his sea
 Trichy.&nbsp; &nbsp;Beside him, the friends settled and continued
 their conversation.&nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Are you from Chennai?” Ram asked him in English.&nbsp;</span></span><br />
-<span lang="EN-GB"><span style="color: #20124d;">“No. I am from Trichy”.</span></span><br />
-<span style="color: #20124d;">Kumar replied in English hinting in a tone
-that he did not want to prolong the conversation.&nbsp;</span><span style="color: #20124d;">He did not have the patience to tell him
+<span lang="EN-GB"><span>“Are you from Chennai?” Ram asked him in English.&nbsp;</span></span><br />
+<span lang="EN-GB"><span>“No. I am from Trichy”.</span></span><br />
+<span>Kumar replied in English hinting in a tone
+that he did not want to prolong the conversation.&nbsp;</span><span>He did not have the patience to tell him
 after a long life like a vagabond he
 intended to settle down in Trichy. He could not tell him about all the places
 traversed in his journey of life. Ram
 turned to his friend and continued the interrupted conversation.</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Ishwar, what were you asking? Yeah, I am going on official business. It is a Court case. So you have finally settled in Chennai”<o:p></o:p></span></span></div>
+<span lang="EN-GB"><span>“Ishwar, what were you asking? Yeah, I am going on official business. It is a Court case. So you have finally settled in Chennai”<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Once I would have shuddered at
+<span lang="EN-GB"><span>“Once I would have shuddered at
 settling down in Chennai. Now I got used
 to its madness.”</span></span><br />
-<span style="color: #20124d;">“How is Aparna? &nbsp;I heard your son-in-law is having a roaring
+<span>“How is Aparna? &nbsp;I heard your son-in-law is having a roaring
 practice.”</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“But Aparna is complaining that he hardly has time for her
+<span lang="EN-GB"><span>“But Aparna is complaining that he hardly has time for her
 and the child. Is&nbsp; Karthick&nbsp; still in Detroit?&nbsp; It is more than five years since we met in
 the airport when you were seeing him off.”&nbsp;</span></span><br />
-<span lang="EN-GB"><span style="color: #20124d;">“No,
+<span lang="EN-GB"><span>“No,
 Ishwar. He is in San Francisco. You know Detroit is a sinking city. I came back from San Francisco only last
 month. I was there for three months. Vanaja is still there”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Kumar was really exasperated. If his son had been in Philadelphia or
+<span lang="EN-GB"><span>Kumar was really exasperated. If his son had been in Philadelphia or
 Chicago, instead of &nbsp;Madurai, he could also boast like them. Considering the situation of the country there
 was no wonder everyone&nbsp; wanted to escape
 to &nbsp;some El Dorado. These
@@ -170,9 +170,9 @@ blessing denied to him. How happy he
 would have been for such pleasant encounters.&nbsp;
 <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">He had over the years lost contact with
+<span lang="EN-GB"><span>He had over the years lost contact with
 his school and even college mates. His
 father was in a transferable job moving once every two or three years. When he got employment, his job too happened
 to be one which necessitated frequent movements. A succession of places, faces , events and impressions got super imposed in
@@ -182,9 +182,9 @@ entrenched group of students and
 by the time he struck some friendship, his father got transferred to some other
 place.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Suseela had on many occasions
+<span lang="EN-GB"><span>Suseela had on many occasions
 chances of meeting her school or college friends in train journeys. “You are sullen and reserved. That is why you
 do not have friends”, she used to
 comment mockingly quite unappreciative of the fact that her entire schooling
@@ -197,9 +197,9 @@ a system where criminals enjoyed more&nbsp;rights and powers than witnesses. He 
 an old Russian novel. Was he slipping
 into insanity? <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">The catering van and the cargo
+<span lang="EN-GB"><span>The catering van and the cargo
 carts moved off and the plane was
 ready for take off. He&nbsp;dialed&nbsp;Suseela to&nbsp;tell her that he had boarded the plane. Outside, a haze of dust hung over
 the big runway. The plane started moving
@@ -210,11 +210,11 @@ were the luminous lights of Gurgaon and the lights of hundreds of vehicles
 flowing into and out of Delhi. The flight
 was gaining height and speed.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Kumar tried to recall his friends of
+<span lang="EN-GB"><span>Kumar tried to recall his friends of
 school days. But it had been nearly forty years and he rarely revisited the places of his school
-days. Once he had been to Bhavani</span></span><span style="color: #20124d;">, a town near Erode,</span><span style="color: #20124d;">&nbsp;but it was a very short visit to the
+days. Once he had been to Bhavani</span></span><span>, a town near Erode,</span><span>&nbsp;but it was a very short visit to the
 Sangameswara Temple. He had stood at
 Mukkudal to watch with sadness the lean strip of Cauvery and the barren Bhavani. That was before his marriage with
 Suseela. Friendship could be renewed
@@ -223,18 +223,18 @@ he had started pruning his acquaintances
 and kept minimum relationships. In a way, he had become a recluse by choice
 and he had no regrets about it. &nbsp; &nbsp;&nbsp;</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span style="color: #20124d;"><br /></span>
-<span style="color: #20124d;">Strangely, today he had been recalling his Bhavani School
+<span><br /></span>
+<span>Strangely, today he had been recalling his Bhavani School
 days as he was watching the visual images&nbsp;
 of floods in Kashmir in Television channels. Long buried memories of an unprecedented flood
 in Bhavani which wrought havoc on the town sprang back.
 Amidst the memories of the loss of the limited household goods of his impoverished family, there lingered the happy memory of curtailed
-school hours which was an outcome of that devastating floods which washed away two blocks of school.&nbsp;</span><span style="color: #20124d;">There was a let up of the incessant
+school hours which was an outcome of that devastating floods which washed away two blocks of school.&nbsp;</span><span>There was a let up of the incessant
 chattering of his neighbours when meals were served.&nbsp; After the meals, he gradually drifted into sleep. From a height of &nbsp;thirty six thousand feet &nbsp;he plunged into the depths of a dream.&nbsp;</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">He along with his School friend Ravindran
+<span lang="EN-GB"><span>He along with his School friend Ravindran
 was standing in&nbsp; Mukkudal, where Bhavani,
 a&nbsp; rain fed river merged into the
 perennial river Cauvery. Usually Cauvery
@@ -249,11 +249,11 @@ for &nbsp;him but could not find him. Now he was hungry and turned &nbsp;to go t
 Jaipuir CBI Court.&nbsp; A lanky lawyer showing his back to him was arguing the
 matter.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Your Honour, in spite of&nbsp; repeated&nbsp;
+<span lang="EN-GB"><span>“Your Honour, in spite of&nbsp; repeated&nbsp;
 summons, the witness is not appearing before the Court to depose. He should therefore be punished for Contempt of Court”.</span></span><br />
-<span lang="EN-GB"><span style="color: #20124d;">As the&nbsp;
+<span lang="EN-GB"><span>As the&nbsp;
 lawyer turned he&nbsp;recognized&nbsp;that it was Ram, his next seat passenger in the plane. The &nbsp;stern and forlorn looking Judge ordered for
 Kumar’s&nbsp; arrest. &nbsp;Four tall Police Constables, towering over
 him by a head’s height, came to arrest him.&nbsp;
@@ -261,9 +261,9 @@ He wanted to shout “this is
 really unjust.&nbsp; I am only a witness.&nbsp; It was only due to my alertness..........”&nbsp; &nbsp;But the
 words were caught in his throat.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></span></div>
+<span lang="EN-GB"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">He had started running&nbsp; but &nbsp;he
+<span lang="EN-GB"><span>He had started running&nbsp; but &nbsp;he
 could not find his way &nbsp;and &nbsp;strangely found himself &nbsp;in &nbsp;IX
 C class room. Ponnusamy Sir was taking
 Maths class while a roar of water was heard outside. A School
@@ -279,21 +279,21 @@ help &nbsp;swallowing water. He was feeling an unbearable pain and weight
 in his lungs and was unable to breathe. He was drowning. In the rushing water over his head he could hear the
 quiz master’s question.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“On which National Highway is
+<span lang="EN-GB"><span>“On which National Highway is
 Bhavani Town situated?”<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span style="color: #20124d;">Mocking voice of a girl - &nbsp;“Rama, &nbsp;you do not know the answer for this simple
+<span>Mocking voice of a girl - &nbsp;“Rama, &nbsp;you do not know the answer for this simple
 question”. Here he was drowning and
 dying but nobody cared. He made efforts
 to shout but nobody heard or saw him. At a distance, somebody was shouting. Suddenly pain shot from his head as somebody
 violently pulled him up by holding his hair. &nbsp;A long silence followed which was
 shattered by the words.</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span>
-<span lang="EN-GB"><span style="color: #20124d;">“It was the year of the great
+<span lang="EN-GB"><span><br /></span></span>
+<span lang="EN-GB"><span>“It was the year of the great
 flood”.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span style="color: #20124d;">Kumar woke up startled and was
+<span>Kumar woke up startled and was
 breathing with difficulty. It was Ram
 who had been speaking. He was in the Plane from Delhi to Chennai.&nbsp; He had been thinking &nbsp;about his days in Bhavani &nbsp;before he went into sleep and had a dream. He had a sudden urge to use &nbsp;the restroom.&nbsp;
 He got up and went to the rest room. As he washed his age worn face,
@@ -302,20 +302,20 @@ words&nbsp; of Ram was not a part of the
 dream and their discussion was about a
 great flood.&nbsp;</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">It was because of his fevered
+<span lang="EN-GB"><span>It was because of his fevered
 imagination triggered due to the repeated&nbsp;
 visuals of flood&nbsp; devastation in Jammu
 and Kashmir. &nbsp;In the dream, the events of real life merged
 into his fears and apprehensions he was undergoing on that day. On the day of
 the flood, he had been watching the fury of the flood with Ravindran. But his near drowning was not on the day of the flood. That was one month before the floods. Now he tried to remember the
-mocking voice of the girl. </span></span><span style="color: #20124d;">Then he recalled some long forgotten events during his school
+mocking voice of the girl. </span></span><span>Then he recalled some long forgotten events during his school
 days with distinct clarity.</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">They had been staying in the first floor of the house as tenants. The
+<span lang="EN-GB"><span>They had been staying in the first floor of the house as tenants. The
 ground floor was occupied by the house
 owner. The daughter of the house owner had tried to draw him out of his shell many times. She ultimately succeeded in drawing to a conversation two days after the
 day of the quiz competition. He had been
@@ -327,14 +327,14 @@ for a few seconds and glared at them for
 few seconds without saying anything. Then he got back into his bicycle and sped away. At that time Kumar did not know Ramakrishnan was
 related to that girl. &nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">One week after that event, Kumar
+<span lang="EN-GB"><span>One week after that event, Kumar
 along with his parents went to the house of Ramakrishnan. They had been
 there to thank Ramakrishnan who rescued
 a drowning Kumar. It was a huge house &nbsp;having a big Central Hall with four rooms on the four corners. His father was in conversation with
 Ramakrishnan’s father. His mother could easily chat with Ramakrishan’s mother as if they had known each other for a long time. He was
-&nbsp;standing in a corner with Ramakrishnan;&nbsp;</span></span><span style="color: #20124d;">lost for words</span><span style="color: #20124d;">&nbsp;and awkwardly shaking hands with him. “He is very
+&nbsp;standing in a corner with Ramakrishnan;&nbsp;</span></span><span>lost for words</span><span>&nbsp;and awkwardly shaking hands with him. “He is very
 shy”, his mother was telling
 Ramakrishan’s mother who was busy giving coffee to the guests. &nbsp;Ramakrishnan, who&nbsp; had saved him from death and could have been
 a friend, but never really became a friend - a&nbsp;
@@ -342,9 +342,9 @@ face erased from his memory by time and distance. If he
 met Ramakrishnan now, it was
 doubtful whether he could recognise him. &nbsp;How ungrateful he had been.</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">He returned to his seat. The conversation was still continuing. He closed his eyes and started reminiscing &nbsp;about the flood. It was rumoured that the flood
+<span lang="EN-GB"><span>He returned to his seat. The conversation was still continuing. He closed his eyes and started reminiscing &nbsp;about the flood. It was rumoured that the flood
 was due to a breach of canal brimming with rain waters. The breach was caused&nbsp; by villagers&nbsp;upstream&nbsp;Bhavani who feared that their village would
 be&nbsp;inundated&nbsp; The town was cut off for
 two days. When the waters receded taking
@@ -354,9 +354,9 @@ every article in the house. Along with stories
 to be told and retold of&nbsp; the great
 flood.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">One of the haunting memories was the
+<span lang="EN-GB"><span>One of the haunting memories was the
 washing away of a house. They had been
 watching from the first floor of his house the increasing levels of water. &nbsp;The newly constructed unoccupied &nbsp;house was obstructing the full&nbsp; flow
 of Bhavani which had entered the town and was draining through various channels
@@ -364,26 +364,26 @@ of Bhavani which had entered the town and was draining through various channels
 into two. One part of it fell and after a lag of few seconds
 another part fell and was washed away.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">His recollections were sharply
+<span lang="EN-GB"><span>His recollections were sharply
 intruded&nbsp; by the conversation between
 Ishwar and Ram.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“We have decided to sell the house.
+<span lang="EN-GB"><span>“We have decided to sell the house.
 His business had&nbsp; run into losses. You know, they have their own ideas of
 business and do not change. I had to convince
 him to &nbsp;come &nbsp;and settle at&nbsp;
 Chennai. That is why I had to
 come to Delhi -- for getting the consent of my uncle for the sale of the house”.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“It is really a big house. I remember during your sister’s marriage, the
+<span lang="EN-GB"><span>“It is really a big house. I remember during your sister’s marriage, the
 house could accommodate the entire marriage crowd. &nbsp;Oh! How I wish to visit Bhavani once.&nbsp; Maybe this November when the Cauvery is &nbsp;in full flow, I should make a visit. In that great flood of &nbsp;our school days, your house accommodated many
 of the people from inundated houses.”<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Kumar was startled on hearing
+<span lang="EN-GB"><span>Kumar was startled on hearing
 this. They were talking about Bhavani. Or was it the dream that was continuing? It is
 inconceivable on a flight&nbsp; miles away and
 &nbsp;after nearly forty two years three
@@ -394,42 +394,42 @@ he was saying that &nbsp;Vanaja was in
 USA.&nbsp; Now he remembered the name of the
 girl with mocking eyes&nbsp; -&nbsp; it was Vanaja.&nbsp; &nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“But
+<span lang="EN-GB"><span>“But
 Ram your house was bigger. What a time we had there! I still remember the hide
 and seek games we played in that house. Oh that big Central hall! Pity
 your father had to sell it long back. Last time when I saw the house, demolition work had started. Yes, we
 will visit Bhavani and see all those places where we played and fought. &nbsp;At one time you were a hero of the town when
 you rescued one boy from drowning. How
-you were feted and treated for that heroism. </span></span><span style="color: #20124d;">This
+you were feted and treated for that heroism. </span></span><span>This
 was in spite of your disliking for&nbsp; that boy because he got the first prize in
 the School quiz contest. A very sullen and shy boy who had few friends.&nbsp; He just vanished away. "</span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Ishwar, I was never a hero. &nbsp;With a
+<span lang="EN-GB"><span>“Ishwar, I was never a hero. &nbsp;With a
 detached sense of seeing things from a distance &nbsp;I realize how childish I had been in many of my actions. My reaction on loss of first prize was
 churlish. But there were times, I was afraid I would
 lose something more. .........”<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Ram, Rama, Ramakrishnan. &nbsp;&nbsp;He was sure that this was the same
+<span lang="EN-GB"><span>Ram, Rama, Ramakrishnan. &nbsp;&nbsp;He was sure that this was the same
 Ramakrishnan -&nbsp; &nbsp;his saviour. &nbsp;There was&nbsp; an untold part of the
 story of that day which was known only to two people.&nbsp; He was feeling a breathlessness as he visualized that day of his near drowning. The drama
 of that day played once again in his mind. <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">He was
+<span lang="EN-GB"><span>He was
 watching the silent flow of Cauvery from the bottom most step of the banks. There was no one else. Suddenly
 he heard steps behind him. Before he
 could turn somebody pushed him into the water. As he fell and struggled into the water he thought he saw a lanky
 handsome boy with a prominent nose standing on the steps of the desolate bank. The initial exultation in Ramakrishan’s eyes now gave way to&nbsp; a panic as the implication of his act &nbsp;dawned on him.&nbsp;
 &nbsp;&nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;"><br /></span></span></div>
+<span lang="EN-GB"><span><br /></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">It was forty two years since that
+<span lang="EN-GB"><span>It was forty two years since that
 day and on that big Central Hall. Other than “Thank you”, Kumar had not found any words to utter. He and Ramakrishnan &nbsp;had been standing there apprising each other like
 two adversaries in an arena.&nbsp; Kumar couldn't imagine why the loss of the
 first prize could mean so much. Now, on
@@ -437,23 +437,23 @@ a plane from Delhi to Chennai the answer
 to a question which was elusive to him for all these years became apparent to
 him. It was not the prize. How blind he had been. &nbsp;&nbsp;<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">And&nbsp; it
+<span lang="EN-GB"><span>And&nbsp; it
 did not matter. So much water had &nbsp;flowed down the Cauvery since.&nbsp;&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">The plane was&nbsp; slowly descending.&nbsp; There was &nbsp;an announcement about the landing at Chennai in a few minutes. &nbsp;He saw below the lights of Chennai emerging slowly out of the infinite darkness of
+<span lang="EN-GB"><span>The plane was&nbsp; slowly descending.&nbsp; There was &nbsp;an announcement about the landing at Chennai in a few minutes. &nbsp;He saw below the lights of Chennai emerging slowly out of the infinite darkness of
 the sea and night.&nbsp; <o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“I do not even remember his full
+<span lang="EN-GB"><span>“I do not even remember his full
 name. It is some Kumar.....”&nbsp; Ram was muttering.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Ram, I think it is Krishna Kumar. &nbsp;No.&nbsp;
+<span lang="EN-GB"><span>“Ram, I think it is Krishna Kumar. &nbsp;No.&nbsp;
 But &nbsp;it started with a K”<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">“Kesava Kumar”.&nbsp;</span></span><br />
-<span lang="EN-GB"><span style="color: #20124d;">Shocked &nbsp;childhood friends turned to face the silent passenger at seat No. 23 A offering his
+<span lang="EN-GB"><span>“Kesava Kumar”.&nbsp;</span></span><br />
+<span lang="EN-GB"><span>Shocked &nbsp;childhood friends turned to face the silent passenger at seat No. 23 A offering his
 hands to Ramakrishnan.<o:p></o:p></span></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
-<span lang="EN-GB"><span style="color: #20124d;">Lights started dimming and the
+<span lang="EN-GB"><span>Lights started dimming and the
 landing begun.</span><o:p></o:p></span></div>
 <div class="MsoNormal" style="tab-stops: 1.0cm; text-align: justify;">
 <br /></div>

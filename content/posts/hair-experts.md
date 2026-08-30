@@ -37,7 +37,7 @@ However, as I grew up, India grew with me. Middle class households started becom
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-A few years back, I wanted to write about a very small Tamil movie made by a debutante director. Two things struck me about the movie - the liveliness of the colours that were on display, and the fact that the saddest scene in this movie about a roadside romeo who is spurred by about half-a-dozen girls is when he comes out of a barbershop with a bad haircut. The hero is devastated, cries and wails, and covers his head with a cap on his next day to college to hide his hairstyle. There is not much point in writing about <i><a href="https://www.youtube.com/watch?v=ahmdb6yKfaU" target="_blank"><span style="color: blue;">Attakathi</span></a></i> now, as director Pa.Ranjith is now into the big league and too many people have written about his movies. However, I feel that barbers and the act of getting a haircut have not got enough coverage in literature and movies. Of course, Harry Potter has a famously unruly hair. Many a days I have petted my own hair affectionately as I waited for a letter of admission from the Hogwarts School of Witchcraft and Wizardry. It was a rude shock to learn that I will have to suffer my hair in the real World, and not a magical one.&nbsp;</div>
+A few years back, I wanted to write about a very small Tamil movie made by a debutante director. Two things struck me about the movie - the liveliness of the colours that were on display, and the fact that the saddest scene in this movie about a roadside romeo who is spurred by about half-a-dozen girls is when he comes out of a barbershop with a bad haircut. The hero is devastated, cries and wails, and covers his head with a cap on his next day to college to hide his hairstyle. There is not much point in writing about <i><a href="https://www.youtube.com/watch?v=ahmdb6yKfaU" target="_blank"><span>Attakathi</span></a></i> now, as director Pa.Ranjith is now into the big league and too many people have written about his movies. However, I feel that barbers and the act of getting a haircut have not got enough coverage in literature and movies. Of course, Harry Potter has a famously unruly hair. Many a days I have petted my own hair affectionately as I waited for a letter of admission from the Hogwarts School of Witchcraft and Wizardry. It was a rude shock to learn that I will have to suffer my hair in the real World, and not a magical one.&nbsp;</div>
 <div style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -65,6 +65,6 @@ Few hours later, I am still not sure if my hair looks passably good now. The thi
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
-(Image source : <a href="http://www.geekynews.com/new-art-unveiled-illustrated-edition-harry-potter-sorcerors-stone-61881/"><span style="color: blue;">http://www.geekynews.com/new-art-unveiled-illustrated-edition-harry-potter-sorcerors-stone-61881/</span></a>)</div>
+(Image source : <a href="http://www.geekynews.com/new-art-unveiled-illustrated-edition-harry-potter-sorcerors-stone-61881/"><span>http://www.geekynews.com/new-art-unveiled-illustrated-edition-harry-potter-sorcerors-stone-61881/</span></a>)</div>
 </div>
 

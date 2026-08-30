@@ -16,7 +16,7 @@ Hi there! Long time. How’ you been? I have been fine, thanks for asking. Well,
 <div style="font-family: Calibri; font-size: 11pt; margin: 0in; text-align: justify;">
 <br /></div>
 <div style="font-family: Calibri; font-size: 11pt; margin: 0in; text-align: justify;">
-I learnt today that there is a <a href="https://www.joinmywedding.com/" target="_blank"><span style="color: blue;">start-up</span></a> that’s like Airbnb<span style="font-size: 11pt;"> for Indian weddings.&nbsp; For a small commission, this start-up acts as a platform connecting people who want to experience weddings from a different culture (limited to India at the moment) with couples looking to host such people. You pay, meet your hosts virtually,&nbsp; probably meet them physically, and you can partake in a desi wedding.&nbsp;</span></div>
+I learnt today that there is a <a href="https://www.joinmywedding.com/" target="_blank"><span>start-up</span></a> that’s like Airbnb<span style="font-size: 11pt;"> for Indian weddings.&nbsp; For a small commission, this start-up acts as a platform connecting people who want to experience weddings from a different culture (limited to India at the moment) with couples looking to host such people. You pay, meet your hosts virtually,&nbsp; probably meet them physically, and you can partake in a desi wedding.&nbsp;</span></div>
 <div style="font-family: Calibri; font-size: 11pt; margin: 0in; text-align: justify;">
 <span style="font-size: 11pt;"><br /></span>
 <br />
@@ -34,8 +34,8 @@ Also,&nbsp;who hosts strangers at their wedding for money? Definitely not people
 <div style="font-family: Calibri; font-size: 11pt; margin: 0in; text-align: justify;">
 Wealth begets wealth. It shouldn’t, and that’s what irritates me the most about the direction the World is heading in.<br />
 <br />
-Source :<span style="font-size: 11pt;">&nbsp;</span><span style="color: blue; font-size: 11pt;"><a href="https://www.cnbc.com/2018/10/16/indian-weddings-tourists-buy-tickets-to-experience-nuptials.html" target="_blank"><span style="color: blue;">Some couples in India are selling tourist admissions to their weddings</span></a>&nbsp;</span><span style="color: blue; font-size: 11pt;">(CNBC)</span><br />
-<span style="color: blue; font-size: 11pt;"><br /></span> Image Source :&nbsp;<a href="http://www.jamaicaobserver.com/magazines/allwoman/I-am-getting-married-for-money--not-love_15699014">http://www.jamaicaobserver.com/magazines/allwoman/I-am-getting-married-for-money--not-love_15699014</a><br />
+Source :<span style="font-size: 11pt;">&nbsp;</span><span style="font-size: 11pt;"><a href="https://www.cnbc.com/2018/10/16/indian-weddings-tourists-buy-tickets-to-experience-nuptials.html" target="_blank"><span>Some couples in India are selling tourist admissions to their weddings</span></a>&nbsp;</span><span style="font-size: 11pt;">(CNBC)</span><br />
+<span style="font-size: 11pt;"><br /></span> Image Source :&nbsp;<a href="http://www.jamaicaobserver.com/magazines/allwoman/I-am-getting-married-for-money--not-love_15699014">http://www.jamaicaobserver.com/magazines/allwoman/I-am-getting-married-for-money--not-love_15699014</a><br />
 <br />
 <span style="font-size: 9pt;">* Taxes may apply</span></div>
 <br /></div>

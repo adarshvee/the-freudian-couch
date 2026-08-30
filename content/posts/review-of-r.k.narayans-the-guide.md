@@ -11,8 +11,8 @@ url = "2017/06/review-of-rknarayanans-guide.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/129877.The_Guide" style="float: left; padding-right: 20px;"><img alt="The Guide" border="0" src="https://images.gr-assets.com/books/1427735982m/129877.jpg" /></a><a href="https://www.goodreads.com/book/show/129877.The_Guide"><span style="color: blue;">The Guide</span></a> by <a href="https://www.goodreads.com/author/show/1305302.R_K_Narayan">R.K. Narayan</a><br />
-My rating: <a href="https://www.goodreads.com/review/show/2024737957"><span style="color: blue;">5 of 5 stars</span></a><br />
+<a href="https://www.goodreads.com/book/show/129877.The_Guide" style="float: left; padding-right: 20px;"><img alt="The Guide" border="0" src="https://images.gr-assets.com/books/1427735982m/129877.jpg" /></a><a href="https://www.goodreads.com/book/show/129877.The_Guide"><span>The Guide</span></a> by <a href="https://www.goodreads.com/author/show/1305302.R_K_Narayan">R.K. Narayan</a><br />
+My rating: <a href="https://www.goodreads.com/review/show/2024737957"><span>5 of 5 stars</span></a><br />
 <br />
 <div style="text-align: justify;">
 R.K.Narayan is the direction I would like to take in my own writing. Concise, clear and unobtrusive language that tells simple, timeless stories. In <i>The Guide</i>, we meet <i>Raju</i> who -- fresh from serving a two-year jail term -- is mistaken to be a wise and learned <i>sadhu</i>. This third person narrative interweaves with a first person narrative of Raju's past, where he tells us the story of his life leading to him being jailed. As the two narratives progress, we recognize that there is a pattern to everything Raju does, and that his nature makes him eternally a Guide.</div>

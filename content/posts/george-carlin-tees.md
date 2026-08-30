@@ -51,7 +51,7 @@ Care to find out what George Carlin thought about sleeveless shirts? Watch this 
 <br></div>
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <blockquote class="tr_bq">
-<span style="-webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">Here’s another male cliché... these guys that cut the sleeves off of their t-shirts so the rest of us can have an even more compelling experience of smelling their armpits. I say “Hey Bruno, shut it down would you please? You smell like an anchovy’s cunt okay? Ughh... not good... ugh... ugh... whoa... not good Bruno, and definitely not for sharing.”</span></blockquote>
+<span style="-webkit-text-size-adjust: auto;">Here’s another male cliché... these guys that cut the sleeves off of their t-shirts so the rest of us can have an even more compelling experience of smelling their armpits. I say “Hey Bruno, shut it down would you please? You smell like an anchovy’s cunt okay? Ughh... not good... ugh... ugh... whoa... not good Bruno, and definitely not for sharing.”</span></blockquote>
 <br>
 Irony just got blended, weaved, bleached, dyed and sold as a T-shirt.</div>
 </div>

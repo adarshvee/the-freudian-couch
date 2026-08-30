@@ -14,7 +14,7 @@ url = "2014/09/guest-posts-series.html"
 <div style="text-align: justify;">
 <b>On Writing, and anxieties</b></div>
 <div style="text-align: justify;">
-Hello all! I just realized that it is close to five years since I started blogging. For someone who has been at it for five years, I am remarkably inconsistent as a writer. In my very first <a href="http://adarsh89.blogspot.com/2009/11/me-too.html" target="_blank"><span style="color: blue;">post</span></a>&nbsp;I set myself an agenda that I didn't expect to follow. I am quite surprised to find that I have kept up to that agenda in a few ways. Like <a href="http://www.espncricinfo.com/india/content/player/277916.html" target="_blank"><span style="color: blue;">Ajinkya Rahane</span></a>&nbsp;(minus his talent) in his one day international career till date, I haven't managed to become half as good as I can be. I still fish for balls that I shouldn't be playing, I still get myself into knots, I still flounder good starts, and I still distract people into thinking of "what-could-be" instead of "what-is".&nbsp;</div>
+Hello all! I just realized that it is close to five years since I started blogging. For someone who has been at it for five years, I am remarkably inconsistent as a writer. In my very first <a href="http://adarsh89.blogspot.com/2009/11/me-too.html" target="_blank"><span>post</span></a>&nbsp;I set myself an agenda that I didn't expect to follow. I am quite surprised to find that I have kept up to that agenda in a few ways. Like <a href="http://www.espncricinfo.com/india/content/player/277916.html" target="_blank"><span>Ajinkya Rahane</span></a>&nbsp;(minus his talent) in his one day international career till date, I haven't managed to become half as good as I can be. I still fish for balls that I shouldn't be playing, I still get myself into knots, I still flounder good starts, and I still distract people into thinking of "what-could-be" instead of "what-is".&nbsp;</div>
 <div style="text-align: justify;">
 <br /></div>
 <div style="text-align: justify;">
@@ -55,17 +55,17 @@ Some of the people I have asked to write are very important in my life outside t
 Since I happen to be conceited, selfish and self-centered, I won't be really quiet during the posts. I will be behaving like an over enthusiastic Master of Ceremonies, introducing everyone who is writing. I have tried to get in touch with a lot of people, but my memory is fallible. If you happen to be reading this and I haven't got in touch with you, please free to remind me. You can always kick my backside for the oversight when we meet next time. If I have already got in touch with you, I request you to humour me, and write. Please.<br />
 <br />
 <b>List of posts</b><br />
-1) <span style="color: blue;"><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series-vagabound.html" target="_blank"><span style="color: blue;">Vagabound</span></a>&nbsp;</span>by my father.<br />
-2) <a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-anjaan-review.html" target="_blank"><span style="color: blue;">Anjaan - A Review</span></a> by my brother Sri Vittal<br />
-3) <span style="color: blue;"><a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-my-most-memorable.html" target="_blank"><span style="color: blue;">My Most Memorable Cricket Match</span></a>&nbsp;</span>by Gowrisankar<br />
-4)&nbsp;<a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-bureaucrat-bloody-hell.html" style="color: blue;" target="_blank"><span style="color: blue;">Bureaucrat Bloody Hell</span></a><span style="color: blue;">&nbsp;</span>by&nbsp;Shyam<br />
-5) <a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-vulnerable-queen.html" target="_blank"><span style="color: blue;">The Vulnerable Queen</span></a> by Lakshminarayanan<br />
-6) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-poison-ivy.html" target="_blank"><span style="color: blue;">Poison Ivy</span></a> by Supriya<br />
-7) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-reflections.html" target="_blank"><span style="color: blue;">Reflections</span></a> by Shriya<br />
-8) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-gods-own-guests.html" target="_blank"><span style="color: blue;">God's Own Guests</span></a> by Vidhya<br />
-9) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-from-hell.html" target="_blank"><span style="color: blue;">From Hell</span></a> by Arun Prasad<br />
-10) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-on-writing.html" target="_blank"><span style="color: blue;">On Writing</span></a> by Srinivas<br />
-11) <a href="http://adarsh89.blogspot.com/2014/11/guest-post-series-recos-from-bored.html" target="_blank"><span style="color: blue;">Recos by a bored Engineering student</span></a> by Pavithran</div>
-12) <a href="http://thefreudiancouch.com/2015/06/guest-post-series-cancer.html" target="_blank"><span style="color: blue;">Cancer</span></a> by Vaidhyanathan M<br />
+1) <span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series-vagabound.html" target="_blank"><span>Vagabound</span></a>&nbsp;</span>by my father.<br />
+2) <a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-anjaan-review.html" target="_blank"><span>Anjaan - A Review</span></a> by my brother Sri Vittal<br />
+3) <span><a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-my-most-memorable.html" target="_blank"><span>My Most Memorable Cricket Match</span></a>&nbsp;</span>by Gowrisankar<br />
+4)&nbsp;<a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-bureaucrat-bloody-hell.html" target="_blank"><span>Bureaucrat Bloody Hell</span></a><span>&nbsp;</span>by&nbsp;Shyam<br />
+5) <a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-vulnerable-queen.html" target="_blank"><span>The Vulnerable Queen</span></a> by Lakshminarayanan<br />
+6) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-poison-ivy.html" target="_blank"><span>Poison Ivy</span></a> by Supriya<br />
+7) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-reflections.html" target="_blank"><span>Reflections</span></a> by Shriya<br />
+8) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-gods-own-guests.html" target="_blank"><span>God's Own Guests</span></a> by Vidhya<br />
+9) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-from-hell.html" target="_blank"><span>From Hell</span></a> by Arun Prasad<br />
+10) <a href="http://adarsh89.blogspot.com/2014/10/guest-post-series-on-writing.html" target="_blank"><span>On Writing</span></a> by Srinivas<br />
+11) <a href="http://adarsh89.blogspot.com/2014/11/guest-post-series-recos-from-bored.html" target="_blank"><span>Recos by a bored Engineering student</span></a> by Pavithran</div>
+12) <a href="http://thefreudiancouch.com/2015/06/guest-post-series-cancer.html" target="_blank"><span>Cancer</span></a> by Vaidhyanathan M<br />
 <br /></div>
 
