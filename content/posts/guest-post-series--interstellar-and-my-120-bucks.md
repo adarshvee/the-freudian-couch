@@ -14,23 +14,23 @@ url = "2014/12/guest-post-series-interstellar-and-my.html"
 <h1>
 <span style="font-size: small; font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-size: medium; font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-size: small; font-weight: normal;">.</span></h1>
 <div>
-<div style="text-align: justify;">
+<div>
 A minor setback kept me away for a little from the blog. Now that I am a wee-bit more confident that things outside the blog can be set right, I am back to doing what I like doing the most - forcing you all to momentarily pause your furiously paced life, and make you think about things that would never ever prove useful to anyone. Here is a guest post that has been laying dormant with me for a long, long time, waiting to be introduced by me.</div>
 </div>
 <div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
 </div>
 <div>
-<div style="text-align: justify;">
+<div>
 Balaganesh was my bench-mate in my first day of college. "Hi, I am Balaganesh. My friends call me Bala". For some indecipherable reason, I pointedly addressed him as Ganesh for a few days until I realized that he wouldn't respond to anything other than Bala. He did eventually become one of my better friends. Bala is known for his sense of humour. We all need someone who is willing to play themselves down for the entertainment of others. Bala is one such person. Lots and lots of people feel good about themselves by teasing him, and he lets them -- most of the time. To be fair to them, Bala can be irritating, especially when his attempted jokes are terrible. But sometimes (the success rate is quite low) they come off, with hilarious effect. When asked to submit an assignment in Genetics, the whole class wanted to submit print-outs. Our lecturer was adamant, and wanted it to be hand-written. "OK, no print-outs. At least Xerox, madam?", he quipped.</div>
 </div>
 <div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
 </div>
 <div>
-<div style="text-align: justify;">
+<div>
 Underneath all this, Bala is quite a serious person. A lot of things make him angry. But most of all, that his very good knowledge in politics and current affairs go ignored makes him furious at most people. And Bala reads a lot too. As far as I know, he started reading English novels quite late (but he has been reading in Tamil for long), but devours them hungrily to keep up. Around the time I started to blog, he too started his own blog, and we had an unspoken competition between us. He would write random snippets and send them to me, and as he kept writing, he kept improving. Ignoring some punctuation, there are some enviably well-written snippets, but they are so random that nothing can be made out of them. My favorite piece of writing by him is <span><a href="http://bala3108.blogspot.in/2013/06/the-king-and-truth.html" target="_blank"><span>The King and the Truth</span></a>, </span>a fine piece of historical fiction. A more suitable example of the randomness in his writing is <a href="http://bala3108.blogspot.in/2014/02/the-great-fall-and-silence-that-follows.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+CriticismBringsOutTheBest+(criticism+brings+out+the+best)" target="_blank"><span>this</span></a>.&nbsp;I expected such a post from Bala, but he decided to write a movie review. And on that note, I finally managed to catch up with Interstellar yesterday. The science is beyond me, but I connected with the movie emotionally on so many levels and I loved it for that.<br />
 <br />
 <div style="text-align: center;">
@@ -42,29 +42,29 @@ Interstellar and my 120 Bucks</h1>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <span><b>What is a science fiction?</b><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><o:p></o:p></span></span><br />
 <span><b><br /></b></span>
-<span style="text-align: justify;">The limits of the possible can only be defined by going beyond them into the impossible.</span><b style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br />
+<span>The limits of the possible can only be defined by going beyond them into the impossible.</span><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br />
 <div style="text-align: right;">
-&nbsp;<span style="text-align: justify;">–Arthur C Clarke</span></div>
+&nbsp;<span>–Arthur C Clarke</span></div>
 </div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span><br /></span></span></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" /></span></a></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>To evolve base science, futuristic
 novel ideas in to next level, pushing the boundaries of logic all the while
 keeping foot on the ground.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>In short, Imagination with or with in
 the grasp of logic is science fiction.</span></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
@@ -73,19 +73,19 @@ the grasp of logic is science fiction.</span></div>
 <b><span lang="EN-US" style="font-size: 10pt;"><span><span style="font-family: inherit;">What is wrong with the movie?</span><o:p></o:p></span></span></b></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>Nothing is wrong with the movie.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>And I have nothing against Nolan; In fact
 I am a die-hard fan of the Dark Knight series and Prestige, I haven’t watched
 Inception though, but have heard the same annoying clichés&nbsp;from friends,
 “Wow whatta movie, I had to watch it 5 times to understand, how can a person
 think like this” etc.., and I decided against watching it.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>So, when people who hardly watch or
 read science fiction speak about ground breaking ideas, new physics Nolan has
 come up with the movie (Yeah Righttt…); I am like <i>“had physics always been so primitive before Nolan started making
@@ -98,7 +98,7 @@ itself a tragedy)&nbsp;are built upon,&nbsp;so it’s not new level of thinking
 for many of my friends and me, and I’m naturally and quite rightly annoyed.<o:p></o:p></span></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>The movie itself is a delight with the delicate
 emotional quotient shouldered by Matthew Mcconaughey, Mackenzie Foy (Little
 Murph), and Jessica Chastain (Murph grown up), excellent if not grand music by
@@ -109,15 +109,15 @@ and CASE robots weren’t a humanoid but had humor which was kind of cool and
 awesome, lazed with great lines, Kudos to that. But they too are replicas with
 improvements from a lot other Sci-Fi’s (I’ll give Nolan the benefit of doubt
 for not saturating the idea)<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>Now anyone can see the potential of
 this cast, I’d say their presence in itself guarantees Oscar nominations, so
 when someone says great acting and music, no surprises there.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span><b><i>Note:</i></b><i> I refrain from commenting on specific sentiment
 scenes as I’m prone to giving up the main plot, not that it has many twists,
 but below this I may not be extending the same courtesy for science will always
@@ -137,7 +137,7 @@ to happen, what will happen in the future though; had already happened”<o:p></
 now*</span></i></b></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>The amazing
 and widely acclaimed visual effect/treat of the Black hole in fact has
 over-shadowed the most incredible notion and complexity of the movie. <b><i>The simultaneity of time</i></b>, if you
@@ -146,7 +146,7 @@ occurring simultaneously, it was refreshing to see that Nolan didn’t point it
 out as in many other Sci-fis but trusted the audience to figure it. Matthew
 who has travelled in to the space is already present in his daughter’s bedroom
 but also in the future<i> (Namesake) </i>which also is the past <i>(Namesake).</i></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <i><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></span></i></div>
 <div style="text-align: left;">
 </div>
@@ -156,26 +156,26 @@ illustration and effects of the Black hole</span></i></b></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <b><i><span><br /></span></i></b></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" height="193" width="320" /></span></a></div>
+<a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" height="387" width="640" /></span></a></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <b><i><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span><br /></span></span></i></b></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <b><i><span><br /></span></i></b></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>The place
 where he ends up is with time as a physical dimension, one can simply take a
 stroll and end up in his past or into the future, though grandfather paradox
 would prevent any physical interaction that might impact the events happened/happening. Nolan bypasses it conveniently with Gravity. But all these wonders of physics
 have been sidelined by the glory of the black hole.<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>Yet, if I were allowed to be brutally
 honest for a minute I’d say “it is an overrated Sci-fi, every idea in this
 movie has been already experimented upon, in better and flawless movies”.</span><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>We all want our heroes to win, we want
 all the movies we watch to have happy endings, so naturally laws of physics and
 logic is betrayed in the script (hardly the qualities you will want in a
@@ -185,18 +185,18 @@ with a black hole (you don’t need a masters to spot this) and the exaggerated
 effects of relativity like slowing down of time ratios, yes this is intriguing
 to common minds but to create a perfect sci-fi we’d have expected better
 explanations than gravity, especially with Kipp thorne by his sides.</span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>The only new idea however preposterous,
 (I will reserve my comments on that) is the suggestion that Love might be a
 great power which we haven’t really have tried to explore on, by which Nolan is
 suggesting how Captain cooper ends up being able to help his daughter (It took
 me great effort to not reveal this scene, though I doubted the possibility when
 the movie decided to tread upon space-time distortions)<o:p></o:p></span></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
-<div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify;">
+<div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 And what finally broke my resolve to
 not be annoyed or write a review on this movie is when Mathew Mcconaughey
 ejects (The computer actually screams “<b><i>EJECT”,&nbsp;&nbsp;LOL….</i></b>)

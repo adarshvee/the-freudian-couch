@@ -13,17 +13,17 @@ url = "2014/10/guest-post-series-gods-own-guests.html"
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Note : This post is a part of the&nbsp;<a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br>
 <br>
-<div style="text-align: justify;">
+<div>
 Meet Vidhya, another contributor for a short story collection a few of us are hoping to publish soon. You have already met <a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-bureaucrat-bloody-hell.html" target="_blank"><span>Shyam</span></a>, and you will be meeting the one remaining contributor soon. Vidhya has been reading my blog for less than a year, but she is one of my best readers. She quickly went through almost every nook and corner of the blog when she discovered it, and has since then let me know her thoughts on every single post I have written. On a few occassions, she is the only person getting back with her views, dispelling my doubts that I was deluded into thinking I had published something. It helps that she is a wonderful person, rarely capable of discouraging anyone other than herself.</div>
-<div style="text-align: justify;">
+<div>
 <br></div>
-<div style="text-align: justify;">
+<div>
 For an awesomely entertaining writer, Vidhya started blogging very late. "<a href="http://vidhya111188.blogspot.com/" target="_blank"><span>Random House Publications</span></a> - Random stuff written from my house" : these are the title and tagline of her blog. And as you come to expect from the tagline, the posts are hilarious. In&nbsp;<span><a href="http://vidhya111188.blogspot.com/2014/03/a-bottle-of-horlicks-and-spoon.html" target="_blank"><span>A bottle of horlicks and a spoon</span></a>, </span>you will be busy laughing, sniggering and smiling at the jokes until you are hit by the beautiful idea behind the post. In <span><a href="http://vidhya111188.blogspot.com/2014/04/driving-woes.html" target="_blank"><span>Driving Woes</span></a>,</span> she makes you squirm at the thought of being anywhere in her vicinity when she is driving an automobile (despite her hastily added assurances to the contrary). And in <span><a href="http://vidhya111188.blogspot.com/2014/03/animal-whims.html" target="_blank"><span>Animals and their whims</span></a>, </span>she talks about her inexplicable (for me at least) love for cats, dogs and few other animals. I hope that you would be able to read her stories soon, and be as shocked as I was while encountering the unexpected mini-tragedies she manages to sneak in.</div>
-<div style="text-align: justify;">
+<div>
 <br></div>
-<div style="text-align: justify;">
+<div>
 I have felt that Vidhya's humour works because of her tone. It gives an impression that she is completely unaware of the humour in her writing. There is also an air of mock-pompousness; she is anything but pompous in real life. She does this really well while writing about children, caricaturing people based on their minor quirks. I requested her to try and showcase this aspect of her writing, and she managed to do exactly that by recalling this rollicking incident from her childhood.</div>
-<div style="text-align: justify;">
+<div>
 <br></div>
 <div style="text-align: center;">
 <h1>
@@ -31,10 +31,10 @@ I have felt that Vidhya's humour works because of her tone. It gives an impressi
 God's Own Guests
 </span></h1>
 </div>
-<div style="text-align: justify;">
+<div>
 <br></div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">Looks like Adarsh has decided
 to scoot over and make room for people on his Freudian couch. It’s a nice place
 this couch .Mostly because the choice of reading is quite good .Ranging&nbsp;
@@ -44,11 +44,11 @@ morality and Sam Anderson etc.(Wait Anderson? Cant be.. Mendes? No. Definitely
 Sam someone).<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">The guest post series got me
 thinking, about guests.So today on the couch , you will hear from me , a story
 from my childhood . One that involves guests. The fundamental question on
@@ -62,11 +62,11 @@ house inundated&nbsp; with guests you couldn’t count with fingers from both
 your hands? I have..<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">We were forewarned of course,
 my brother and I. A strange bonding had developed between us in anticipation of
 our shared misery. The day my father told us that we would be having 17 people
@@ -86,11 +86,11 @@ getting their hands on it. It was his&nbsp; life line.&nbsp; He did not reckon h
 without it , so stowing it away for a week was not a viable option.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">So there we were, a pair of
 spoiled brats, who didn't usually get along very well but suddenly we found
 ourselves on the same side of the battle front.&nbsp;
@@ -100,11 +100,11 @@ other , we were even more unwilling to have to share them with anyone else, let
 alone a whole circus troupe. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">We watched silently as our parents looked
 worried too , wondering&nbsp; anxiously about
 how we were to accommodate that many people. My brother became excited all of a
@@ -122,11 +122,11 @@ that make up a household. He told me that we were going to help our parents by
 coming up with a Master floor plan that would allocate&nbsp; sleeping area to all of the guests. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">We were both completely
 excited and we spent days planning it. No nook or cranny was spared. We heard
 talk of a baby being a part of the troupe and assigned the staircase landing
@@ -137,11 +137,11 @@ the floor checking the amount of noise generated, measuring random spaces with
 our mother's inch tape and so on. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">When the day finally came,
 two mini vans squeezed in with difficulty into our tiny street and disgorged
 our guests.&nbsp; The days and hours spent in
@@ -156,11 +156,11 @@ of times I would hear it. It was evident that they were enjoying each other's
 company.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">I recall vaguely that my
 mother braved the task of making idlis for everyone on the first day.
 Enlightened by the experience, she had my father buy all the remaining&nbsp; meals of the day from the nearby Sangeetha
@@ -178,11 +178,11 @@ managed to elbow his&nbsp; way through and
 joined in defiantly, claiming ownership rights.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">Later that evening , after
 everyone was well fed and there was nothing to do but sleep , my brother and I
 proudly presented our master plan to our parents. My father was dumb struck and
@@ -193,11 +193,11 @@ exactly what we had planned. We began to debrief the guests&nbsp; too, quite pom
 once none of them had anything to say. Or sing. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">One of the adults in the
 group suggested that they would all camp at the terrace and everyone agreed
 with mild sighs of relief. So that was that. The grand plan that had mighty
@@ -206,14 +206,14 @@ Forlorn was I to see all the hard work go to waste but my brother? He didn't
 care . He simply went back to his video game.&nbsp;
 <o:p></o:p></span></span></div>
 </div>
-<div style="text-align: justify;">
+<div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">So that's the end of the
 story . Perhaps there's a moral there somewhere ? Anyone who has spotted it can
 let Adarsh know. I'm sure he will be kind enough to pass it on. Until next time

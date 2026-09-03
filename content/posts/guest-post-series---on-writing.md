@@ -14,19 +14,19 @@ url = "2014/10/guest-post-series-on-writing.html"
 <h1>
 <span style="font-size: small; font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-size: medium; font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-size: small; font-weight: normal;">.</span></h1>
 <div>
-<div style="text-align: justify;">
+<div>
 Since my mother is a teacher, she would often end up meeting other teachers from my school. It would soon be discovered that a few of these people had been my own teachers. As a result, I would occasionally get trapped into a conversation with some long-forgotten faces when I am not adequately prepared for it (it is always advisable to prepare before meeting a teacher), and there would be an awkward moment when they&nbsp;unsuccessfully&nbsp;dig deep into their memory to summon up an image of me. They would then give up, and ask me, "<i>which batch were you in?</i>". "<i>Srini's batch, ma'm. Srinivas</i>". "<i>Ahhh, yeah. I remember him! What is he doing now?</i>" That is the extent of Srini's popularity, and that is the extent of my invisibility.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 I know Srinivas for about fifteen years. My school was at a walkable distance from my house, and I would go by a shame-inducing ladies cycle when I didn't walk. Srini and another guy traveled from and to what seemed like a great distance to the tiny us, usually by city bus. I once suggested that they walk the other way towards my home for a few minutes so that the buses are emptier, and they crazily agreed. I don't remember even a single topic we discussed all those days walking back, other than some stray incidents. Like that occasion when we tried flagging an auto for a lift only to be berated by a furious auto-driver who demanded money from us. Or the other one when Srini and N unexpectedly got a lift towards my house leaving me all alone. Panic drains shyness. I glanced around quickly, jumped into a random two wheeler driver which had happened to stop by, and urged him to drop me. He was too stunned to protest.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 I digressed there! I do that often. I am wont to lose concentration, but Srini is not. When he sets his mind on a thing, he usually gets it done. It is not wise to tell him that he can't do something, for he will soon prove you wrong. During our final couple of years at school, he travelled nearly a couple of hours every second day to prepare for his entrance exams. His efforts paid of as he got into one of the most prestigious chain of institutions in India. And college is the best place to start a blog. He started with the very impressive <span><a href="http://nsrinivas89.blogspot.com/2009/09/my-first-post-every-time-i-open-my-pen.html" target="_blank"><span>My First Post</span></a>. </span>The impact this post has had on me is such that for an idea that I am hoping to pen soon, I have been subconsciously telling myself that the opening must be as dramatic as this post.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 And how did he help my own writing? When we were around 11 or 12, three of us worked briefly on a collaborative novel : a disgustingly pathetic attempt at writing. I hope to tell more about this on a later day, if I get this third person to write for me. Srini and I haven't really been in touch lately. When I pinged him abruptly and asked him to write though, he didn't hesitate even a wink. Within hours of requesting him, I had in my mailbox this meta post on the process of writing.</div>
 </div>
 <div class="MsoNormal">
@@ -40,7 +40,7 @@ And how did he help my own writing? When we were around 11 or 12, three of us wo
 <span><b><span lang="EN-US">“Old Habits die hard”</span></b><span lang="EN-US">…. Well how old should the habit be,
 so that it doesn’t die?!?<o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>Sometimes I
 wonder, having finished a quarter of the life I am blessed with, how many
 things from the past should I take forward for the rest of my life. So, when I
@@ -93,7 +93,7 @@ There is not much action now, so its all just memories </span><span lang="EN-US"
 <div class="MsoNormal">
 <br /></div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>I am not
 sure if you will agree to this generalization, but after much thought and
 associating how people (I have met)in these phases of their life project themselves,
@@ -124,7 +124,7 @@ convinced].<o:p></o:p></span></span></div>
 <b><span lang="EN-US"><span>So, what am I rambling and what is the
 relevance to the title of the post?!? <o:p></o:p></span></span></b></div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>When Adarsh
 asked me to write a guest post, I simply couldn’t say no! I liked the concept.
 So I started writing this one thinking “old habits die hard!” I took it up as
@@ -132,7 +132,7 @@ an opportunity to give a nice come back. Then, I went into the classic writer’
 dilemma – what do I write about today?!? <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>My mind
 raced from the facts I read from some books this month, the movie I saw
 yesterday, to my office, to the world of software development, life as an
@@ -140,16 +140,16 @@ engineer , Bangalore, India, to people I have met, schoolmates, role models,
 food, economy and many more I am not mentioning here ….<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>But, then I
 realized something…<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>This framework I talked about, is the <b>realization</b>.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>I should
 confess that I have not written anything but thousands of lines of production
 code, almost equal amount of status mails and nothing more, in the last four
@@ -158,18 +158,18 @@ years. I am appalled by how much we “watch” instead of “read” and how mu
 old habits will die hard! <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <b><span lang="EN-US"><span>So my answer to those questions:<o:p></o:p></span></span></b></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>There is
 nothing good or bad. There is nothing useful or waste. Yes, your thoughts and
 actions make you feel happy and sad. They can get you money and they might not.
 But, its only them, who come with you in this long journey.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
-<div style="text-align: justify;">
+<div>
 <span lang="EN-US"><span>I think I
 missed a few pedals in this journey. But, if you enjoyed reading this post, maybe
 I am gasping but am still riding on…<o:p></o:p></span></span></div>

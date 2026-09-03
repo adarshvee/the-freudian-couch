@@ -11,13 +11,13 @@ url = "2012/03/intruder.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<div style="text-align: justify;">
+<div>
 It must have been during the third year of our Engineering course. Like most typical Indian under-graduation course, ours too was in the danger of contributing not many things to our life. It is not the fault of the system - I will have the authority to blame the system only if I had extracted everything I could from it, and had found that the system had nothing more to offer to me. Before I go into a philosophical mode, let me try getting back to the point.</div>
-<div style="text-align: justify;">
+<div>
 Some of my friends were keen to make use of the cultural <a href="http://www.kuruksastra.org/2012/index.php">event</a> held at our college. We were aiming for the ad-zap event, but the posters of the Photography and Videography events held our attention longer that they ought to have, considering that we didn't even have a 5 MP digital camera with us. But it did, and the rest, as they say, is History.Forgotten history is History too, isn't it?</div>
-<div style="text-align: justify;">
+<div>
 We went on to make a first "short-film" despite many hurdles. As expected, it failed miserably. This didn't deter us, and we went on to make a second "short-film", which failed too. But, the fun we had while making these films were immense, and it made us appreciate the difficulties in making a full length feature film. I might write about the actual experiences in a later blog post. For now, I have decided to post the scripts written by me for these two movies.</div>
-<div style="text-align: justify;">
+<div>
 A little about the script, before I actually paste it here. The story's ending is a conscious rehash of a Hindi <a href="http://www.imdb.com/title/tt0195002/">movie</a> that I had seen as a child and had a profoundly effect on me (just discovered that it is written and directed by two very famous people). The underlying situation is from a <a href="http://www.goodreads.com/book/show/921796.We_ll_Share_a_Double_Funeral">novel</a> by one my my all time favorite authors. So, here is the script.</div>
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><u> TITLE - The Intruder</u></b><br />
@@ -107,17 +107,17 @@ Man 1 is sitting in a more relaxed posture. Man 2 sits casually, but seems a lit
 <br />
 Credits.<br />
 <br />
-<div style="font-family: inherit; text-align: justify;">
+<div style="font-family: inherit;">
 <span>A few noteworthy points</span></div>
-<div style="font-family: inherit; text-align: justify;">
+<div style="font-family: inherit;">
 <span>1) This is not how you write a standard script. There are certain conventions followed while writing a script, and there are special considerations to be made. Hopefully, what I have written is at least</span></div>
-<div style="font-family: inherit; text-align: justify;">
+<div style="font-family: inherit;">
 <span>readable&nbsp;</span> </div>
-<div style="font-family: inherit; text-align: justify;">
+<div style="font-family: inherit;">
 2) If the script looks like crap, the actual <a href="http://www.youtube.com/watch?v=mkOScmpG3_w">movie</a> we made is even crappier and amateurish. we borrowed a camera, and thought ourselves to hold it. We had no idea where the light sources should be while capturing a scene. After instructing my friends acting in the movie to enact each scene as slowly as they could, we ended up with a 15 minute video. Realising that the contest allowed a maximum screening time of 3 minutes, we ended up deleting most of the scenes we shot, and running the rest at a higher speed. We downloaded an editing software from the internet and learnt to use it, and used it, in just 2 days.</div>
-<div style="font-family: inherit; text-align: justify;">
+<div style="font-family: inherit;">
 3) Watch out for a fleeting performance by self (Yeah, I know. The video by itself is fleeting, and that's how long it will stay in your mind when you end watching it).</div>
-<div style="font-family: inherit; text-align: justify;">
+<div style="font-family: inherit;">
 4) I will end this post with the tragic announcement that the second script I wrote will be up on the blog in two days ( the two day gap is for effect). It is a fantasy with what I hope to a dose of humour I would have been proud of it, if I had written it while I was fourteen, and got it published in&nbsp; a school magazine. But as they say, better late than never :)</div>
 <br /></div>
 

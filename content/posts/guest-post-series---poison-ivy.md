@@ -13,21 +13,21 @@ url = "2014/10/guest-post-series-poison-ivy.html"
 <div dir="ltr" style="text-align: left;" trbidi="on">
 Note : This post is a part of the&nbsp;<a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br />
 <br />
-<div style="text-align: justify;">
+<div>
 Supriya was my schoolmate, but we barely knew each other at school. She ended up at the same college as I, but we would still exchange only a word or two when we came across each other occasionally. I did know that she writes poetry and started publishing them online around the time I started writing, but she was totally unaware that I blogged. I don't remember how (I suspect I asked her to read it. How else?), but she stumbled upon the blog. Around a year and a half back, she was one of the most frequent readers, reading posts at a stretch and encouraging me. It was around this time that I decided to make my blog more about me, regardless of what I end up revealing about me and regardless of how boring it is to the readers. Her feedback -- especially when I wrote intensely personal posts such as <span><a href="http://adarsh89.blogspot.com/2013/08/the-depression-flowchart.html" target="_blank"><span>The Depression Flowchart</span></a> </span>-- helped me a lot in making this shift.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 I would call Supriya a feminist, but I believe she is a fierce individualist first. She has strong views, and rarely hesitates to voice them. She also keeps surprising me with things I keep discovering about her. She is an outdoor type, but she is also a voracious reader, reading books at a furious pace and writing in multiple languages. She is, literally, a rocket scientist. She pens poems on extremes of joy and hope, extremes of grief and despair, and on other trivialities in between. She writes prose too, but not as frequently. Her prose often gives an impression that it is meandering, but there are profound observations and glimmers of humour hidden in them.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 When I asked her to write for me, she was not able to summon up the inspiration to write anything. She wanted me to post something she had already written, and suspected that not a lot of people had read. I would have chosen the stunningly pessimistic <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/04/tunnel.html" target="_blank"><span>Tunnel of Downfall</span></a>, or the lovely <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/04/tell-me.html" target="_blank"><span>Tell Me</span></a>. I would have published <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/04/spring.html" target="_blank"><span>Spring</span></a>&nbsp;which is so unlike what I know of her, or the colourful <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/04/paint-me-picture.html" target="_blank"><span>Paint Me a Picture</span></a>. I loved <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/08/i-wish.html" target="_blank"><span>I Wish</span></a>, and <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/08/void.html" target="_blank"><span>A Void</span></a>&nbsp;which is filled with so much anguish that it made me squirm. There is <a href="http://redgiantsandwhitedwarfs.blogspot.com/2009/08/moment.html" target="_blank"><span>A Moment</span></a>&nbsp;which captures the beauty of the World, the passionate&nbsp;<a href="http://redgiantsandwhitedwarfs.blogspot.com/2010/10/you.html" target="_blank"><span>You</span></a>, and the exhilaratingly happy <a href="http://redgiantsandwhitedwarfs.blogspot.com/2012/04/meeting-with-star.html" target="_blank"><span>A meeting with a star</span></a>. Talking of happiness, there is this profound essay<span>-- </span><a href="http://redgiantsandwhitedwarfs.blogspot.com/2014/04/can-i-dry-clean-my-melancholy-suit.html" target="_blank"><span>Can I dry clean my melancholy suit, please?</span></a> on the importance of feeling a little melancholy now and then, with which I completely agree. But Supriya bossed me around (she is capable of doing that to stronger minds than mine) into choosing a poem I haven't been able to decipher completely. She feels it to be her best work till date, despite (because of?) it being as abstract as her. So, on her request/command, here is <b>Poison Ivy.</b></div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
 <div style="text-align: center;">
 <b><span style="font-family: Verdana, sans-serif;">Poison Ivy</span></b></div>
-<div style="text-align: justify;">
+<div>
 <span style="font-family: Verdana, sans-serif;"><br /></span></div>
 <div style="text-align: center;">
 <span style="font-family: Verdana, sans-serif;">Last summer</span></div>

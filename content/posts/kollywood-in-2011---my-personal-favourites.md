@@ -11,20 +11,20 @@ url = "2012/01/kollywood-in-2011-my-personal.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 It is that time of the year when everyone looks back to see what was good in the past year, and when everyone looks fondly at the coming year hoping that things would be better. It is that time of the year, when everyone tries to list and rate their favorite moments in the past year. It is that time of the year when everyone who calls himself a film critic tries to list movies that they consider to be the best and the worst. I am not, in any way, qualified to be called as a film critic. I call myself a film buff, but any given day, I would prefer to simply sit and stare at my Facebook wall and Twitter timeline, rather than watch a movie. There are about 50 movies in my laptop and PC, that I have accumulated over the last four years hoping that I would one day see them, but never doing it. Yet, for some reason, a part of my mind wanted to list out my favorite Tamil movies of my year. There was another part of my mind debating against this, and roughly, the debate went like this<br />
 <br />
 <b>First part</b>&nbsp; : You haven't written anything worthwhile for ages. The only things you wrote last year consisted of official emails, and even these were usually among the following types</div>
-<ul style="text-align: justify;">
+<ul>
 <li>&nbsp;&nbsp;&nbsp; We are working on it. We will get back to you soon.</li>
 <li>&nbsp;&nbsp;&nbsp; Please advice.</li>
 <li>&nbsp;&nbsp;&nbsp; Please suggest.</li>
 <li>&nbsp;&nbsp;&nbsp; Please assist.</li>
 <li>&nbsp;&nbsp;&nbsp; We are still working on it. We will get back to you soon.</li>
 </ul>
-<div style="text-align: justify;">
+<div>
 <br />
 You seriously need to improve your writing skills. Content is not important, You just need to write something.<br />
 <b>Second Part</b>:&nbsp; You haven't written anything worthwhile for ages. Most people think this blog is dead. Who are you writing for?<br />
@@ -61,47 +61,47 @@ The third movie by director Suseenthran, and as good as the first two, if not mo
 Directed by debuttante Kumararaja, it is the Tamil(or even Indian) movie that is closest to the class of a Quentin Tarantino's creation. The actions of a wannabe-big-gangster Pashupathy (Sampath, one of the finest actors) cause an explosive cascade of events, touching the lives of the ageing old don Singa Perumal (a brillian Jackie Shroff), an innocent and ridiculed misfit Sappai (Ravi Krishna), a wannabe actress held in the clutches of Singaperuma - Subbu (Yasmin Ponnappa), the pauper farmer Kalayan (an excellent find, Somasundaram) and his son Kodukkupulli (Master Vasaanth). Yuvan Sankar Raja's stunning BGM is worth a mention.<br />
 <br />
 <b>2. Aadukalam</b></div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 </div>
-<div style="text-align: justify;">
+<div>
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/kollywood-in-2011---my-personal-favourites/Aadukalam__1b83b086.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/kollywood-in-2011---my-personal-favourites/Aadukalam__1b83b086.jpg" /></a></div>
-<div style="text-align: justify;">
+<div>
 <br />
 The national award winning movie directed by Vetrimaran (his second movie after the really good Pollathavan), and starring Dhanush. The movie is set in a backdrop of Rooster Fights. Pettaikaran (Jayabalan) is the most reverred name in rooster figths, assisted by Karuppu(Dhanush) and Durai (The fantastic actor Kishore).Rathnasamy is their arch competetor. In the heat of an important competition, Karuppu decides to go against the better judgements of Pettaikaran. The movie deals with the emotional fallout of this action. The thing that strikes me the most about this movie is the raw emotions that each character in the movie has. Even the heros sidekick gets angry at a point of time. Every single actor does justice to the characters he/she plays. Though many people felt that the second half of the movie to be slow, I personally love it.<br />
 <br />
 <b>1. Engeyum Eppodhum</b></div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 </div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/kollywood-in-2011---my-personal-favourites/Engeyum-Eppothum-Movie-252814-2529__7263b088.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="212" src="/images/blogger/kollywood-in-2011---my-personal-favourites/Engeyum-Eppothum-Movie-252814-2529__6d1726c5.jpg" width="320" /></a></div>
-<div style="text-align: justify;">
+<div>
 <br />
 Produced by&nbsp; director A.R.Murugadoss, and directed by debutante Saravanan, this is a delightful movie. Though most people I know would cringe at what I am going to say, to me this is a feel good movie. I felt really good for 3/4th of the movie. The movie starts and ends with a bus accident, and traces the story of two couples involved in the accident. A fantastic screenplay, with a liberal dose of really good humour makes this movie a must watch. The scene depicting the actual accident has so much impact that some people I know hesitate to travel by road after watching this movie. The movie's greatness lies in the fact that there is no single thing that really stands out. This movie was lauded by almost everyone who saw it, but I still feel that it has been under-rated.<br />
 <br />
 <u><b>Movies that might have made the list, had I watched them (in no particular order):</b></u><br />
 <br />
 1) <b>Aanmai Thavarael</b> - A movie about human traficking, that got pretty decent reviews.</div>
-<div style="text-align: justify;">
+<div>
 2) <b>Muran</b> - An adaptation of the Alfred Hitchcock's Strangers on a Train. Starring Cheran and prasanna, this movie got rave reviews.</div>
-<div style="text-align: justify;">
+<div>
 3)<b> Vaagai Sooda Vaa</b> - Directed by Sarkunam of Kalavani fame, and starring actor Vimal. The movie is set in 1960s, and is about an teacher who tries to educate the children of a village. </div>
-<div style="text-align: justify;">
+<div>
 4) <b>Mouna Guru</b> : Directed by Santha Kumar, and starring Karunanidhi's grandson Arulnithi, no one would have cared for this movie. But unexpectedly, it has made its way to the top 5 list of every critic I respect. It is supposed to be among the best thrillers in Tamil.</div>
-<div style="text-align: justify;">
+<div>
 5) <b>Nadunissi Naaygal</b> : Directed by Gautham Menon, and starring Sameera Reddy, this movie is in the list of everyone's worst-movies-of-the-year list. Isn't that reason enough to watch it once?<br />
 <br />
 And finally, a word of advice on certain movies that you should avoid at all costs (Please note that this list is by no means exhaustive. After all, 134 movies were released in Kollywood last year).<br />
 <br />
 1) <b>Nootrenbadhu(180)</b> : Directed by Actor Jayendra, and starring actor Siddharth, whose twitter biopic reads "Stuck in the wrestling match between commerce and art", this goes down as one of the most hypocritical movie I have ever scene. There is not even a single shred of logic in the movie.</div>
-<div style="text-align: justify;">
+<div>
 2)<b>Avan Ivan&nbsp;</b> : When guests visit their houses, some parents ask their children to entertain the guests by activities such as singing and dancing. At the end of the show, regardless of whether they enjoyed it , the guests are expected to say something to the effect "Wow, you are so talented! You deserve an award!!". Watching this movie, one feels that director Bala was attempting to showcase the talents of Vishal and Arya in the same way.&nbsp; Vishal and Arya are grown up men, and should not expect such encouraging words. And Director Bala should stop making movies until he understands that movies should be either be entertaining or intelligent. Just being violent, gory and in-your face doesn't make a movie artistic</div>
-<div style="text-align: justify;">
+<div>
 3) <b>7Am Arivu </b>: Directed by A.R.Murugadoss, a movie full of crap. I strongly suspect that the director has been influenced by Aamir Khan.<br />
 <br />
 4) <b>Rajapattai</b> : Vikram has shown a strong influence to bad movies in the past, and Rajapattai is a real bad movie. I have added this here just because this movie is directed by Suseendhran, whose earlier movie Azhagarsamiyin Kudhirai (4th in the list above) was a complete commercial failure.<br />

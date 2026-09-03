@@ -20,9 +20,9 @@ My rating: <a href="https://www.goodreads.com/review/show/1984429193">3 of 5 sta
 being</i>"</blockquote>
 <div class="MsoNormal">
 <o:p></o:p></div>
-<div class="MsoNormal" style="text-align: justify;">
+<div class="MsoNormal">
 <div style="text-align: left;">
-<div style="text-align: justify;">
+<div>
 I picked <i>Scott Fitzgerald</i>'s <b>This Side of Paradise</b> from my local public library for two
 reasons : I wanted to read a classic; and having moved to an area not far away
 from Princeton, I was attracted by the blurb that indicated that a major part
@@ -36,11 +36,11 @@ the most part of the book.</div>
 </div>
 <div class="MsoNormal">
 <o:p></o:p></div>
-<div class="MsoNormal" style="text-align: justify;">
+<div class="MsoNormal">
 <div style="text-align: left;">
-<div style="text-align: justify;">
+<div>
 <br></div>
-<div style="text-align: justify;">
+<div>
 This Side of Paradise is the coming-of-age story of Amory
 Blaine. Amory's father is dismissed off quickly as "<i>an ineffectual,
 inarticulate man</i>". We learn that Amory takes after his mother ("<i>But
@@ -60,11 +60,11 @@ but he does not get the message. Amory completes school thinking highly of
 himself, and with disenchantment from his first love.</div>
 </div>
 </div>
-<div class="MsoNormal" style="text-align: justify;">
+<div class="MsoNormal">
 <div style="text-align: left;">
-<div style="text-align: justify;">
+<div>
 <br></div>
-<div style="text-align: justify;">
+<div>
 At Princeton University, Amory is in single minded pursuit
 of his ambition to maintain a high status, as are most of his fellow students.
 He discovers literature with his friends, and attempts a lot of not-so-ambitious
@@ -84,10 +84,10 @@ neighbor</i>". Monsignor Darcy gives some important advice to Amory, such as
 seem to be taking much note.</div>
 </div>
 </div>
-<div class="MsoNormal" style="text-align: justify;">
+<div class="MsoNormal">
 <br>
 <div style="text-align: left;">
-<div style="text-align: justify;">
+<div>
 World War 1 intervenes, but we do read much about it.
 Amory's outlook towards the war is described as "<i>the attitude he might
 have held toward an amusing melodrama, he hoped it would be long and bloody. If
@@ -103,11 +103,11 @@ affection to communism ("<i>However the brain and abilities of men may
 differ, their stomachs are essentially the same</i>").&nbsp;</div>
 </div>
 </div>
-<div style="text-align: justify;">
+<div>
 <br></div>
-<div class="MsoNormal" style="text-align: justify;">
+<div class="MsoNormal">
 <div style="text-align: left;">
-<div style="text-align: justify;">
+<div>
 <i>This Side of Paradise</i> has an unpredictable narrative, taking
 the form of prose, poetry, and even drama. This in itself is extremely innovative. The writing is brilliant at times,
 and let's just say that I couldn't recognize the brilliance at other times.

@@ -24,15 +24,15 @@ url = "2013/08/the-depression-flowchart.html"
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <br />
-<div style="text-align: justify;">
+<div>
 This year has already been one of my most productive year as a Bibliophile, both in terms of quantity and quality. I have already read 17 books this year, and I am on the brink of completing the 18th. My aggregate for the whole of last year was 18 (The statistics are readily available, thanks to goodreads). I have also made a conscious effort towards reading a certain kind of books - books that I have been avoiding for a long time. Having read one book each by Jean Paul Sartre, Albert Camus and Franz Kafka this year, I can even try pretending to be an expert on existentialist philosophy. My sudden voraciousness in consuming books hungrily delights me, but it also makes me wonder about the reason behind it.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 One of the major reasons for my rekindled love for books is my new Kindle EInk. Buying a kindle is one decision I won't regret anytime soon, if at all. Having started my kindle journey with a sufficiently memorable book (The Fall by Albert Camus), I can't wait to get my hands on numerous other classics. But, there has been another equally important reason for this book-reading streak - depression.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 I seek books as a cure for depression, and ironically the kind of books that accentuate it. In a rare occasion where I get to show my work skills outside of it, I have charted out a flowchart that depicts a normal working day in my life.&nbsp;</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -127,7 +127,7 @@ I seek books as a cure for depression, and ironically the kind of books that acc
 <br />
 <br />
 <br />
-<div style="text-align: justify;">
+<div>
 <br />
 The flowchart is quite easy to follow. In case you didn't know, the diamonds depict a decision point. The ratios in parenthesis indicate the probability of that event to occur. As I intended it to be fairly obvious when I started with the diagram (I am not sure how it has ended up), the normal pattern in my day is : Go to office, feel low over something, come back home, write a blog post (or get depressed over my inability to write one), try to promote the post, get depressed on the reaction, read a depressing book, fall asleep in a colossal ball of depression, wake up forgetting everything, repeat. Do I intend to do anything about this? No, not at all. I am getting used to this depressed state of mind. In fact, if I ever experience an exhilratingly happy moment, I might dearly miss my depression, and get depressed all over again.<br />
 <br />

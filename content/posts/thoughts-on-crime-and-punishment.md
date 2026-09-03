@@ -11,14 +11,14 @@ url = "2014/07/thoughts-on-crime-and-punishment.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<div style="text-align: justify;">
+<div>
 <div style="text-align: center;">
 "Mere existence had always been too little for him; he had always wanted more"</div>
 <br />
 A little more than nine months ago, I reviewed the book <span><a href="http://adarsh89.blogspot.com/2013/09/little-women-review.html" target="_blank"><span>Little Women</span></a>&nbsp;</span>on my blog. My chief issue with the book which I loved otherwise, was that it was morally preachy. I was not comfortable with the general idea that the book imparts; that good things happen to good people and bad things happen to bad people. At that point of time -- and I am narcissistically about to quote myself here, thereby entering the annals of quoting people as the first ever (and only?) person to quote me -- I felt that "<i>life is more like a movie directed by Coen Brothers, filled with absolutely random justice</i>". How much reversal of opinion is a person allowed to make within nine months? I always take the liberty of reversing opinions to the largest extent possible. So here I am, gushing over Dostoevsky's <i>Crime and Punishment</i> for the very same reason that had made me feel skeptical about <i>Little Women</i>. A little digging around the things that influenced my mood when I started Dostoevsky's epic, for I am a moody person, tells me that I had watched a few episodes of Breaking Bad. The idea of Walter White slowly turning immoral, while simultaneously becoming more "cool" made me feel a little uncomfortable. <i>Crime and Punishment </i>brushed off all such discomfort, and I am giving it two thumbs up.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 It is ironic that I wanted to read <i>Crime and Punishment </i>only because I had felt that&nbsp;<i>Match Point,&nbsp;</i>Woody Allen's reinterpretation of the Russian novel, to be brilliant. Match Point's central theme is the role that randomness plays in life. But halfway through Crime and Punishment, I was pretty sure that I did not want the fate of Rodion Raskolnikov, a cold blooded killer, to be decided by luck. His crime needed a punishment. Rodion Rashkolnikov is the ideal protagonist, for he is a loner; someone who feels the company of outside people too dull for his intelligence. He is the sort of protagonist that most readers will instantly root for. After all, almost every single one of us has moments when we think that the society is not good enough for us, when we get exasperated at the lack of intelligence of the collective, and consider ourselves as iconoclasts. Most of us are in denial about the fact that we, almost without exception, are the "average" in an average society (Dostovskey might not agree with me though. In a different context, he says "<i>A normal man, it is true, hardly exists. Among dozens – perhaps hundreds of thousands – hardly one is to be met with</i>"). Rodion is an impecunious student from pre-revolution, pre-communist Russia; an ex-student, for he has discontinued his studies. A man of strong character, the kind who forms his own ideas rather than adopting someone else's, he is in constant need of tiny amounts of money to lead his ascetic life.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">

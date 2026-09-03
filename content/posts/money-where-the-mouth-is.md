@@ -11,13 +11,13 @@ url = "2014/08/money-where-mouth-is.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<div style="text-align: justify;">
+<div>
 The November night is almost pitch dark, and it suits me. I carry my closest friend as noiselessly as I can into the desolation. Sigh! He is heavy. I lumber and pant for a few minutes, retracing the path I took a while back, and reach the spot I had marked earlier with a spade. I place him on the ground gently, but his head hits the ground harder then I expected it to. Damn! I don't want to hurt him. Not that he would feel any pain. Muttering a silent apology, I lift the spade off the ground, and start digging. I don't have enough time. Soon, early morning travelers will pass by on their way to Lonavala. I finish digging a hole. It looks pretty shabby, but it will have to do. I pause silently for a few minutes to see if there is any noise that does not belong in the night and glance around quickly. Nothing. I try to avoid looking at the eyes of the person I admired the most, eyes that had been alluring and all-knowing, eyes that are just dead now. I lift him with care, and lay him softly inside the pit, making sure that his head touches the ground softly this time. I stand back to take a look at my handiwork. His shirt is creased near the chest, and I flatten the crease with my hands.<br>
 <br></div>
 <div style="text-align: center;">
 ***</div>
 <div style="text-align: left;">
-<div style="text-align: justify;">
+<div>
 He didn't like creased shirts. He had been fastidious about clothes for as long as I could remember. He joined us at Gladden Orphanage when I was thirteen. He had been eleven. For me, life had become a routine, and I tried to be as happy as I could under the circumstances. Like all the boys around me, I lived in the present. He had been different though, always looking towards the future. With the cruelty of children, we did everything in our power to make him like us; languorous and laid-back. Fatty Farook had been the most ardent among us. I had been the least. We could sense that he wanted to get out of the hellhole. We laughed at his ambition, at his optimism, at his belief that he would one day beat the skewed system. He showed us didn't he? He reached the top of the very system, albeit briefly. He would have risen higher, if I had not intervened. I shuddered at the thought of what I have done.<br>
 <br>
 By the time he left Gladden's, I was seventeen, and the closest thing he had to a friend in that whole bleak place. With all due modesty, his need for me then had been more than my need for him. Throughout his short stay, he had made enemies due to his ambition, and I had to stand up for him. In return, he valiantly tried teaching me to read English. He did not belong with us, and I was glad that he left; for his own good. A scholarship at a leading private school awaited him. His parting gift for me was a book, his favorite : Robinson Crusoe. Ironically, it was twenty eight years before we met again.<br>
@@ -41,11 +41,11 @@ It is getting late. I can't stand here reminiscing all day. Not that I mind gett
 ***</div>
 <div style="text-align: center;">
 <br></div>
-<div style="text-align: justify;">
+<div>
 I had been with him for six years when he met Rituji. By now, Asha madam had partly reconciled with her father. As he confessed to me later, "time and love healed what it could". Asha madam introduced her friend, a budding journalist, to her father. He quickly anticipated her request, and offered Rituji a job. Rituji turned out to be an enthusiastic apprentice, quickly learning the tricks of her trade. Like me, she revered him. Her talent, and probably his personal attention towards her, enabled her to sidestep many and climb up the corporate ladder quickly, all within a couple of years. For this year's Idea Festival -- organized by his magazine as India's most eclectic, thought-provoking and egalitarian platform for ideas from across the globe -- she was assigned as the personal escort for the most important guests. The festival was held in Goa. I stayed back at Mumbai, as I was supposed to drive Asha madam to the Idea Festival a couple of days after the festival begun.</div>
-<div style="text-align: justify;">
+<div>
 <br></div>
-<div style="text-align: justify;">
+<div>
 It was on our way to Goa that Asha madam received the phone call. The call seemed to have come from Rituji, and Asha madam sounded quite upset after the call. I was asked to directly drive to Grand Hyatt hotel. It took me a little more that forty minutes to reach the driveway of the Grand Hyatt. Rituji was waiting outside, looking agitated. We picked her up, and I was asked to drive to the Crown. Strangely, as I picked her up and reversed out of the driveway, I spotted him in the rear-view mirror. For the first time ever, he looked remorseful. &nbsp;I could hear snatches of the conversation from the backseat as we drove away. The word "molested" was repeated several times, along with "second time" and "elevator". "I saw him doing this to a woman when I was thirteen, so it doesn't surprise me anymore", said Asha madam. A couple of days later, in Mumbai, he confessed to me. He regretted his "lapse of judgement", but it seemed that his daughter's awareness caused him to repent more than the incident itself.<br>
 <br>
 <div style="text-align: center;">
@@ -54,8 +54,8 @@ It was on our way to Goa that Asha madam received the phone call. The call seeme
 <br></div>
 </div>
 <div style="text-align: left;">
-<div style="text-align: justify;">
-My watch shows 03:43 as I finish covering the hole with mud. I take a step back to take in my work. Again,&nbsp;<span style="text-align: justify;">It looks pretty shabby, but it will have to do.</span><span style="text-align: justify;">&nbsp;I don't have much time now. Where will I go next? I will have to abandon the car here. Of course, it will lead them to him. But he deserves to be found before he decays. I owe him that. I will walk towards Lonavala, there is a bus stand a few&nbsp;kilometers&nbsp;down. And take a bus somewhere. A final visit to Gladden's perhaps. Gladden's will miss his generous donations. But he had been a principled man, and he would have understood why I did it. He might have approved too. I will miss him, and his wisdom. I look at his grave for one last time. A line from&nbsp;</span>What Turns Men into Beasts comes back to my mind : "A man who treats a woman badly does not deserve to live". I respect you Taran. There is no better way to show that than respecting your words. Goodbye.</div>
+<div>
+My watch shows 03:43 as I finish covering the hole with mud. I take a step back to take in my work. Again,&nbsp;<span>It looks pretty shabby, but it will have to do.</span><span>&nbsp;I don't have much time now. Where will I go next? I will have to abandon the car here. Of course, it will lead them to him. But he deserves to be found before he decays. I owe him that. I will walk towards Lonavala, there is a bus stand a few&nbsp;kilometers&nbsp;down. And take a bus somewhere. A final visit to Gladden's perhaps. Gladden's will miss his generous donations. But he had been a principled man, and he would have understood why I did it. He might have approved too. I will miss him, and his wisdom. I look at his grave for one last time. A line from&nbsp;</span>What Turns Men into Beasts comes back to my mind : "A man who treats a woman badly does not deserve to live". I respect you Taran. There is no better way to show that than respecting your words. Goodbye.</div>
 </div>
 </div>
 </div>

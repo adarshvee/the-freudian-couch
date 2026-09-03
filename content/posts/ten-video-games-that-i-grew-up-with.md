@@ -11,23 +11,23 @@ url = "2012/06/ten-video-games-that-i-grew-up-with.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<div style="text-align: justify;">
+<div>
 There have been lots of posts going around in Facebook recently claiming that we, those of us who are in our twenties at this point of time, are the luckiest generation ever. the posts reason that we have had the best of most things, and we have seen a lot in our short lifetime already. I had mentioned in a previous&nbsp;<span id="goog_949093817"></span><span id="goog_949093818"></span><span><a href="http://www.thefreudiancouch.com/2012/04/gen-next-are-we-heading-in-right.html" target="_blank">post</a></span>&nbsp;that every generation probably thinks it is the best to ever have set foot on this planet. But, the circulating status messages may have an iota of truth to them, considering that we have seen the advent and demise of many things in our short lifetime. I remember a time when the house at my native place Trichy was the only one I knew with a landline connection, and I still remember the phone number. We have come a long way since then, especially in electronics.</div>
-<div style="text-align: justify;">
+<div>
 When I see the variety and detail in video games today, I never cease to be amazed. Though not an ardent gamer, I do try my hand at a few of them at times. Whenever I do, I get a feeling that even though the games I grew up playing had much poorer graphics, they were better in many ways. Gamers of today might disagree with me, but for someone who often gets satisfied by the simpler things in life, the games of the yore were more charming and addictive. I have listed 10 games that I found most addictive as I grew up, and I still find them so. Most of these games had a very simple concept, but still managed to engage us for hours.</div>
-<div style="text-align: justify;">
+<div>
 <br /></div>
-<div style="text-align: justify;">
+<div>
 <b>1)&nbsp;Brick Video Game - Cars</b></div>
-<div style="text-align: justify;">
+<div>
 I apologise for the not-so-catchy-sounding title, but if you stretch your memory a litttle, you will remember that hand-held games we grew up with did not have names. They had numbers, and in my own device, the car games were numbered B1 to B4. The concept was simple. You are riding a car in what can be imagined as a two lane highway. The only aim of the game is that you should not crash with the cars coming in the oppsite direction. Yet, this game was completely engrossing. I remember starting with level 1, where the car would move slowly, and the speed would get increased as we gather more speed. In case I stirred your nostalgia a little, have a look at this <a href="http://www.youtube.com/watch?v=rUcxD9_6eiM" target="_blank">video</a>.&nbsp;</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__bfe50f83.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="244" src="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__03b88424.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>2) Super Mario</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I am sure this is up high on everyone's list. I won't waste time by trying to describe with my limited vocabulary the beauty of this most famous game ever. I was introduced to this game by a next door&nbsp;neighbor&nbsp;when I was a kid, and I remember her laughing at my ability to understand the complex&nbsp;maneuver of jumping over a pit. A few years later, a boy at my apartments taught me a few shortcuts involving pipes and creepers to reach level 8.1 quickly. He was struggling to finish this level within the stipulated time limit. It took a long time before we discovered by chance that Mario could not only walk, but he could also run. Our joy knew no bounds when we were finally able to conquer level 8.4 and save the Princess. I am not sure if anyone can make a game to equal this one.</div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
@@ -37,9 +37,9 @@ I am sure this is up high on everyone's list. I won't waste time by trying to de
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>3)&nbsp;Kung Fu</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 This was one of my favorites, simply because I was good at it. With simply 5 villains, each with unique style, this game guarantees fun. I&nbsp;remember&nbsp;a&nbsp;partnership&nbsp;ship I had with my flatmates, where we would play alternate chances each. Playing the last chance, I kept on defeating Wang, Tao, Chen, Lang, and Mu for a long time, until I was finally beaten by Lang, the toughest opponent of the lot. Never let Wang get close enough to you, and never let Chen move far enough. Jump on the walls, and kick Tao on the rebound, ahh, as I am writing this, my hands are itching to play this game again.</div>
 <div class="separator" style="clear: both; text-align: left;">
 </div>
@@ -59,9 +59,9 @@ This was one of my favorites, simply because I was good at it. With simply 5 vil
 <br />
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>4) Commondos - Behind the enemy line</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I saw this game for the first time when a school mate took me to a browsing centre, and explained its virtues. It was a game perfectly suited for me. A very slow, stealthy game, it requires laying down elaborate strategies to complete the 20 levels. I have been able to reach only upto level 16 of this game, and one of these days, I will try completing the remaining 4. There is also a newer version of Commondos (Commondos 3) that has great graphics, but still retains the essence of the older version. &nbsp;In an unforgettable stage in the original version, you have only Green Berret and Spy to try and destroy an air-plane at the other end of a mountain. You need to navigate your way through numerous minefields, and packs of Germans before you can complete the objective.&nbsp;<span>Commondos is probably my most favorite PC game.</span></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
@@ -71,9 +71,9 @@ I saw this game for the first time when a school mate took me to a browsing cent
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>5) Age of Empires</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I discovered this game along with a couple of my cousins, and we were awed by the concept. We first played a demo version which was extremely difficult. The campaign we played was called <i>Battle of Kadesh </i>and our empire was simply given three villagers, and minimal resources. Even before we could start developing the empire, red coloured militias will storm into our empire and slay unsuspecting villagers. My cousins and I sat together, and framed an elaborate strategy to ward of the attackers, slowly build a great&nbsp;defense, and then start a cautious attack. We were so engrossed by the game that while returning from my cousins house, we would point at things around us at the railway station, and pass silly remarks such as "mine here for gold". The next version of the game, The Age of&nbsp;Conquerors&nbsp;was great too, but the subsequent versions lost the charm of the older versions. Personally, my favorite characters were the Teutonic Knights, Monks, and Elephants.</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
@@ -83,12 +83,12 @@ I discovered this game along with a couple of my cousins, and we were awed by th
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 <b><br /></b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>6) EA Cricket</b>
 </div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I have always had a fascination for cricket games, and EA Cricket is here purely because it is one of the very few cricket games in market. The very idea of creating my teams, setting fields, captaining a side excited the cricket fanatic in me, and I have spent a numerous hours playing this game. Despite the fact that it is a very monotonous game, I play it occasionally even today, and I have issued a stern warning to my brother against uninstalling it.</div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___cbdb547a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="224" src="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___c72de76c.jpg" width="320" /></a></div>
@@ -96,9 +96,9 @@ I have always had a fascination for cricket games, and EA Cricket is here purely
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>7)&nbsp;Snake xenzia</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 This was a game that originated from a less interesting version in Brick video game. Snake is believed by many to be the best cell-phone game before the advent of touch phones. I preferred snake xenzia because it was a little faster, and the snake looks more, err, snake-like. During my first year in college, I had&nbsp;competitions&nbsp;with my cousin who visited Trichy frequently, and we would break each other's high score record. We even discussed strategies to master this game.</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
@@ -108,11 +108,11 @@ This was a game that originated from a less interesting version in Brick video g
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
 </div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>8) Stick Cricket</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 The best cricket game ever, its only drawback being that the game is very fast paced. We discovered the game in the first year of our undergraduate. The game had just been released, and was too young to be blocked by the proxy servers in our college. The game demands outrageous required rates, and makes us keep pace witch such run rates. My current week has been occupied by attempting to chase 450 odd runs in 20 overs against a Pakistan bowling attack filled with variety. I am also trying to master the android version of the game. Stick Cricket is so close to my heart that I had half-written a silly post about it during the third year of my college. It still lays unpublished in my drafts.</div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__c1ed242b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__0711e4e1.jpg" width="320" /></a></div>
@@ -121,27 +121,27 @@ The best cricket game ever, its only drawback being that the game is very fast p
 <br />
 <div class="separator" style="clear: both; text-align: left;">
 <b><br /></b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>9) Table Tennis</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I discovered this game when I got a laptop during the&nbsp;beginning&nbsp;of the second year at my college. A simple flash game played only using mouse, I have always had the feeling that this game is a very useful stress buster. Whenever I felt down, I would have a go at this game. Numerous hours, which I labelled as breaks, &nbsp;before my exams were spent playing this game.</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__40c4dcfa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__14ca1947.png" width="213" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__40c4dcfa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__14ca1947.png" width="214" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 <b>10)&nbsp;Johny Crash does Texas</b></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I came across this game in a friend's Sony Ericson mobile in my third year. The game simply involves flying and crashing at random objects, and meeting a specific target. It seems simple, but mastering the game requires quite a lot of practice, skill and luck. A game that can be played using a single button, it is another instance of a very simple idea turning out into an addictive game.</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__9e50a437.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__ec10fc61.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__9e50a437.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="214" src="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__ec10fc61.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: justify;">
+<div class="separator" style="clear: both;">
 I have tried arranging the 10 games in the order I started playing them. I might have missed quite a few games, but these were the first 10 that&nbsp;occurred&nbsp;to my mind, and hence these must be my most favorite. Just to list a few more interesting games - Tank (Brick video game),Pacman (PC,a delightful game), Duck Hunt (TV Video game), &nbsp;Galaxian (TV), Loderunner(TV), Bomber Man(TV), Road Rash(PC), Bonkheads(PC), L A Noire (x-box), Red Dead Redemption&nbsp;<span>(x-box). Do let me know if I have missed a few more. Right now, I will be off to try and score three consecutive sixers of an off-spinner in stick cricket.</span></div>
 </div>
 
