@@ -7,6 +7,10 @@ resources/_gen/
 .obsidian/*
 *.base
 
+# Machine-local Claude Code permissions (absolute paths, one-off approvals).
+# The shared agent + skill under .claude/ ARE tracked.
+.claude/settings.local.json
+
 # Local working docs (not part of the site)
 SITE_AUDIT.md
 HANDOFF.md
