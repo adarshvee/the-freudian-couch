@@ -26,7 +26,7 @@
 {{- range $all -}}
   {{- if eq (default "" .parent) $parent -}}
   {{- $c := . -}}
-  <li class="tfc-c">
+  <li class="tfc-c{{ if gt $depth 0 }} tfc-c-reply{{ end }}">
     <div class="tfc-c-head">
       <span class="tfc-c-author">{{ $c.author }}</span>
       <time class="tfc-c-date" datetime="{{ $c.date }}">{{ dateFormat "2 January 2006" $c.date }}</time>
@@ -39,7 +39,7 @@
     {{- $kids := false -}}
     {{- range $all }}{{ if eq (default "" .parent) $c.id }}{{ $kids = true }}{{ end }}{{ end -}}
     {{- if $kids }}
-    <ul class="tfc-list{{ if ge $depth 2 }} tfc-flat{{ end }}">
+    <ul class="tfc-list{{ if ge $depth 3 }} tfc-flat{{ end }}">
       {{ partial "comment-thread.html" (dict "all" $all "parent" $c.id "depth" (add $depth 1)) }}
     </ul>
     {{- end }}

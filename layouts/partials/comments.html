@@ -31,16 +31,26 @@
   .dark .tfc-note{color:rgb(var(--color-neutral-400))}
 
   .tfc-list{list-style:none;margin:1.5rem 0 0;padding:0}
-  .tfc-list .tfc-list{margin:.25rem 0 0;padding-left:1.15rem;
-    border-left:2px solid rgb(var(--color-neutral-200))}
-  .dark .tfc-list .tfc-list{border-left-color:rgb(var(--color-neutral-700))}
+  /* top-level comments get clear air between them so threads read as blocks */
+  .tfc-comments > .tfc-list > .tfc-c{margin-top:2.25rem;padding-top:1.25rem;
+    border-top:1px solid rgb(var(--color-neutral-200))}
+  .dark .tfc-comments > .tfc-list > .tfc-c{border-top-color:rgb(var(--color-neutral-800))}
+  .tfc-comments > .tfc-list > .tfc-c:first-child{margin-top:.5rem;padding-top:0;border-top:0}
+
+  /* replies: a real indent plus a visible rail */
+  .tfc-list .tfc-list{margin:.75rem 0 0;padding-left:1.5rem;
+    border-left:3px solid rgb(var(--color-primary-300))}
+  .dark .tfc-list .tfc-list{border-left-color:rgb(var(--color-primary-800))}
   /* indent stops after level 3 so deep threads stay readable on a phone */
-  .tfc-list .tfc-flat{padding-left:0;border-left:0}
+  .tfc-list .tfc-flat{padding-left:.75rem}
 
   .tfc-c{margin-top:1.25rem}
   .tfc-c-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem}
   .tfc-c-author{font-weight:600;color:rgb(var(--color-neutral-800))}
   .dark .tfc-c-author{color:rgb(var(--color-neutral-200))}
+  /* a reply marker, so nesting is legible even where the rail is subtle */
+  .tfc-c-reply > .tfc-c-head .tfc-c-author::before{content:"\21B3";
+    margin-right:.4rem;color:rgb(var(--color-primary-500));font-weight:400}
   .tfc-c-date{font-size:.75rem;color:rgb(var(--color-neutral-500))}
   .dark .tfc-c-date{color:rgb(var(--color-neutral-400))}
   .tfc-c-flag{font-size:.75rem;font-style:italic;color:rgb(var(--color-neutral-400))}
