@@ -1,1 +1,3 @@
-{{ partial "newsletter-signup.html" . }}
+{{/* .Page, not . — inside a shortcode the context is ShortcodeWithPage, which
+     has no .Permalink, and the partial needs a real Page. */}}
+{{ partial "newsletter-signup.html" .Page }}

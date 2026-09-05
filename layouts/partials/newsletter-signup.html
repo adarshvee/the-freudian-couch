@@ -1,1 +1,61 @@
-<iframe src="https://thefreudiancouch.substack.com/embed" width="100%" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>
+{{/*
+  Substack sign-up, as a native form rather than Substack's iframe embed.
+
+  WHY NOT THE EMBED
+  The embed was <iframe src=".../embed" style="background: white">. Two problems:
+  the wrapper hardcoded white, and the iframe's CONTENTS are Substack's own
+  light-only page — so fixing the wrapper alone still left a white slab in dark
+  mode. A native form is the only way to control the appearance, and it also drops
+  a third-party frame from every article page.
+
+  TRADE-OFF, KNOWN AND ACCEPTED
+  /api/v1/free is not a documented public API. It is widely used and stable in
+  practice, but Substack could change it. If sign-ups stop arriving, this is the
+  first place to look; reverting to the iframe is a one-line change.
+
+  target="_blank" so submitting doesn't navigate the reader away from the post.
+  Styling is plain CSS on the theme's colour variables — NOT Tailwind utilities,
+  which mostly don't exist in Blowfish's prebuilt bundle.
+*/}}
+<style>
+  .tfc-signup{margin:2rem 0 0;padding:1.25rem 1.4rem;border-radius:.5rem;
+    border:1px solid rgb(var(--color-neutral-200));background:rgb(var(--color-neutral-50))}
+  .dark .tfc-signup{border-color:rgb(var(--color-neutral-700));
+    background:rgb(var(--color-neutral-800))}
+  .tfc-signup-title{margin:0;font-weight:600;font-size:1rem;
+    color:rgb(var(--color-neutral-800))}
+  .dark .tfc-signup-title{color:rgb(var(--color-neutral-100))}
+  .tfc-signup-note{margin:.3rem 0 .9rem;font-size:.85rem;line-height:1.45;
+    color:rgb(var(--color-neutral-500))}
+  .dark .tfc-signup-note{color:rgb(var(--color-neutral-400))}
+  .tfc-signup-form{display:flex;flex-wrap:wrap;gap:.5rem}
+  .tfc-signup-form input[type=email]{flex:1 1 15rem;min-width:0;padding:.5rem .7rem;
+    font-size:.95rem;border-radius:.35rem;
+    border:1px solid rgb(var(--color-neutral-300));
+    background:rgb(var(--color-neutral-50));color:rgb(var(--color-neutral-900))}
+  .dark .tfc-signup-form input[type=email]{border-color:rgb(var(--color-neutral-600));
+    background:rgb(var(--color-neutral-900));color:rgb(var(--color-neutral-100))}
+  .tfc-signup-form input[type=email]::placeholder{color:rgb(var(--color-neutral-400))}
+  .tfc-signup-form button{padding:.5rem 1.1rem;font-size:.95rem;font-weight:600;
+    border:0;border-radius:.35rem;cursor:pointer;
+    background:rgb(var(--color-primary-600));color:#fff}
+  .tfc-signup-form button:hover{background:rgb(var(--color-primary-700))}
+  .dark .tfc-signup-form button{background:rgb(var(--color-primary-500))}
+  .dark .tfc-signup-form button:hover{background:rgb(var(--color-primary-400))}
+</style>
+
+<section class="tfc-signup">
+  <p class="tfc-signup-title">Subscribe by email</p>
+  <p class="tfc-signup-note">
+    I like emails, and you probably do too. Subscribing also helps me know who is reading me, and as a writer, that means a lot.
+  </p>
+  <form class="tfc-signup-form" action="https://thefreudiancouch.substack.com/api/v1/free"
+        method="post" target="_blank" rel="noopener">
+    <label class="sr-only" for="tfc-signup-email">Email address</label>
+    <input id="tfc-signup-email" type="email" name="email" required
+           autocomplete="email" placeholder="you@example.com">
+    <input type="hidden" name="first_url" value="{{ .Permalink }}">
+    <input type="hidden" name="source" value="blog">
+    <button type="submit">Subscribe</button>
+  </form>
+</section>
