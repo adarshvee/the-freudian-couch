@@ -1,0 +1,48 @@
+{{/*
+  Renders one level of the archived comment thread, then calls itself for replies.
+
+  Params: all = the page's full comment slice
+          parent = id whose children to render ("" for top level)
+          depth = current nesting level
+
+  NOTE: inside a partial, `$` is the partial's own argument dict — NOT the current
+  range item. So the outer comment is bound to $c before the inner range, otherwise
+  child lookup silently matches nothing and every reply disappears.
+
+  Real nesting reaches 6 deep in one thread on /2012/06/impatient-indian.html,
+  which on a phone would leave a column a couple of words wide. The structure is
+  kept faithfully but the visual indent stops at level 3.
+*/}}
+{{- $all := .all -}}
+{{- $parent := .parent -}}
+{{- $depth := .depth -}}
+
+{{- range $all -}}
+  {{- if eq (default "" .parent) $parent -}}
+  {{- $c := . -}}
+  <li class="mt-5{{ if gt $depth 0 }} pl-4 border-l-2 border-neutral-200 dark:border-neutral-700{{ end }}">
+    <div class="flex flex-wrap items-baseline gap-x-2">
+      <span class="font-semibold text-neutral-800 dark:text-neutral-200">{{ $c.author }}</span>
+      <time class="text-xs text-neutral-500 dark:text-neutral-400" datetime="{{ $c.date }}">
+        {{ dateFormat "2 January 2006" $c.date }}
+      </time>
+      {{- if $c.orphaned }}
+      <span class="text-xs italic text-neutral-400 dark:text-neutral-500">
+        · in reply to a comment that has since been deleted
+      </span>
+      {{- end }}
+    </div>
+    <div class="prose prose-sm dark:prose-invert max-w-none mt-1 text-neutral-700 dark:text-neutral-300">
+      {{ $c.message | safeHTML }}
+    </div>
+
+    {{- $kids := false -}}
+    {{- range $all }}{{ if eq (default "" .parent) $c.id }}{{ $kids = true }}{{ end }}{{ end -}}
+    {{- if $kids }}
+    <ul class="list-none pl-0 ml-0">
+      {{ partial "comment-thread.html" (dict "all" $all "parent" $c.id "depth" (add $depth 1)) }}
+    </ul>
+    {{- end }}
+  </li>
+  {{- end -}}
+{{- end -}}

@@ -1,3 +1,30 @@
 {{ partial "newsletter-signup.html" . }}
 
-{{ template "_internal/disqus.html" . }}
+{{/*
+  Historical comments, rendered statically from data/comments.json.
+
+  261 comments (2009-2025) exported from the site's two Disqus forums and merged.
+  Rendering them here rather than through Disqus means: they survive Disqus, they
+  cost no JavaScript or third-party requests, and they inherit the theme's colours
+  so dark mode works. Regenerate with scripts/disqus_to_data.py.
+
+  The note only appears on pages that actually have comments — a post with none
+  says nothing, by the author's decision.
+*/}}
+{{- $comments := index site.Data.comments .RelPermalink -}}
+{{- with $comments }}
+<section class="mt-12 pt-8 border-t border-neutral-200 dark:border-neutral-700">
+  <h2 class="text-xl font-semibold text-neutral-800 dark:text-neutral-200">
+    {{ len . }} comment{{ if ne (len .) 1 }}s{{ end }}
+  </h2>
+
+  <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-400">
+    Comments are archived. I have disabled comments for now. Reach out to me by
+    email or through socials for bouquets or brickbats.
+  </p>
+
+  <ul class="list-none pl-0 ml-0 mt-6">
+    {{ partial "comment-thread.html" (dict "all" . "parent" "" "depth" 0) }}
+  </ul>
+</section>
+{{- end }}
