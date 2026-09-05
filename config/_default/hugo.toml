@@ -38,10 +38,6 @@ googleAnalytics = "G-EHF8DNR5DL"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[services]
-  [services.disqus]
-    shortname = 'adarsh89'
-
 [related]
   threshold = 0
   toLower = false
