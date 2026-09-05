@@ -8,6 +8,9 @@
   mode. A native form is the only way to control the appearance, and it also drops
   a third-party frame from every article page.
 
+  ?nojs=true is REQUIRED. Without it the endpoint expects an AJAX call and a plain
+  form POST just lands on the Substack homepage instead of a confirmation page.
+
   TRADE-OFF, KNOWN AND ACCEPTED
   /api/v1/free is not a documented public API. It is widely used and stable in
   practice, but Substack could change it. If sign-ups stop arriving, this is the
@@ -49,7 +52,7 @@
   <p class="tfc-signup-note">
     I like emails, and you probably do too. Subscribing also helps me know who is reading me, and as a writer, that means a lot.
   </p>
-  <form class="tfc-signup-form" action="https://thefreudiancouch.substack.com/api/v1/free"
+  <form class="tfc-signup-form" action="https://thefreudiancouch.substack.com/api/v1/free?nojs=true"
         method="post" target="_blank" rel="noopener">
     <label class="sr-only" for="tfc-signup-email">Email address</label>
     <input id="tfc-signup-email" type="email" name="email" required
