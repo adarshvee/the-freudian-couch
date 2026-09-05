@@ -10,6 +10,7 @@ resources/_gen/
 # Local working docs (not part of the site)
 SITE_AUDIT.md
 HANDOFF.md
+TAG_PROPOSAL.md
 
 # One-off migration tooling and its generated reports.
 # These do work on the content; they aren't part of the site. Kept on disk only.
