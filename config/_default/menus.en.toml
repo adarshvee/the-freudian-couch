@@ -1,8 +1,9 @@
-[[main]]
-none = "none"
+# Three content types first, then the two ways to browse.
+# Labels are display-only — the tags they point at (Books, Short Story,
+# Personal Essay) are unchanged.
 
 [[main]]
-name = "Book Reviews"
+name = "Books"
 pre = "book"
 pageRef = "tags/books"
 weight = 1
@@ -14,27 +15,29 @@ pageRef = "tags/short-story"
 weight = 2
 
 [[main]]
-name = "Tags"
-pre = "soundcloud"
-pageRef = "tags"
+name = "Essays"
+pre = "lightbulb"
+pageRef = "tags/personal-essay"
 weight = 3
 
 [[main]]
-name = "Personal"
-pre = "personal"
-pageRef = "tags/personal-essay"
+name = "Archive"
+pre = "list"
+url = "/archive"
 weight = 4
 
 [[main]]
+name = "Explore"
+pre = "soundcloud"
+pageRef = "tags"
+weight = 5
+
+# Footer. RSS lives here rather than in the main nav: the nav is for places to
+# read something, and a feed is a mechanism. Feed readers auto-discover it from
+# the <link rel="alternate"> tag regardless, but without a visible link anyone
+# who copies feed URLs by hand has no way to find it.
+[[footer]]
 name = "RSS"
 pre = "rss"
 url = "/index.xml"
-weight = 5
-
-[[main]]
-  name = "Archive"
-  url = "/archive"
-  weight = 6
-
-[[footer]]
-none = "none"
+weight = 1
