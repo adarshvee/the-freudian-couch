@@ -219,8 +219,6 @@ theatres and clap for not so great scenes while missing the real good ones
 (Unforgivable), is annoying to real Sci-fi readers and watchers.<o:p></o:p></span></i></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <i><span><br /></span></i></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-rDxI7m-AT04/VIXd-8p31sI/AAAAAAAAFlc/E0P1J6cpHS0/s1600/interstellar3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="http://4.bp.blogspot.com/-rDxI7m-AT04/VIXd-8p31sI/AAAAAAAAFlc/E0P1J6cpHS0/s1600/interstellar3.jpg" /></span></a></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <i><span><br /></span></i></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
