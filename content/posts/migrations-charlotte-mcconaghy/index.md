@@ -2,7 +2,7 @@
 title = "Migrations by Charlotte McConaghy"
 url = "2025/09/migrations-charlotte-mcconaghy.html" 
 date = 2025-09-19
-tags = ["Books", "Book Review", "Climate Fiction", "Dystopian"]
+tags = ["Book Review", "Books", "Climate Fiction", "Literary Fiction"]
 +++
 
 > If I were capable of staying any place, it might be here. But the birds won't stay, and neither will I.

@@ -3,7 +3,7 @@ title = "Hallucination - A short story"
 url = "2026/05/hallucination" 
 date = 2026-05-06
 description = "A dystopian thriller that ponders on the cost of happiness."
-tags = ["Short Story", "Literary Fiction", "Fiction", "Dystopian"]
+tags = ["Dystopian", "Literary Fiction", "Short Story"]
 +++
 
 “Goooood morning\!”, said the watch in an intimate voice. It knew that Gautam had no chance of falling back asleep. He had tossed and turned around long enough. Gautam rubbed his eyes, and glanced at its face. It was 3:15 AM, and he had slept for 4 hr 32 minutes. 

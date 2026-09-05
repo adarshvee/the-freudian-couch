@@ -2,7 +2,7 @@
 title = "The Success Series (with WhatsApp and Facebook) - The Samosa Vendor"
 date = 2014-09-29T10:38:00Z
 updated = 2014-09-29T10:38:11Z
-tags = ["Pursuit of Success", "Demotivation"]
+tags = ["Demotivation"]
 blogimport = true 
 url = "2014/09/the-success-series-with-whatsapp-and.html"
 [author]

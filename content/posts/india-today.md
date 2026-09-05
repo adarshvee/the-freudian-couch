@@ -2,7 +2,7 @@
 title = "India Today"
 date = 2013-08-06T12:10:00Z
 updated = 2013-08-06T12:10:09Z
-tags = ["Contemporary"]
+tags = ["Current Affairs"]
 blogimport = true 
 url = "2013/08/india-today.html"
 [author]

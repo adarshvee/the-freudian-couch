@@ -2,7 +2,7 @@
 title = "The Intruder"
 date = 2012-03-14T15:25:00Z
 updated = 2012-11-04T09:53:47Z
-tags = ["Short Films", "Short Story"]
+tags = ["Personal Essay", "Short Films"]
 blogimport = true 
 url = "2012/03/intruder.html"
 [author]

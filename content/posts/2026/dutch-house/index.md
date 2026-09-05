@@ -3,7 +3,7 @@ title = "The Dutch House by Ann Patchett"
 url = "2026/01/dutch-house-ann-patchett" 
 date = 2026-01-24
 description = "A family saga where a grand house becomes a symbol for the vacuum caused by maternal absence."
-tags = ["Books", "Book Review", "Historical Fiction", "Literary Fiction"]
+tags = ["Book Review", "Books", "Literary Fiction"]
 +++
 
 > But we overlay the present onto the past. We look back through the lens of what we know now, so we’re not seeing it as the people we were, we’re seeing it as the people we are, and that means the past has been radically altered.

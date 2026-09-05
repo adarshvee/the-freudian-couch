@@ -3,7 +3,7 @@ title = "N.T. McQueen's Faces in the Flame"
 url = "2026/07/faces-in-the-flame-mcqueen" 
 date = 2026-07-07
 description = "An interlinked anthology of thirteen stories that are subtle and evocative"
-tags = ["Books", "Review", "Book Review", "Literary Fiction"]
+tags = ["Book Review", "Books", "Literary Fiction"]
 +++
 
 **Faces in the Flame** by N.T McQueen is an anthology of thirteen inter-linked short stories that will sit with you for a long time. In many ways, this book reminded me of *Elizabeth Strout*’s *Olive Kitteridge*. While Strout set her collection of thirteen stories in Maine, *N.T. McQueen* uses a town near Sacramento, California. Like in Olive Kitteridge, we have a central character that links all stories. However, unlike Olive Kitteridge, this character makes only a fleeting appearance until we learn more about him in the titular story. The interlinking here is more behind-the-scenes, and the tone is more modernist.

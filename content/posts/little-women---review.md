@@ -2,7 +2,7 @@
 title = "Little Women - Review"
 date = 2013-09-28T11:11:00Z
 updated = 2013-09-29T14:01:41Z
-tags = ["Books", "Book Review", "Classics"]
+tags = ["Book Review", "Books", "Classics", "Coming of Age"]
 blogimport = true 
 url = "2013/09/little-women-review.html"
 [author]

@@ -2,7 +2,7 @@
 title = "Guest post series - Cancer"
 date = 2015-06-03T13:39:00Z
 updated = 2015-06-03T13:39:07Z
-tags = ["Guest posts", "Short Story"]
+tags = ["Guest posts", "Personal Essay"]
 blogimport = true
 url = "2015/06/guest-post-series-cancer.html" 
 [author]

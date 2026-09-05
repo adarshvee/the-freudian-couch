@@ -3,7 +3,7 @@ title = "The Housemaid by Freida McFadden"
 url = "2026/09/housemaid-mcfadden" 
 date = 2026-09-03
 description = "Freida McFadden's bestselling thriller delivers pulpy, page-turning suspense, but its twists don't always survive scrutiny."
-tags = ["Books", "Book Review", "Thriller", "Suspense", "Fiction"]
+tags = ["Book Review", "Books", "Suspense", "Thriller"]
 +++
 
 I was 15 when I discovered **James Hadley Chase**. An uncle described to me the plot of **The Vulture is a Patient Bird**, and the writer’s name was etched in my mind. Months later, I grabbed **I Would Rather Stay Poor** in a second-hand bookstore in New Delhi, initiating my journey into the world of Chase. **This Way for a Shroud**, **Mission to Venice**, **Tiger by the Tail**, **Sucker Punch**, and more. I was a fan.

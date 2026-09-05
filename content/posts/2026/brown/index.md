@@ -3,7 +3,7 @@ title = "Brown - A short story"
 url = "2026/08/brown" 
 date = 2026-08-07
 description = "A short story about interview anxieties and the desire to help others"
-tags = ["Short Story", "Literary Fiction", "Fiction"]
+tags = ["Literary Fiction", "Short Story"]
 +++
 
 It was an overcast morning as I dragged my bike outside. I looked at my plain white shirt in the rear-view mirror. It was brand new, crisp and clean. I glanced around, and saw Kamala aunty.

@@ -3,7 +3,7 @@ title = "Nation by Terry Pratchett"
 url = "2026/02/nation-terry-pratchett" 
 date = 2026-02-13
 description = "Terry Pratchett's Nation tackles imperialism and belief with sincerity that feels naive to a cynic—and that's exactly why young readers need it."
-tags = ["Books", "Book Review", "Fantasy", "Literary Fiction"]
+tags = ["Book Review", "Books", "Fantasy"]
 +++
 
 > One person is nothing. Two people are a nation.

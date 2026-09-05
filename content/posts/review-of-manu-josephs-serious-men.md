@@ -2,7 +2,7 @@
 title = "Review of Manu Joseph's Serious Men"
 date = 2017-05-17T16:32:00Z
 updated = 2017-05-17T16:32:47Z
-tags = ["Books", "Book Review"]
+tags = ["Book Review", "Books", "Literary Fiction", "Satire"]
 blogimport = true 
 url = "2017/05/review-of-manu-josephs-serious-men.html"
 [author]

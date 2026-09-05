@@ -3,7 +3,7 @@ title = "Moonshine - A Short Story"
 url = "2026/07/moonshine" 
 date = 2026-07-14
 description = "A historical fiction about loyality, sacrifice and maternal love"
-tags = ["Short Story", "Historical Fiction", "Historical", "Dystopian"]
+tags = ["Dystopian", "Historical Fiction", "Short Story"]
 +++
 
 The streets weren't safe after dawn.

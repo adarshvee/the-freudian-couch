@@ -2,7 +2,7 @@
 title = "Nithya"
 date = 2017-07-29T11:47:00Z
 updated = 2017-07-29T11:47:51Z
-tags = ["Childhood", "Short Story"]
+tags = ["Childhood", "Literary Fiction", "Short Story"]
 blogimport = true 
 url = "2017/07/nithya.html"
 [author]

@@ -2,7 +2,7 @@
 title = "The Daughters of Madurai by Rajasree Variyar"
 url = "2025/10/daughters-of-madurai-variya.html" 
 date = 2025-10-29
-tags = ["Books", "Book Review", "Indian Literature"]
+tags = ["Book Review", "Books", "Indian Literature", "Literary Fiction"]
 description = "This novel dealing with Female Infanticide in India works in parts, but some glaring mistakes stop from feeling authentic."
 +++
 

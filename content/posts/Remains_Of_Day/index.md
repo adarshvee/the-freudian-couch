@@ -3,7 +3,7 @@ title = "The Remains of the Day by Kazuo Ishiguro"
 url = "2025/04/remains-of-day-kazuo-ishiguro.html" 
 date = 2025-04-11
 description = "A restrained historical fiction that subtly questions our sacrifices in the name of a vague conception of duty"
-tags = ["Books", "Book Review"]
+tags = ["Book Review", "Books", "Historical Fiction", "Literary Fiction"]
 +++
 
 > Do you realize, Mr Stevens, how much it would have meant to me if you had thought to share your feelings last year... \[w\]hy, Mr Stevens, why, why, why do you always have to pretend?’

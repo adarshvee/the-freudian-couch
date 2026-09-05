@@ -3,7 +3,7 @@ title = "Kiran Desai's The Loneliness of Sonia and Sunny"
 url = "2026/07/loneliness-sonia-sunny" 
 date = 2026-07-02
 description = "A sprawling tale of romance and loneliness that spans India, the USA and a few other countries"
-tags = ["Books", "Review", "Book Review", "Literary Fiction", "Indian Diaspora"]
+tags = ["Book Review", "Books", "Literary Fiction"]
 +++
 
 > “Why do we try to solve other problems? There is only one that is necessary to solve.”\

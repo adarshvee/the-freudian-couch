@@ -3,7 +3,7 @@ title = "On Artistic Liberties"
 url = "2025/12/artistic-liberties.html" 
 date = 2025-12-05
 description = "The tenuous connection between Love in the Time of Cholera, Tere Ishk Me and Clockwork Orange; and bemoaning the lack of nuance in criticism."
-tags = ["Personal Essay", "Movies", "Review"]
+tags = ["Movies", "Personal Essay"]
 +++
 
 In *Gabriel Garcia Marquez*'s **Love in the Time of Cholera**, a shy and introverted 18-year-old boy falls in obsessive love with a 13-year-old girl. He serenades her from outside her window by playing a waltz with his violin for multiple nights in a row. He goes to the extent of positioning himself so as to take advantage of the direction of wind, using it to amplify the sound of his music when it reaches her. The author was a master of weaving fantastical elements into realistic narratives that allowed him to elevate emotions while still helping us resonate with his characters. The "*magic*" in magical-realism that Marquez was famous for makes the archetypes of his stories timeless.

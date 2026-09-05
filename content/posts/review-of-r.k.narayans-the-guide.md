@@ -2,7 +2,7 @@
 title = "Review of R.K.Narayan's The Guide"
 date = 2017-06-14T16:22:00Z
 updated = 2017-06-14T16:24:23Z
-tags = ["Books", "Book Review", "Indian Literature", "Classics"]
+tags = ["Book Review", "Books", "Classics", "Indian Literature", "Literary Fiction"]
 blogimport = true 
 url = "2017/06/review-of-rknarayanans-guide.html"
 [author]

@@ -2,7 +2,7 @@
 title = "The Impatient Indian"
 date = 2012-06-03T03:27:00Z
 updated = 2012-11-04T10:13:57Z
-tags = ["Contemporary", "Personal Essay"]
+tags = ["Current Affairs", "Personal Essay"]
 blogimport = true
 url = "2012/06/impatient-indian.html" 
 [author]

@@ -3,7 +3,7 @@ title = "By myself - A short story"
 url = "2026/03/by-myself" 
 date = 2026-03-07
 description = "a literary fiction that captures the fragile, everyday negotiations between a child’s stubborn independence and a mother’s weary resilience"
-tags = ["Short Story", "Literary Fiction", "Fiction", "Childhood"]
+tags = ["Childhood", "Literary Fiction", "Short Story"]
 +++
 
 “Yes, her school is closed today, ma,” Amma said on the phone.
