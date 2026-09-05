@@ -66,7 +66,7 @@ As movie audience, we need to be careful while interpreting the opinions of crit
 <div>
 Just to make it clear, I do not support the suppression of RJ Balaji's opinions, despite their causticity. I used to be a fan myself, until he generously reviewed Theeya Vella Seiyanum Kunaru, a movie in which he played a minor role. It is the response of film critics themselves that I am concerned with. If I were a movie director, and didn't like a reviewer's opinion of my movie, I would simply write a critique on the criticism, instead of forcing the reviewer to quit.<br />
 <br />
-PS : I tried conveying similar ideas in a previous blog <span><a href="http://adarsh89.blogspot.com/2013/07/art-movies-and-philistines.html" target="_blank"><span>post</span></a>, </span>and failed miserably in elucidating what I wanted to say. The responsibility rests with the readers of the blog (an endangered and soon-to-be extinct species) to understand it fully this time, and prevent another blog post from me with the same idea.</div>
+PS : I tried conveying similar ideas in a previous blog <span><a href="/2013/07/art-movies-and-philistines.html" target="_blank"><span>post</span></a>, </span>and failed miserably in elucidating what I wanted to say. The responsibility rests with the readers of the blog (an endangered and soon-to-be extinct species) to understand it fully this time, and prevent another blog post from me with the same idea.</div>
 </div>
 </div>
 

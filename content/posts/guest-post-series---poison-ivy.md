@@ -11,10 +11,10 @@ url = "2014/10/guest-post-series-poison-ivy.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-Note : This post is a part of the&nbsp;<a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br />
+Note : This post is a part of the&nbsp;<a href="/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br />
 <br />
 <div>
-Supriya was my schoolmate, but we barely knew each other at school. She ended up at the same college as I, but we would still exchange only a word or two when we came across each other occasionally. I did know that she writes poetry and started publishing them online around the time I started writing, but she was totally unaware that I blogged. I don't remember how (I suspect I asked her to read it. How else?), but she stumbled upon the blog. Around a year and a half back, she was one of the most frequent readers, reading posts at a stretch and encouraging me. It was around this time that I decided to make my blog more about me, regardless of what I end up revealing about me and regardless of how boring it is to the readers. Her feedback -- especially when I wrote intensely personal posts such as <span><a href="http://adarsh89.blogspot.com/2013/08/the-depression-flowchart.html" target="_blank"><span>The Depression Flowchart</span></a> </span>-- helped me a lot in making this shift.</div>
+Supriya was my schoolmate, but we barely knew each other at school. She ended up at the same college as I, but we would still exchange only a word or two when we came across each other occasionally. I did know that she writes poetry and started publishing them online around the time I started writing, but she was totally unaware that I blogged. I don't remember how (I suspect I asked her to read it. How else?), but she stumbled upon the blog. Around a year and a half back, she was one of the most frequent readers, reading posts at a stretch and encouraging me. It was around this time that I decided to make my blog more about me, regardless of what I end up revealing about me and regardless of how boring it is to the readers. Her feedback -- especially when I wrote intensely personal posts such as <span><a href="/2013/08/the-depression-flowchart.html" target="_blank"><span>The Depression Flowchart</span></a> </span>-- helped me a lot in making this shift.</div>
 <div>
 <br /></div>
 <div>

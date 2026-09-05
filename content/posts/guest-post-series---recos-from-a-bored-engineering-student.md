@@ -12,7 +12,7 @@ url = "2014/11/guest-post-series-recos-from-bored.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
+<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
 <div>
 <div>
 There is/used-to-be (and hopefully, will-be) an informal movie fest at Chennai, where a group of people meet together once every month and watch movies of a selected genre all through a Saturday night. A terrace would be lent for a night by some kind soul (the fest is temporarily suspended due to scarcity of kind and able souls), and we would adorn it with rented beds on the floor, lie down, set up rented projectors and speakers, and try staying awake all night with movies selected by the "curator" of the day for company. Accidentally, I happened to meet a friend at the venue the very first time I attended the meet (it was his first time too), and we decided that we would frequent the Chennai Roof Top Film Festival (<a href="https://www.facebook.com/ChennaiRTFF" target="_blank"><span>Chennai RTFF</span></a>) as often as possible.</div>

@@ -12,7 +12,7 @@ url = "2014/09/guest-post-series-my-most-memorable.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div>
-Note : This post is a part of the <a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br />
+Note : This post is a part of the <a href="/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br />
 <br />
 In a pre-release interview for the unmatchably hilarious Tamil movie <i>Naduvulla Konjam Pakkatha Kanom</i>, director Balaji Tharanitharan revealed the reasoning behind one of the most rip-roaring moments of the movie, explaining that the deepest friendships are often formed due to totally insignificant, forgettable incidents. I don't remember when Gowrisankar and I started becoming good friends. We just ended up so sometime during the second year of our college. We would make the short journey from our college to Thanjavur New Bus Stand together, often having bunked the last one or two classes of the day. We would discuss cricket, movies and everything else, often disagreeing with each other, whilst eating some excessively oiled pakodas with watered chutney (chutneyed water?) at the bus stand (₹3 per plate). He would lie around at our house/room until we drove him out. We would travel on his <i>dabba</i>, barely functional TVS excel to his house, stopping by to fill <i>Speed </i>petrol&nbsp;on his insistence; lock his parents in a room and shoot badly made short-films, letting them out only briefly so that they can watch a tele-serial written by <i>Cho Ramaswamy</i>.</div>
 <div>

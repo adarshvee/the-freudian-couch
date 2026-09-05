@@ -11,7 +11,7 @@ url = "2014/09/guest-post-series-bureaucrat-bloody-hell.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<span>Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a><span>.</span><br />
+<span>Note : This post is a part of the&nbsp;</span><a href="/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a><span>.</span><br />
 <br />
 <div style="border: 0px; margin: 0px; padding: 0px;">
 <div style="border: 0px; margin: 0px; padding: 0px;">

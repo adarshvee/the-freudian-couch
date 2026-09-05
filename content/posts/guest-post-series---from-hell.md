@@ -12,7 +12,7 @@ url = "2014/10/guest-post-series-from-hell.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
+<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
 <div>
 While attending the induction training at my first job, I would wake up every morning quite early, walk a little, take a share auto, take a thirty minute bus ride, and then take another sixty minute bus ride to reach my training centre. Uncoordinatedly, Arun would be usually end up in the same bus towards the end of my journey. He was from my college but we had just met. We would occasionally discuss film making and leave it at that. Much later, thanks to Facebook, I discovered that Arun holds views that are similar to mine on things such as purpose of life, or the lack of it. I don't exactly remember how he became a reader of the blog, considering that the first post I remember showing him was a movie list that I am not too proud off. But he did. And soon, both of us started exchanging random write-ups and story ideas for each others' feedback. We both expect each other to be brutally frank when required and he has helpfully dished out a few of my story ideas which had false starts.</div>
 <div>

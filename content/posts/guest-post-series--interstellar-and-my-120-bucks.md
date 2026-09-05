@@ -12,7 +12,7 @@ url = "2014/12/guest-post-series-interstellar-and-my.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
+<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
 <div>
 <div>
 A minor setback kept me away for a little from the blog. Now that I am a wee-bit more confident that things outside the blog can be set right, I am back to doing what I like doing the most - forcing you all to momentarily pause your furiously paced life, and make you think about things that would never ever prove useful to anyone. Here is a guest post that has been laying dormant with me for a long, long time, waiting to be introduced by me.</div>

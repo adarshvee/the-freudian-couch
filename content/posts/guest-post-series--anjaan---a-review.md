@@ -14,7 +14,7 @@ url = "2014/09/guest-post-series-anjaan-review.html"
 <div>
 <br /></div>
 <div>
-This post is a part of the <span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.</span><br />
+This post is a part of the <span><a href="/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.</span><br />
 <br />
 Meet my brother Sri Vittal, or Arbind as we call him at home. My brother often makes me feel old. When he has views, he usually voices them without wondering if he is being polite. He also provides hilarious entertainment to us all at home : sometimes deliberately, but often accidentally. When on a random day he started writing a story, we were all taken aback. This tiny little story was about a scientist who invents an unreliable time machine. Since I didn't admit that I liked it, he had to go online hunting for people who would "publish" it. I was astonished when he came back to me with a literary agent from UK who called him over phone to fix a deal. But then, we worked out that this literary agent was a potential fraud looking for some easy money. Recently, when I mentioned to him about my idea of publishing a collection of short stories with a few friends (more on this later), his immediate response was a haughty : "You want to get introduced to my literary agent"?.<br />
 <br />

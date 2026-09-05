@@ -11,10 +11,10 @@ url = "2014/10/guest-post-series-gods-own-guests.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-Note : This post is a part of the&nbsp;<a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br>
+Note : This post is a part of the&nbsp;<a href="/2014/09/guest-posts-series.html" target="_blank"><span>Guest Post Series</span></a>.<br>
 <br>
 <div>
-Meet Vidhya, another contributor for a short story collection a few of us are hoping to publish soon. You have already met <a href="http://adarsh89.blogspot.com/2014/09/guest-post-series-bureaucrat-bloody-hell.html" target="_blank"><span>Shyam</span></a>, and you will be meeting the one remaining contributor soon. Vidhya has been reading my blog for less than a year, but she is one of my best readers. She quickly went through almost every nook and corner of the blog when she discovered it, and has since then let me know her thoughts on every single post I have written. On a few occassions, she is the only person getting back with her views, dispelling my doubts that I was deluded into thinking I had published something. It helps that she is a wonderful person, rarely capable of discouraging anyone other than herself.</div>
+Meet Vidhya, another contributor for a short story collection a few of us are hoping to publish soon. You have already met <a href="/2014/09/guest-post-series-bureaucrat-bloody-hell.html" target="_blank"><span>Shyam</span></a>, and you will be meeting the one remaining contributor soon. Vidhya has been reading my blog for less than a year, but she is one of my best readers. She quickly went through almost every nook and corner of the blog when she discovered it, and has since then let me know her thoughts on every single post I have written. On a few occassions, she is the only person getting back with her views, dispelling my doubts that I was deluded into thinking I had published something. It helps that she is a wonderful person, rarely capable of discouraging anyone other than herself.</div>
 <div>
 <br></div>
 <div>

@@ -12,7 +12,7 @@ url = "2014/09/guest-posts-series-vagabound.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: left;">
-<span>Note : This post is a part of the <a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>guest post series</span></a>.</span></div>
+<span>Note : This post is a part of the <a href="/2014/09/guest-posts-series.html" target="_blank"><span>guest post series</span></a>.</span></div>
 <span><br /></span>
 <br />
 <div>

@@ -23,7 +23,7 @@ Throughout the latter part year, I had been of the impression that I was reading
 <div>
 <b><br /></b></div>
 <div>
-<b>9) The Book Thief by Markus Zusak</b> : Previously reviewed in my blog&nbsp;<a href="http://thefreudiancouch.com/2014/07/the-book-thief-review.html" target="_blank"><span>here</span></a>.</div>
+<b>9) The Book Thief by Markus Zusak</b> : Previously reviewed in my blog&nbsp;<a href="/2014/07/the-book-thief-review.html" target="_blank"><span>here</span></a>.</div>
 </div>
 <div>
 <div>
@@ -76,7 +76,7 @@ Throughout the latter part year, I had been of the impression that I was reading
 <div>
 <b><br /></b></div>
 <div>
-<b>2) The Illicit Happiness of Other People by Manu Joseph</b> : Reviewed on my blog <a href="http://thefreudiancouch.com/2014/09/the-illicit-happiness-of-other-people.html" target="_blank"><span>here</span></a>.<br />
+<b>2) The Illicit Happiness of Other People by Manu Joseph</b> : Reviewed on my blog <a href="/2014/09/the-illicit-happiness-of-other-people.html" target="_blank"><span>here</span></a>.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" height="475" width="296" /></a></div>

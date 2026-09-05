@@ -12,7 +12,7 @@ url = "2014/10/guest-post-series-reflections.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div>
-<span style="text-align: left;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="text-align: left;" target="_blank"><span>Guest Post Series</span></a><span style="text-align: left;">.</span></div>
+<span style="text-align: left;">Note : This post is a part of the&nbsp;</span><a href="/2014/09/guest-posts-series.html" style="text-align: left;" target="_blank"><span>Guest Post Series</span></a><span style="text-align: left;">.</span></div>
 <div>
 <br></div>
 <div>

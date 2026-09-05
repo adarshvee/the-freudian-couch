@@ -12,7 +12,7 @@ url = "2014/10/guest-post-series-on-writing.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
+<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
 <div>
 <div>
 Since my mother is a teacher, she would often end up meeting other teachers from my school. It would soon be discovered that a few of these people had been my own teachers. As a result, I would occasionally get trapped into a conversation with some long-forgotten faces when I am not adequately prepared for it (it is always advisable to prepare before meeting a teacher), and there would be an awkward moment when they&nbsp;unsuccessfully&nbsp;dig deep into their memory to summon up an image of me. They would then give up, and ask me, "<i>which batch were you in?</i>". "<i>Srini's batch, ma'm. Srinivas</i>". "<i>Ahhh, yeah. I remember him! What is he doing now?</i>" That is the extent of Srini's popularity, and that is the extent of my invisibility.</div>
