@@ -8,8 +8,19 @@
   mode. A native form is the only way to control the appearance, and it also drops
   a third-party frame from every article page.
 
-  ?nojs=true is REQUIRED. Without it the endpoint expects an AJAX call and a plain
-  form POST just lands on the Substack homepage instead of a confirmation page.
+  ?nojs=true is required for the no-JavaScript fallback path to register at all.
+  Note it does NOT give a confirmation page — Substack redirects to the publication
+  homepage either way, which reads as "nothing happened". Hence the progressive
+  enhancement below: with JS we post in the background and confirm inline, so the
+  reader never leaves the post. Without JS the form still submits normally and
+  still subscribes; it just opens Substack in a new tab as before.
+
+  HONEST LIMIT: the background post is mode:'no-cors', so the response is opaque
+  and we cannot tell success from failure. The inline message is therefore
+  optimistic. That is acceptable only because the endpoint is verified working
+  (tested 2026-09-05, subscriber landed). If Substack ever changes it, readers
+  would see a success message while nothing happened — so the message points at
+  the confirmation email, which is the real proof.
 
   TRADE-OFF, KNOWN AND ACCEPTED
   /api/v1/free is not a documented public API. It is widely used and stable in
@@ -43,6 +54,9 @@
     border:0;border-radius:.35rem;cursor:pointer;
     background:rgb(var(--color-primary-600));color:#fff}
   .tfc-signup-form button:hover{background:rgb(var(--color-primary-700))}
+  .tfc-signup-done{margin:.2rem 0 0;font-size:.95rem;font-weight:600;
+    color:rgb(var(--color-primary-700))}
+  .dark .tfc-signup-done{color:rgb(var(--color-primary-400))}
   .dark .tfc-signup-form button{background:rgb(var(--color-primary-500))}
   .dark .tfc-signup-form button:hover{background:rgb(var(--color-primary-400))}
 </style>
@@ -61,4 +75,22 @@
     <input type="hidden" name="source" value="blog">
     <button type="submit">Subscribe</button>
   </form>
+  <p class="tfc-signup-done" hidden>
+    Thank you. Please check your inbox to confirm the subscription.
+  </p>
 </section>
+
+<script>
+(function () {
+  var form = document.currentScript.parentNode.querySelector('.tfc-signup-form');
+  if (!form || !window.fetch) return;              // no JS fetch -> normal submit
+  var done = form.parentNode.querySelector('.tfc-signup-done');
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    fetch(form.action, { method: 'POST', mode: 'no-cors', body: new FormData(form) })
+      .catch(function () {});                      // opaque either way
+    form.hidden = true;
+    done.hidden = false;
+  });
+})();
+</script>
