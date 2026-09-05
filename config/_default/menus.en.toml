@@ -28,7 +28,7 @@ weight = 4
 [[main]]
 name = "RSS"
 pre = "rss"
-url = "http://thefreudiancouch.com/index.xml"
+url = "/index.xml"
 weight = 5
 
 [[main]]
