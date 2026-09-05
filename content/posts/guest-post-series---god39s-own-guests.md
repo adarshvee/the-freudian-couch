@@ -35,7 +35,7 @@ God's Own Guests
 <br></div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">Looks like Adarsh has decided
+<span lang="EN-US"><span>Looks like Adarsh has decided
 to scoot over and make room for people on his Freudian couch. It’s a nice place
 this couch .Mostly because the choice of reading is quite good .Ranging&nbsp;
 from the ridiculously complicated yet funny flowcharts, treatises on names ,
@@ -45,11 +45,11 @@ Sam someone).<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">The guest post series got me
+<span lang="EN-US"><span>The guest post series got me
 thinking, about guests.So today on the couch , you will hear from me , a story
 from my childhood . One that involves guests. The fundamental question on
 guests is of course “How many is too many?” . One or two is ok right? Alright,
@@ -63,11 +63,11 @@ your hands? I have..<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">We were forewarned of course,
+<span lang="EN-US"><span>We were forewarned of course,
 my brother and I. A strange bonding had developed between us in anticipation of
 our shared misery. The day my father told us that we would be having 17 people
 from God's own country to stay with us for a week our voices rose to the same
@@ -87,11 +87,11 @@ without it , so stowing it away for a week was not a viable option.<o:p></o:p></
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">So there we were, a pair of
+<span lang="EN-US"><span>So there we were, a pair of
 spoiled brats, who didn't usually get along very well but suddenly we found
 ourselves on the same side of the battle front.&nbsp;
 Unwilling as we both were to share material things ( such as the TV
@@ -101,11 +101,11 @@ alone a whole circus troupe. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">We watched silently as our parents looked
+<span lang="EN-US"><span>We watched silently as our parents looked
 worried too , wondering&nbsp; anxiously about
 how we were to accommodate that many people. My brother became excited all of a
 sudden and wanted to join in this discussion.&nbsp;
@@ -123,11 +123,11 @@ coming up with a Master floor plan that would allocate&nbsp; sleeping area to al
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">We were both completely
+<span lang="EN-US"><span>We were both completely
 excited and we spent days planning it. No nook or cranny was spared. We heard
 talk of a baby being a part of the troupe and assigned the staircase landing
 area for it. We felt mighty proud of ourselves and went around importantly like
@@ -138,11 +138,11 @@ our mother's inch tape and so on. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">When the day finally came,
+<span lang="EN-US"><span>When the day finally came,
 two mini vans squeezed in with difficulty into our tiny street and disgorged
 our guests.&nbsp; The days and hours spent in
 anticipation of their arrival had failed to prepare us for the stupendously
@@ -157,11 +157,11 @@ company.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">I recall vaguely that my
+<span lang="EN-US"><span>I recall vaguely that my
 mother braved the task of making idlis for everyone on the first day.
 Enlightened by the experience, she had my father buy all the remaining&nbsp; meals of the day from the nearby Sangeetha
 hotel.&nbsp; They all ate contentedly amid
@@ -179,11 +179,11 @@ joined in defiantly, claiming ownership rights.<o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">Later that evening , after
+<span lang="EN-US"><span>Later that evening , after
 everyone was well fed and there was nothing to do but sleep , my brother and I
 proudly presented our master plan to our parents. My father was dumb struck and
 we initially thought that was a good thing. He definitely had to be impressed
@@ -194,11 +194,11 @@ once none of them had anything to say. Or sing. <o:p></o:p></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">One of the adults in the
+<span lang="EN-US"><span>One of the adults in the
 group suggested that they would all camp at the terrace and everyone agreed
 with mild sighs of relief. So that was that. The grand plan that had mighty
 potential and could have saved the world even, was unceremoniously chucked.
@@ -210,11 +210,11 @@ care . He simply went back to his video game.&nbsp;
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 <div class="MsoNormal">
 <div>
-<span lang="EN-US" style="font-size: 12pt; line-height: 115%;"><span style="font-family: Verdana, sans-serif;">So that's the end of the
+<span lang="EN-US"><span>So that's the end of the
 story . Perhaps there's a moral there somewhere ? Anyone who has spotted it can
 let Adarsh know. I'm sure he will be kind enough to pass it on. Until next time
 on the Couch!</span><o:p></o:p></span></div>

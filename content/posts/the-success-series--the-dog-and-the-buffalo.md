@@ -64,16 +64,16 @@ Like in my previous post, here is another open letter:</div>
 <div>
 <br /></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;">Dear Mr/Mrs.Whoever-wants-other-people-to-adopt-your-ideas-of-success,</span></div>
+<span>Dear Mr/Mrs.Whoever-wants-other-people-to-adopt-your-ideas-of-success,</span></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;"><br /></span></div>
+<span><br /></span></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;">I know all your arguments on why life must be lived your way, and honestly, they sound very convincing. Yet, I don't feel like joining you. I would rather define success my own way, even at the risk of being wrong. I don't mean this in an individualistic I-dont-give-a-damn-about-your-views way. I respect your point of view, but I do not think it will fit me. Be with me, but let me be.</span></div>
+<span>I know all your arguments on why life must be lived your way, and honestly, they sound very convincing. Yet, I don't feel like joining you. I would rather define success my own way, even at the risk of being wrong. I don't mean this in an individualistic I-dont-give-a-damn-about-your-views way. I respect your point of view, but I do not think it will fit me. Be with me, but let me be.</span></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;"><br /></span></div>
+<span><br /></span></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;">Thanks,</span></div>
+<span>Thanks,</span></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;">The Freudian Couch</span></div>
+<span>The Freudian Couch</span></div>
 </div>
 

@@ -36,7 +36,7 @@ Finally, in a tribute to my essay writing school-days, I have begin and ended th
 <br />
 <blockquote class="tr_bq">
 <blockquote class="tr_bq" style="text-align: center;">
-<span style="font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 19px;"><i>"The history of The Hitchhiker's guide to Galaxy is now so complicated that every time I tell it I contradict myself, and whenever I do get it right, I am misquoted"</i></span></blockquote>
+<span><i>"The history of The Hitchhiker's guide to Galaxy is now so complicated that every time I tell it I contradict myself, and whenever I do get it right, I am misquoted"</i></span></blockquote>
 </blockquote>
 <div style="text-align: right;">
 &nbsp;- Douglas Adams</div>

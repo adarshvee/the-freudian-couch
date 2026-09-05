@@ -12,7 +12,7 @@ url = "2014/12/guest-post-series-interstellar-and-my.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span style="font-size: small; font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-size: medium; font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-size: small; font-weight: normal;">.</span></h1>
+<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
 <div>
 <div>
 A minor setback kept me away for a little from the blog. Now that I am a wee-bit more confident that things outside the blog can be set right, I am back to doing what I like doing the most - forcing you all to momentarily pause your furiously paced life, and make you think about things that would never ever prove useful to anyone. Here is a guest post that has been laying dormant with me for a long, long time, waiting to be introduced by me.</div>
@@ -40,7 +40,7 @@ Interstellar and my 120 Bucks</h1>
 </div>
 </div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
-<span><b>What is a science fiction?</b><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><o:p></o:p></span></span><br />
+<span><b>What is a science fiction?</b><span lang="EN-US"><o:p></o:p></span></span><br />
 <span><b><br /></b></span>
 <span>The limits of the possible can only be defined by going beyond them into the impossible.</span><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><br />
 <div style="text-align: right;">
@@ -49,7 +49,7 @@ Interstellar and my 120 Bucks</h1>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
-<span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span><br /></span></span></div>
+<span lang="EN-US"><span><br /></span></span></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" /></span></a></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
@@ -70,7 +70,7 @@ the grasp of logic is science fiction.</span></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <br /></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
-<b><span lang="EN-US" style="font-size: 10pt;"><span><span style="font-family: inherit;">What is wrong with the movie?</span><o:p></o:p></span></span></b></div>
+<b><span lang="EN-US"><span><span>What is wrong with the movie?</span><o:p></o:p></span></span></b></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <br /></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
@@ -147,7 +147,7 @@ out as in many other Sci-fis but trusted the audience to figure it. Matthew
 who has travelled in to the space is already present in his daughter’s bedroom
 but also in the future<i> (Namesake) </i>which also is the past <i>(Namesake).</i></span></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
-<i><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></span></i></div>
+<i><span lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></span></i></div>
 <div style="text-align: left;">
 </div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
@@ -158,7 +158,7 @@ illustration and effects of the Black hole</span></i></b></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" height="387" width="640" /></span></a></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
-<b><i><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span><br /></span></span></i></b></div>
+<b><i><span lang="EN-US"><span><br /></span></span></i></b></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <b><i><span><br /></span></i></b></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
@@ -172,7 +172,7 @@ have been sidelined by the glory of the black hole.<o:p></o:p></span></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span>Yet, if I were allowed to be brutally
 honest for a minute I’d say “it is an overrated Sci-fi, every idea in this
-movie has been already experimented upon, in better and flawless movies”.</span><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><o:p></o:p></span></div>
+movie has been already experimented upon, in better and flawless movies”.</span><span lang="EN-US"><o:p></o:p></span></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
@@ -226,14 +226,14 @@ theatres and clap for not so great scenes while missing the real good ones
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <i><span><br /></span></i></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
-<b><i><span lang="EN-US" style="font-family: 'Arial Narrow', sans-serif; font-size: 10pt;"><span>PS: Black holes are being depicted as friendly and life
+<b><i><span lang="EN-US"><span>PS: Black holes are being depicted as friendly and life
 -nourishing in the movie which is the best(or worse) humor I stumbled upon in
 the last couple of years :P:P&nbsp;(LMAO)</span></span></i></b></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 <br /></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: left;">
 </div>
-<div class="MsoNormal" style="line-height: 12.65pt; text-align: left;">
+<div class="MsoNormal" style="text-align: left;">
 <i><span>Courtesy:
 Title from RJ Balaji’s take it easy with Balaji and Arthur C Clarke for the
 quote.<span><o:p></o:p></span></span></i></div>

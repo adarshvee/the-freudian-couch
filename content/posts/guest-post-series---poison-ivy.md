@@ -26,56 +26,56 @@ When I asked her to write for me, she was not able to summon up the inspiration 
 <div>
 <br /></div>
 <div style="text-align: center;">
-<b><span style="font-family: Verdana, sans-serif;">Poison Ivy</span></b></div>
+<b><span>Poison Ivy</span></b></div>
 <div>
-<span style="font-family: Verdana, sans-serif;"><br /></span></div>
+<span><br /></span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">Last summer</span></div>
+<span>Last summer</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">I often saw you near the pier</span></div>
+<span>I often saw you near the pier</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">prickling my skin</span></div>
+<span>prickling my skin</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">like poison ivy</span></div>
+<span>like poison ivy</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;"><br /></span></div>
+<span><br /></span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">Shooting memories into my veins</span></div>
+<span>Shooting memories into my veins</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">where have I seen you before?</span></div>
+<span>where have I seen you before?</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">may be some other life</span></div>
+<span>may be some other life</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">a different time</span></div>
+<span>a different time</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;"><br /></span></div>
+<span><br /></span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">Intangible as a shadow&nbsp;</span></div>
+<span>Intangible as a shadow&nbsp;</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">you appear dark inside</span></div>
+<span>you appear dark inside</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">or do you shade me?</span></div>
+<span>or do you shade me?</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">Wish I knew</span></div>
+<span>Wish I knew</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;"><br /></span></div>
+<span><br /></span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">The more I seek</span></div>
+<span>The more I seek</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">the more you slip away</span></div>
+<span>the more you slip away</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">you try to forget me</span></div>
+<span>you try to forget me</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">as I forgot you</span></div>
+<span>as I forgot you</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;"><br /></span></div>
+<span><br /></span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">Sublimely</span></div>
+<span>Sublimely</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">you evaporate, but</span></div>
+<span>you evaporate, but</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">take it along with you</span></div>
+<span>take it along with you</span></div>
 <div style="text-align: center;">
-<span style="font-family: Verdana, sans-serif;">the poison ivy.</span></div>
+<span>the poison ivy.</span></div>
 </div>
 

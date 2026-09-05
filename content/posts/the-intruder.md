@@ -32,19 +32,19 @@ Focus on the gate of an individual house. Man 1 comes running from outside, ente
 <div>
 The door opens, a man (Man 2) peeps out of the door without opening the door. Finding no one, he opens the door fully. Man 1, who was hiding beside the door jumps out&nbsp; suddenly and points a gun towards Man 2.</div>
 <br />
-<div style="font-family: inherit;">
+<div>
 Man 1: Don’t make a noise, this thing works.&nbsp; Just do as I say.</div>
 <div>
 Man 2 looks startled, but recovers quickly. He nods his head and says..</div>
-<div style="font-family: inherit;">
+<div>
 Man 2: I will do as you say, please don’t shoot.</div>
 <div>
 Man 1 points inside the house. Man 2 nods and moves slowly enters. Man 1 follows him closing the door. His eyes and the gun never leave the other person.</div>
 <br />
 <u>Scene 3- Int</u><br />
-<div style="font-family: inherit;">
+<div>
 Man 2: Who are you? You can take whatever you want, but don’t hurt me.</div>
-<span style="font-family: inherit;">Man 1: I am already rich</span> <span>(nods towards the bag in his hand, out of which one or two jewels are visible from outside)</span>. <br />
+<span>Man 1: I am already rich</span> <span>(nods towards the bag in his hand, out of which one or two jewels are visible from outside)</span>. <br />
 Man 2: Then why are you here? <br />
 <span>He waits for an answer, but doesn’t get any. Instead, sounds of the door knocking are heard again. Man 2 looks questioningly at Man 1. Man 1 gets tensed up.</span><br />
 Man 1: <span>(whispering)</span> Open the door slightly, and send whoever is there back. One wrong move and your head will be punctured. <br />
@@ -107,17 +107,17 @@ Man 1 is sitting in a more relaxed posture. Man 2 sits casually, but seems a lit
 <br />
 Credits.<br />
 <br />
-<div style="font-family: inherit;">
+<div>
 <span>A few noteworthy points</span></div>
-<div style="font-family: inherit;">
+<div>
 <span>1) This is not how you write a standard script. There are certain conventions followed while writing a script, and there are special considerations to be made. Hopefully, what I have written is at least</span></div>
-<div style="font-family: inherit;">
+<div>
 <span>readable&nbsp;</span> </div>
-<div style="font-family: inherit;">
+<div>
 2) If the script looks like crap, the actual <a href="http://www.youtube.com/watch?v=mkOScmpG3_w">movie</a> we made is even crappier and amateurish. we borrowed a camera, and thought ourselves to hold it. We had no idea where the light sources should be while capturing a scene. After instructing my friends acting in the movie to enact each scene as slowly as they could, we ended up with a 15 minute video. Realising that the contest allowed a maximum screening time of 3 minutes, we ended up deleting most of the scenes we shot, and running the rest at a higher speed. We downloaded an editing software from the internet and learnt to use it, and used it, in just 2 days.</div>
-<div style="font-family: inherit;">
+<div>
 3) Watch out for a fleeting performance by self (Yeah, I know. The video by itself is fleeting, and that's how long it will stay in your mind when you end watching it).</div>
-<div style="font-family: inherit;">
+<div>
 4) I will end this post with the tragic announcement that the second script I wrote will be up on the blog in two days ( the two day gap is for effect). It is a fantasy with what I hope to a dose of humour I would have been proud of it, if I had written it while I was fourteen, and got it published in&nbsp; a school magazine. But as they say, better late than never :)</div>
 <br /></div>
 

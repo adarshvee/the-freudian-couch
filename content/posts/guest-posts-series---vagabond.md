@@ -12,8 +12,8 @@ url = "2014/09/guest-posts-series-vagabound.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div style="text-align: left;">
-<span style="font-family: Georgia, Times New Roman, serif;">Note : This post is a part of the <a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>guest post series</span></a>.</span></div>
-<span style="font-family: Georgia, Times New Roman, serif;"><br /></span>
+<span>Note : This post is a part of the <a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" target="_blank"><span>guest post series</span></a>.</span></div>
+<span><br /></span>
 <br />
 <div>
 Hello! I wanted to begin the guest post series with my father's post, and I had to hold a couple of posts I have already received from my friends. Our house is a messy place. It is so messy that we have an exclusive "looking-for-lost-things" time twice every day (once pre-breakfast, and once again post-dinner). On certain days, when what we are looking for is not extremely urgent, we stop to contemplate about our house, and we realize that there are too many books (along with too many every other thing). Not all these books are my appa's, but a lot of them are. He never restricts us from buying more books, and we generously pile on books we have no intention of reading. &nbsp;I believe there are books of all possible genres lying around. I have read only 10% of all these books, and I don't expect to read all of them at all. It is thanks to my father that the habbit of reading was inculcated into me, and it is thanks to him that I started writing. Among all heaps of books scattered around, I have seen a series of books on Journalism. There is no doubt that my father has had ambitions to write, so he didn't need much convincing. I asked him to write something about certain incidents from his childhood, but he was reluctant as they were too personal. When I insisted, he mixed in some fiction, and made it into a short story. Good luck trying to spot which is real and which is fiction.</div>
@@ -108,7 +108,7 @@ standing before him.<o:p></o:p></span></span></div>
 allow him to
 join his friend. They started talking
 animatedly in Tamil. Another Ramesh and
-Suresh</span><span class="MsoCommentReference"><span lang="EN-GB" style="font-size: 8.0pt;">&nbsp;</span></span><span lang="EN-GB">without chocolates in
+Suresh</span><span class="MsoCommentReference"><span lang="EN-GB">&nbsp;</span></span><span lang="EN-GB">without chocolates in
 their hands, he thought bitterly.&nbsp; Then he
 saw the person who was addressed as Ram and remembered that he had seen before
 him at the ticket counter. He had left

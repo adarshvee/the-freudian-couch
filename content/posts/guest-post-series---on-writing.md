@@ -12,7 +12,7 @@ url = "2014/10/guest-post-series-on-writing.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span style="font-size: small; font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-size: medium; font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-size: small; font-weight: normal;">.</span></h1>
+<span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank"><span>Guest Post Series</span></a><span style="font-weight: normal;">.</span></h1>
 <div>
 <div>
 Since my mother is a teacher, she would often end up meeting other teachers from my school. It would soon be discovered that a few of these people had been my own teachers. As a result, I would occasionally get trapped into a conversation with some long-forgotten faces when I am not adequately prepared for it (it is always advisable to prepare before meeting a teacher), and there would be an awkward moment when they&nbsp;unsuccessfully&nbsp;dig deep into their memory to summon up an image of me. They would then give up, and ask me, "<i>which batch were you in?</i>". "<i>Srini's batch, ma'm. Srinivas</i>". "<i>Ahhh, yeah. I remember him! What is he doing now?</i>" That is the extent of Srini's popularity, and that is the extent of my invisibility.</div>
@@ -89,7 +89,7 @@ then moves on to become just one thing : experience, this is when I think you ca
 think and act seamlessly. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
 <span><span lang="EN-US">[76-100]
-There is not much action now, so its all just memories </span><span lang="EN-US" style="font-family: Wingdings; mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-char-type: symbol; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-symbol-font-family: Wingdings;">L</span><span lang="EN-US"><o:p></o:p></span></span></div>
+There is not much action now, so its all just memories </span><span lang="EN-US" style="mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-char-type: symbol; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-symbol-font-family: Wingdings;">L</span><span lang="EN-US"><o:p></o:p></span></span></div>
 <div class="MsoNormal">
 <br /></div>
 <div class="MsoNormal">
@@ -103,13 +103,13 @@ I am pretty convinced that this framework is okay! <o:p></o:p></span></span></di
 <span lang="EN-US"><span>Also, I
 firmly believe that <o:p></o:p></span></span></div>
 <div class="MsoListParagraphCxSpFirst" style="mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span><span lang="EN-US">1.<span style="font-size: 7pt; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US">Every action is a consequence of a
+<!--[if !supportLists]--><span><span lang="EN-US">1.<span style="font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US">Every action is a consequence of a
 thought. <o:p></o:p></span></span></div>
 <div class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span><span lang="EN-US">2.<span style="font-size: 7pt; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US">Every thought evolves from learning.
+<!--[if !supportLists]--><span><span lang="EN-US">2.<span style="font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US">Every thought evolves from learning.
 <o:p></o:p></span></span></div>
 <div class="MsoListParagraphCxSpLast" style="mso-list: l0 level1 lfo1; text-indent: -18.0pt;">
-<!--[if !supportLists]--><span><span lang="EN-US">3.<span style="font-size: 7pt; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US">And you learn when you do!<o:p></o:p></span></span></div>
+<!--[if !supportLists]--><span><span lang="EN-US">3.<span style="font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US">And you learn when you do!<o:p></o:p></span></span></div>
 <div class="MsoNormal">
 <span lang="EN-US"><span>This is yet
 another cycle of life, but we cannot dismiss it without understanding the

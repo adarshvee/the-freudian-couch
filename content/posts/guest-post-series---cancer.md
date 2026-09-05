@@ -12,7 +12,7 @@ url = "2015/06/guest-post-series-cancer.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h1>
-<span><span style="font-size: small; font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-size: medium; font-weight: normal;" target="_blank">Guest Post Series</a><span style="font-size: small; font-weight: normal;">.</span></span></h1>
+<span><span style="font-weight: normal;">Note : This post is a part of the&nbsp;</span><a href="http://adarsh89.blogspot.com/2014/09/guest-posts-series.html" style="font-weight: normal;" target="_blank">Guest Post Series</a><span style="font-weight: normal;">.</span></span></h1>
 <div>
 <span>On our very first day at our engineering college, some fifty of us were asked the question : "Why did you choose the stream Biotechnology?" As I almost leapt up to give an answer, the faculty hastily added "don't say 'sir when I came to counselling, that was the only stream available'". I was disheartened, as he had highlighted my exact position. In the meantime, a short guy stood up and declared with the confidence of a motivational speaker, "sir, I always wanted to be a genetic engineer". It was impossible to not hate and to not like Vaidhyanathan during those days. Hate because he was unwittingly making things tough for the rest of us with his enthusiasm for every single thing, and like because you just had to talk to him to realize that he always meant well, and will go out of the way to help you. &nbsp;Every time a nervous student was called up to the front of the class to speak on something, Vaidhy would urge him/her ahead with his exaggeratedly encouraging nods. I had to generously draw from his willingness to help to get through the Cell Biology paper in our second semester. With him, you just have to start with something like, "say that again, what is mitosis..", listen to his long-winded explanation, and find a way to stop him when you have enough to write for three pages.</span></div>
 <div>
@@ -21,17 +21,17 @@ url = "2015/06/guest-post-series-cancer.html"
 <span>As a writer, Vaidhy explores various topics with a grand vocabulary </span><a href="https://vviews.wordpress.com/" target="_blank"><span>here</span></a><span>. Have a look at his interesting take on </span><a href="https://vviews.wordpress.com/2012/09/14/the-scarlet-carson/" target="_blank"><span>V for Vendetta</span></a><span>, or his poignant views on </span><a href="https://vviews.wordpress.com/2013/03/18/shades-of-grey/" target="_blank"><span>Shades of Grey</span></a><span>. I gather that he is a more regular writer in Tamil than in English. As soon as I forced him to discover my blog, he diligently went through every post I had written at that point of time and encouraged me to write more. He has been a visitor here on and off since then. I asked him around seven months back to write a post for this blog. Since then, the Freudian Couch has all but gone comatose. Imagine my surprise today when I received a mail with apologies; and an attachment with an extremely crisp and engrossing little write-up! The apologies are unnecessary, Vaidhy. Much thanks for bringing us all here once more.&nbsp;</span></div>
 <br />
 <div class="MsoNormal" style="text-align: center;">
-<span lang="EN-IN"><span style="font-family: Georgia, Times New Roman, serif;"></span></span><br />
+<span lang="EN-IN"><span></span></span><br />
 <h1>
-<span lang="EN-IN"><span style="font-family: Georgia, Times New Roman, serif;">CANCER</span></span></h1>
+<span lang="EN-IN"><span>CANCER</span></span></h1>
 </div>
 <div class="MsoNormal">
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__9477de18.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="239" src="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__5f9c621b.jpg" width="320" /></a></div>
-<span lang="EN-IN"><span style="font-family: Georgia, Times New Roman, serif;"><br /></span></span></div>
+<span lang="EN-IN"><span><br /></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-IN"><span style="font-family: Georgia, Times New Roman, serif;"><br /></span></span>
-<span style="font-family: Georgia, 'Times New Roman', serif;">"Ancient humans were incapable of
+<span lang="EN-IN"><span><br /></span></span>
+<span>"Ancient humans were incapable of
 advanced levels of communication, their young brains had simply not evolved
 enough to realize full potential. This led to the use of numerous intermediary
 devices and tools that helped humans get in touch with one another and share
@@ -47,7 +47,7 @@ barely-boned frame at Football try-outs. "It was not easy," the
 Professor went on, "the devices seemed to do more harm than good. To begin
 with they created a rift amongst the elders and fledglings born into the
 transitional era, of the races across all primitive tribes, divided by mostly
-invisible and at times hostile borders. The Elders often complained of a </span><a href="https://www.blogger.com/null" name="_GoBack" style="font-family: Georgia, 'Times New Roman', serif;"></a><span style="font-family: Georgia, 'Times New Roman', serif;">loss of the ability to natively communicate as prominent
+invisible and at times hostile borders. The Elders often complained of a </span><a href="https://www.blogger.com/null" name="_GoBack"></a><span>loss of the ability to natively communicate as prominent
 side effects of the devices. At one point even strange diseases started to
 plague the humans, the kind they were poorly equipped to understand or deal
 with at that primitive era." I found myself trying hard to know what the
@@ -68,9 +68,9 @@ age where humans had to open their mouths to produce sound waves, an activity
 referred to as 'TALKING'." Before I could go on, I was interrupted by a
 brief 'BLIP'!</span></div>
 <div class="MsoNormal">
-<span style="font-family: Georgia, Times New Roman, serif;"><br /></span></div>
+<span><br /></span></div>
 <div>
-<span style="font-family: Georgia, Times New Roman, serif;"><span>As my 1000 year old ancestor would have put
+<span><span>As my 1000 year old ancestor would have put
 it, 'SAVED BY THE BELL!'</span>&nbsp;</span></div>
 </div>
 

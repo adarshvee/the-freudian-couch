@@ -14,11 +14,11 @@ url = "2012/04/gen-next-are-we-heading-in-right.html"
 <div style="text-align: center;">
 <i>It is fortunate that each generation does not comprehend its own ignorance. We are thus enabled to call our ancestors barbarous.</i></div>
 <div style="text-align: right;">
-<span style="font-size: x-small;"><i>-</i><span style="text-align: left;">Charles Dudley Warner</span></span></div>
+<span><i>-</i><span style="text-align: left;">Charles Dudley Warner</span></span></div>
 <div style="text-align: center;">
 <span style="text-align: left;"><i>Modern man is just ancient man... with way better electronics.</i></span></div>
 <div style="text-align: right;">
-<span style="font-size: x-small; text-align: left;">-Unknown</span></div>
+<span style="text-align: left;">-Unknown</span></div>
 <div style="text-align: center;">
 <span style="text-align: left;"><br /></span></div>
 <div>

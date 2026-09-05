@@ -28,13 +28,13 @@ I have rarely been able to describe physical objects, and I feel jealous of peop
 <br>
 <div class="MsoNormal" style="text-align: center;">
 <h1>
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">Reflections</span></span>
+<span lang="EN-US"><span>Reflections</span></span>
 </h1>
 </div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">On our
+<span lang="EN-US"><span>On our
 recent trip to Bordeaux (France), a friend and I decided to amble around the
 city one night, after our hearty meal. We were visiting Bordeaux on a quick getaway.
 The only things I knew about Bordeaux prior to the visit were that its lush
@@ -42,9 +42,9 @@ vineyards provide some of the world’s finest wines, and that a large part of
 the city is a World Heritage site. A quick scan through travel guides confirmed
 that I wasn’t forgetting anything special. Or so it seemed. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">As we
+<span lang="EN-US"><span>As we
 strolled along in the chilly night, chance occurrence brought us to a large
 square in front of majestic French architecture. A central fountain was flanked
 on an entire side by symmetrically aligned buildings. Apparently built in the
@@ -58,9 +58,9 @@ seemed amiss. We walked towards the sound of children’s laughter and the patte
 of tiny feet. As we crossed the street, shadows of children running amidst the
 fog soon emerged. Why was there a localized mist?<o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">The mist quickly
+<span lang="EN-US"><span>The mist quickly
 faded away, and then we noticed where it came from. Many orifices were evenly
 distributed across the expanse of the ground ahead of us. They soon began to slowly
 release water, uniformly forming a film along the entire length of the floor.
@@ -68,9 +68,9 @@ As I looked back to view the buildings that were now behind us, we guessed their
 purpose. Reflections. By creating a really thin film, a water mirror could
 provide for the reflection of the entire square. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">‘Genius,
+<span lang="EN-US"><span>‘Genius,
 pure genius’, my friend muttered beside me, while I cursed myself for lack of a
 better camera. We stood there, at the edge of the film, settling into a
 comfortable silence. Keeping our eyes peeled while waiting for disruptions to
@@ -80,9 +80,9 @@ sparkles. Sparkles that would recombine at will to form a whole image. The loose
 nature of its fleetingness took my breath away and left me with goose-bumps. Like
 a reminder: Sometimes, you need to wait for beauty to show. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span style="font-family: Georgia, Times New Roman, serif;"><span lang="EN-US"><br></span></span></div>
+<span><span lang="EN-US"><br></span></span></div>
 <div class="MsoNormal">
-<span style="font-family: Georgia, Times New Roman, serif;"><span lang="EN-US">We oft
+<span><span lang="EN-US">We oft
 caught glimpses of the complete reflection of the square: graceful fountain
 flanked by beautiful buildings. Serenely motionless in time, stubbornly
 contrasted by cars zipping by. The sight was </span><span lang="EN-GB">made more magical when people occasionally walked
@@ -91,27 +91,27 @@ brazen sprint of a child, or the gentle, barefooted gait of a couple. Like Gods
 walking on water, creating their own reflections while crudely deforming
 another. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">I was left
+<span lang="EN-US"><span>I was left
 feeling a lot of things that night. About how we don’t take the time to notice
 the gratuitous beauty around us. Catch a sunset. Listen to the sound of the
 rain. How, more often than not, we’re so involved in mundane routine, that we’re
 blind to obvious moments that can create feeling. <o:p></o:p></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;">Place de la
+<span lang="EN-US"><span>Place de la
 Bourse reminded me that some of the nicest memories are created by chance. It’s
 ironic how things we might remember for years to come stem from incidents that
 were given no prior thought. The unpredictability of the moment leaves quite an
 impression. To wholly embrace the present and know that there are lifelong
 memories being created now! Maybe that’s something worth reflecting on…</span><o:p></o:p></span></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" height="1200" width="1600"></a></div>
 <div class="MsoNormal">
-<span lang="EN-US"><span style="font-family: Georgia, Times New Roman, serif;"><br></span></span></div>
+<span lang="EN-US"><span><br></span></span></div>
 </div>
 

@@ -12,11 +12,11 @@ url = "2014/09/the-success-series-with-whatsapp-and.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div>
-<span style="font-family: Arial, Helvetica, sans-serif;">Hidden amongst all the bleak, dreary, depressing and pessimistic thoughts in my blog, there lies a promise I once made -- that I will explain the immensely significant impact of motivational quotes on me. Promises are meant to be kept. I have been receiving millions of motivational messages on WhatsApp, Facebook and increasingly rare face-to-face conversations. Since I am yet to give up the belief that my blog would be seen by history as a one of the most creative human achievements ever, I decided to share a few of these "must-read" messages as a part of a "Success Series". Future students who read this blog as a part of this school syllabus may take note of the important messages, and live their lives accordingly. I would also leave a short write-up of my own thoughts on, and my interpretations of the messages at the end. </span></div>
+<span>Hidden amongst all the bleak, dreary, depressing and pessimistic thoughts in my blog, there lies a promise I once made -- that I will explain the immensely significant impact of motivational quotes on me. Promises are meant to be kept. I have been receiving millions of motivational messages on WhatsApp, Facebook and increasingly rare face-to-face conversations. Since I am yet to give up the belief that my blog would be seen by history as a one of the most creative human achievements ever, I decided to share a few of these "must-read" messages as a part of a "Success Series". Future students who read this blog as a part of this school syllabus may take note of the important messages, and live their lives accordingly. I would also leave a short write-up of my own thoughts on, and my interpretations of the messages at the end. </span></div>
 <div>
-<span style="font-family: Arial, Helvetica, sans-serif;"><br /></span></div>
+<span><br /></span></div>
 <div>
-<span style="font-family: Arial, Helvetica, sans-serif;">Here is a message I got recently. Reproduced as it is, except for the bolding of the title</span></div>
+<span>Here is a message I got recently. Reproduced as it is, except for the bolding of the title</span></div>
 <br />
 <span>[Fist Punch smiley] Must Read.....</span><br />
 <span><br /></span>
@@ -97,14 +97,14 @@ url = "2014/09/the-success-series-with-whatsapp-and.html"
 <span><br /></span></div>
 <div>
 <span>"<i>Never underestimate the Power of the Common Man</i>".</span></div>
-<span><br /></span><span style="font-family: Arial, Helvetica, sans-serif;">
+<span><br /></span><span>
 Dear Mr.Whoever-has-all-the-time-in-this-World-to-type-out-that-<strike>crap</strike>-content,</span><br />
-<span style="font-family: Arial, Helvetica, sans-serif;"><br /></span>
+<span><br /></span>
 <div>
-<span style="font-family: Arial, Helvetica, sans-serif;">"What more is there to say" absolutely sums it up. Your splendid story spreads a very useful message -- that one must not judge others too soon. Your story discourages arrogance, and encourages us to get to know others; who might impart to us some valuable success lessons. &nbsp;Even if we momentarily put aside the moral core of your message, your story is an artistic achievement. It had me engrossed and entertained. The twist in the end was totally unexpected. The character development is admirable; the character arc of the narrator in your autobiographical story changes gradually but firmly from being a moron who judges people by their appearances to a moron who judges people by their wealth. This is exactly the message I want children to hear, so that they will grow into better individuals. Thanks for sharing your enthralling experience. I encourage you to keep spreading goodwill.</span></div>
-<span style="font-family: Arial, Helvetica, sans-serif;"><br /></span>
-<span style="font-family: Arial, Helvetica, sans-serif;">Thanks,</span><br />
-<span style="font-family: Arial, Helvetica, sans-serif;">The Freudian Couch</span><br />
+<span>"What more is there to say" absolutely sums it up. Your splendid story spreads a very useful message -- that one must not judge others too soon. Your story discourages arrogance, and encourages us to get to know others; who might impart to us some valuable success lessons. &nbsp;Even if we momentarily put aside the moral core of your message, your story is an artistic achievement. It had me engrossed and entertained. The twist in the end was totally unexpected. The character development is admirable; the character arc of the narrator in your autobiographical story changes gradually but firmly from being a moron who judges people by their appearances to a moron who judges people by their wealth. This is exactly the message I want children to hear, so that they will grow into better individuals. Thanks for sharing your enthralling experience. I encourage you to keep spreading goodwill.</span></div>
+<span><br /></span>
+<span>Thanks,</span><br />
+<span>The Freudian Couch</span><br />
 <br />
 <br />
 <br />
