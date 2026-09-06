@@ -1,0 +1,17 @@
+{{/* The same social icons Blowfish renders under each post, for use in content.
+
+     Reuses the theme's author-links.html, so the single source of truth stays
+     [params.author] links in config/_default/languages.en.toml — add a network
+     there and it appears both places.
+
+     .Page, not . — inside a shortcode the context is ShortcodeWithPage.
+     The email address lives in [params.author] email and is NOT part of
+     author-links.html, so it is added here explicitly. */}}
+<div class="tfc-social flex items-center gap-1 text-2xl sm:text-xl my-4">
+  {{ with site.Params.Author.email }}
+  <a class="px-1 text-neutral-400 dark:text-neutral-500 hover:text-primary-700 dark:hover:text-primary-400"
+     href="mailto:{{ . }}" aria-label="Email"
+     ><span class="inline-block align-text-bottom">{{ partial "icon.html" "email" }}</span></a>
+  {{ end }}
+  {{ partial "author-links.html" .Page }}
+</div>
