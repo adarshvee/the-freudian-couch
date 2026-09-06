@@ -15,6 +15,7 @@ resources/_gen/
 SITE_AUDIT.md
 HANDOFF.md
 TAG_PROPOSAL.md
+UPGRADE_NOTES.md
 
 # One-off migration tooling and its generated reports.
 # These do work on the content; they aren't part of the site. Kept on disk only.
