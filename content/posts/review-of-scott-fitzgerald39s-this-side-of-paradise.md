@@ -11,7 +11,7 @@ url = "2017/05/review-of-scott-fitzgeralds-this-side.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/1023656.This_Side_of_Paradise" style="float: left; padding-right: 20px;"><img alt="This Side of Paradise" border="0" src="https://images.gr-assets.com/books/1180310680m/1023656.jpg"></a><a href="https://www.goodreads.com/book/show/1023656.This_Side_of_Paradise">This Side of Paradise</a> by <a href="https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald">F. Scott Fitzgerald</a><br>
+<a href="https://www.goodreads.com/book/show/1023656.This_Side_of_Paradise" style="float: left; padding-right: 20px;"><img alt="This Side of Paradise" border="0" src="/images/blogger/review-of-scott-fitzgerald39s-this-side-of-paradise/1023656__577b21a5.jpg" width="298" height="500" /></a><a href="https://www.goodreads.com/book/show/1023656.This_Side_of_Paradise">This Side of Paradise</a> by <a href="https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald">F. Scott Fitzgerald</a><br>
 My rating: <a href="https://www.goodreads.com/review/show/1984429193">3 of 5 stars</a><br>
 <br>
 <div dir="ltr" style="text-align: left;" trbidi="on">

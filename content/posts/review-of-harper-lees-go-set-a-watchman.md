@@ -11,7 +11,7 @@ url = "2017/03/review-of-harper-lees-go-set-watchman.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/24831147-go-set-a-watchman" style="float: left; padding-right: 20px;"><img alt="Go Set a Watchman" border="0" src="https://images.gr-assets.com/books/1427322631m/24831147.jpg" /></a><a href="https://www.goodreads.com/book/show/24831147-go-set-a-watchman">Go Set a Watchman</a> by <a href="https://www.goodreads.com/author/show/1825.Harper_Lee">Harper Lee</a><br />
+<a href="https://www.goodreads.com/book/show/24831147-go-set-a-watchman" style="float: left; padding-right: 20px;"><img alt="Go Set a Watchman" border="0" src="/images/blogger/review-of-harper-lees-go-set-a-watchman/24831147__e5854242.jpg" width="308" height="475" /></a><a href="https://www.goodreads.com/book/show/24831147-go-set-a-watchman">Go Set a Watchman</a> by <a href="https://www.goodreads.com/author/show/1825.Harper_Lee">Harper Lee</a><br />
 <br />
 "<i>As you grew up, when you were grown, totally unknown to yourself, you confused your father with God. You never saw him as a man with a man’s heart, and a man’s failings—I’ll grant you it may have been hard to see, he makes so few mistakes, but he makes ’em like all of us.</i>"<br />
 <div>

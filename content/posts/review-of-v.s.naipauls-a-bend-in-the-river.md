@@ -11,7 +11,7 @@ url = "2017/04/review-of-vsnaipauls-bend-in-river.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/456710.A_Bend_in_the_River" style="float: left; padding-right: 20px;"><img alt="A Bend in the River" border="0" src="https://images.gr-assets.com/books/1411892211m/456710.jpg" /></a><a href="https://www.goodreads.com/book/show/456710.A_Bend_in_the_River">A Bend in the River</a> by <a href="https://www.goodreads.com/author/show/3989.V_S_Naipaul">V.S. Naipaul</a><br />
+<a href="https://www.goodreads.com/book/show/456710.A_Bend_in_the_River" style="float: left; padding-right: 20px;"><img alt="A Bend in the River" border="0" src="/images/blogger/review-of-v.s.naipauls-a-bend-in-the-river/456710__1dfe7cd0.jpg" width="140" height="214" /></a><a href="https://www.goodreads.com/book/show/456710.A_Bend_in_the_River">A Bend in the River</a> by <a href="https://www.goodreads.com/author/show/3989.V_S_Naipaul">V.S. Naipaul</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/1958024107">3 of 5 stars</a><br />
 <br />
 <div>

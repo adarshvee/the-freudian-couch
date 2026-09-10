@@ -11,7 +11,7 @@ url = "2017/04/review-of-mark-haddons-curious-incident.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time" style="float: left; padding-right: 20px;"><img alt="The Curious Incident of the Dog in the Night-Time" border="0" src="https://images.gr-assets.com/books/1479863624m/1618.jpg" /></a><a href="https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time">The Curious Incident of the Dog in the Night-Time</a> by <a href="https://www.goodreads.com/author/show/1050.Mark_Haddon">Mark Haddon</a><br />
+<a href="https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time" style="float: left; padding-right: 20px;"><img alt="The Curious Incident of the Dog in the Night-Time" border="0" src="/images/blogger/review-of-mark-haddons-the-curious-incident-of-the-dog-in-the-night-time/1618__acbaeb10.jpg" width="308" height="475" /></a><a href="https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time">The Curious Incident of the Dog in the Night-Time</a> by <a href="https://www.goodreads.com/author/show/1050.Mark_Haddon">Mark Haddon</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/1981917837">4 of 5 stars</a><br />
 <br />
 <div dir="ltr" style="text-align: left;" trbidi="on">

@@ -11,7 +11,7 @@ url = "2017/06/review-of-rknarayanans-guide.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/129877.The_Guide" style="float: left; padding-right: 20px;"><img alt="The Guide" border="0" src="https://images.gr-assets.com/books/1427735982m/129877.jpg" /></a><a href="https://www.goodreads.com/book/show/129877.The_Guide"><span>The Guide</span></a> by <a href="https://www.goodreads.com/author/show/1305302.R_K_Narayan">R.K. Narayan</a><br />
+<a href="https://www.goodreads.com/book/show/129877.The_Guide" style="float: left; padding-right: 20px;"><img alt="The Guide" border="0" src="/images/blogger/review-of-r.k.narayans-the-guide/129877__dc9025b3.jpg" width="292" height="475" /></a><a href="https://www.goodreads.com/book/show/129877.The_Guide"><span>The Guide</span></a> by <a href="https://www.goodreads.com/author/show/1305302.R_K_Narayan">R.K. Narayan</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/2024737957"><span>5 of 5 stars</span></a><br />
 <br />
 <div>

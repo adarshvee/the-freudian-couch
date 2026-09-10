@@ -11,7 +11,7 @@ url = "2017/06/review-of-liu-cixins-three-body-problem.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem" style="float: left; padding-right: 20px;"><img alt="The Three-Body Problem (Remembrance of Earth’s Past, #1)" border="0" src="https://images.gr-assets.com/books/1415428227m/20518872.jpg" /></a><a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem"><b><span>The Three-Body Problem</span></b></a> by <a href="https://www.goodreads.com/author/show/5780686.Liu_Cixin">Liu Cixin</a><br />
+<a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem" style="float: left; padding-right: 20px;"><img alt="The Three-Body Problem (Remembrance of Earth’s Past, #1)" border="0" src="/images/blogger/review-of-liu-cixins-the-three-body-problem/20518872__7273f6a1.jpg" width="316" height="475" /></a><a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem"><b><span>The Three-Body Problem</span></b></a> by <a href="https://www.goodreads.com/author/show/5780686.Liu_Cixin">Liu Cixin</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/2011186803"><span>4 of 5 stars</span></a><br />
 <br />
 <blockquote class="tr_bq">

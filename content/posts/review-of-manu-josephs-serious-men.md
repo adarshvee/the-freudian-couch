@@ -11,7 +11,7 @@ url = "2017/05/review-of-manu-josephs-serious-men.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/13501165-serious-men" style="float: left; padding-right: 20px;"><img alt="Serious Men" border="0" src="https://images.gr-assets.com/books/1389236518m/13501165.jpg" /></a><a href="https://www.goodreads.com/book/show/13501165-serious-men"><span>Serious Men</span></a> by <a href="https://www.goodreads.com/author/show/3338915.Manu_Joseph">Manu Joseph</a><br />
+<a href="https://www.goodreads.com/book/show/13501165-serious-men" style="float: left; padding-right: 20px;"><img alt="Serious Men" border="0" src="/images/blogger/review-of-manu-josephs-serious-men/13501165__5f9e2310.jpg" width="306" height="475" /></a><a href="https://www.goodreads.com/book/show/13501165-serious-men"><span>Serious Men</span></a> by <a href="https://www.goodreads.com/author/show/3338915.Manu_Joseph">Manu Joseph</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/1995959547"><span>4 of 5 stars</span></a><br />
 <blockquote class="tr_bq">
 <i>"If you stare long enough at serious people they will begin to appear comical"</i></blockquote>

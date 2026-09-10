@@ -11,7 +11,7 @@ url = "2017/06/review-way-of-strangers-encounters-with.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="http://www.goodreads.com/book/show/28007946" style="float: left; padding-right: 20px;"><img alt="The Way of the Strangers: Encounters with the Islamic State" border="0" src="https://images.gr-assets.com/books/1478675741m/28007946.jpg" /></a>
+<a href="http://www.goodreads.com/book/show/28007946" style="float: left; padding-right: 20px;"><img alt="The Way of the Strangers: Encounters with the Islamic State" border="0" src="/images/blogger/review-the-way-of-the-strangers-encounters-with-the-islamic-state/28007946__d5b765d7.jpg" width="263" height="400" /></a>
       <a href="http://www.goodreads.com/book/show/28007946">The Way of the Strangers: Encounters with the Islamic State</a> by <a href="http://www.goodreads.com/author/show/13536216">Graeme Wood</a><br />
 My rating: <a href="http://www.goodreads.com/review/show/2034124921">5 of 5 stars</a>
       <br />

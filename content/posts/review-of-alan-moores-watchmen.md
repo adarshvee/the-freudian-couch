@@ -11,7 +11,7 @@ url = "2017/07/review-of-alan-moores-watchmen.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/472331.Watchmen" style="float: left; padding-right: 20px;"><img alt="Watchmen" border="0" src="https://images.gr-assets.com/books/1442239711m/472331.jpg" /></a><a href="https://www.goodreads.com/book/show/472331.Watchmen"><span>Watchmen</span></a> by <a href="https://www.goodreads.com/author/show/3961.Alan_Moore">Alan Moore</a><br />
+<a href="https://www.goodreads.com/book/show/472331.Watchmen" style="float: left; padding-right: 20px;"><img alt="Watchmen" border="0" src="/images/blogger/review-of-alan-moores-watchmen/472331__b2840ffb.jpg" width="315" height="475" /></a><a href="https://www.goodreads.com/book/show/472331.Watchmen"><span>Watchmen</span></a> by <a href="https://www.goodreads.com/author/show/3961.Alan_Moore">Alan Moore</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/2005578528">5 of 5 stars</a><br />
 <br />
 <blockquote class="tr_bq">

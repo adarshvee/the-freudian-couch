@@ -11,7 +11,7 @@ url = "2017/12/review-of-roshani-sinhas-snippets.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/36280332-snippets" style="float: left; padding-right: 20px;"><img alt="Snippets: Short Stories" border="0" src="https://images.gr-assets.com/books/1506016621m/36280332.jpg" /></a><span><a href="https://www.goodreads.com/book/show/36280332-snippets">Snippets: Short Stories</a> by <a href="https://www.goodreads.com/author/show/17173381.Roshani_Gash_Sinha">Roshani Gash Sinha</a></span><br />
+<a href="https://www.goodreads.com/book/show/36280332-snippets" style="float: left; padding-right: 20px;"><img alt="Snippets: Short Stories" border="0" src="/images/blogger/review-of--roshani-sinhas-snippets/36280332__7e960e99.jpg" width="317" height="475" /></a><span><a href="https://www.goodreads.com/book/show/36280332-snippets">Snippets: Short Stories</a> by <a href="https://www.goodreads.com/author/show/17173381.Roshani_Gash_Sinha">Roshani Gash Sinha</a></span><br />
 <span>My rating: <a href="https://www.goodreads.com/review/show/2130885113">4 of 5 stars</a></span><br />
 <br />
 <div dir="ltr" style="text-align: left;" trbidi="on">

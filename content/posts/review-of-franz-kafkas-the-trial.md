@@ -11,7 +11,7 @@ url = "2017/03/review-of-franz-kafkas-trial.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/822733.The_Trial" style="float: left; padding-right: 20px;"><img alt="The Trial" border="0" src="https://images.gr-assets.com/books/1380133191m/822733.jpg" /></a><a href="https://www.goodreads.com/book/show/822733.The_Trial">The Trial</a> by <a href="https://www.goodreads.com/author/show/5223.Franz_Kafka">Franz Kafka</a><br />
+<a href="https://www.goodreads.com/book/show/822733.The_Trial" style="float: left; padding-right: 20px;"><img alt="The Trial" border="0" src="/images/blogger/review-of-franz-kafkas-the-trial/822733__9fd2ad38.jpg" width="263" height="397" /></a><a href="https://www.goodreads.com/book/show/822733.The_Trial">The Trial</a> by <a href="https://www.goodreads.com/author/show/5223.Franz_Kafka">Franz Kafka</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/1946135725">4 of 5 stars</a><br />
 <br />
 <div>

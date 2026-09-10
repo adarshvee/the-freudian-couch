@@ -11,7 +11,7 @@ url = "2017/02/review-of-black-tower-by-pdjames.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/3833.The_Black_Tower" style="float: left; padding-right: 20px;"><img alt="The Black Tower (Adam Dalgliesh, #5)" border="0" src="https://images.gr-assets.com/books/1321172468m/3833.jpg" /></a><a href="https://www.goodreads.com/book/show/3833.The_Black_Tower">The Black Tower</a> by <a href="https://www.goodreads.com/author/show/344522.P_D_James">P.D. James</a><br />
+<a href="https://www.goodreads.com/book/show/3833.The_Black_Tower" style="float: left; padding-right: 20px;"><img alt="The Black Tower (Adam Dalgliesh, #5)" border="0" src="/images/blogger/review-of-the-black-tower-by-p.d.james/3833__af89594b.jpg" width="312" height="475" /></a><a href="https://www.goodreads.com/book/show/3833.The_Black_Tower">The Black Tower</a> by <a href="https://www.goodreads.com/author/show/344522.P_D_James">P.D. James</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/1893640258">4 of 5 stars</a><br />
 <br />
 <i>"In this job it wasn't the last piece of jigsaw, the easiest of all, that was important. No, it was the neglected, uninteresting small segment which, slotted into place, suddenly made sense of so many other discarded pieces"</i><br />

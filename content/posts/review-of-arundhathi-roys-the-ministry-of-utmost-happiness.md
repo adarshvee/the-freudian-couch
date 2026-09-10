@@ -11,7 +11,7 @@ url = "2017/06/review-of-arundhathi-roys-ministry-of.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/34139539-the-ministry-of-utmost-happiness" style="float: left; padding-right: 20px;"><img alt="The Ministry of Utmost Happiness" border="0" src="https://images.gr-assets.com/books/1487215544m/34139539.jpg" /></a><a href="https://www.goodreads.com/book/show/34139539-the-ministry-of-utmost-happiness"><span>The Ministry of Utmost Happiness</span></a> by <a href="https://www.goodreads.com/author/show/6134.Arundhati_Roy">Arundhati Roy</a><br />
+<a href="https://www.goodreads.com/book/show/34139539-the-ministry-of-utmost-happiness" style="float: left; padding-right: 20px;"><img alt="The Ministry of Utmost Happiness" border="0" src="/images/blogger/review-of-arundhathi-roys-the-ministry-of-utmost-happiness/34139539__5fdf7c39.jpg" width="279" height="400" /></a><a href="https://www.goodreads.com/book/show/34139539-the-ministry-of-utmost-happiness"><span>The Ministry of Utmost Happiness</span></a> by <a href="https://www.goodreads.com/author/show/6134.Arundhati_Roy">Arundhati Roy</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/2028849511"><span>4 of 5 stars</span></a><br />
 <br />
 <div>

@@ -11,7 +11,7 @@ url = "2017/05/review-of-virginia-wolfs-mrsdalloway.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/855818.Mrs_Dalloway" style="float: left; padding-right: 20px;"><img alt="Mrs. Dalloway" border="0" src="https://images.gr-assets.com/books/1320430452m/855818.jpg"></a><a href="https://www.goodreads.com/book/show/855818.Mrs_Dalloway"><span><b>Mrs. Dalloway</b></span></a> by <a href="https://www.goodreads.com/author/show/6765.Virginia_Woolf">Virginia Woolf</a><br>
+<a href="https://www.goodreads.com/book/show/855818.Mrs_Dalloway" style="float: left; padding-right: 20px;"><img alt="Mrs. Dalloway" border="0" src="/images/blogger/review-of-virginia-woolf39s-mrs.dalloway/855818__a6c1f774.jpg" width="286" height="450" /></a><a href="https://www.goodreads.com/book/show/855818.Mrs_Dalloway"><span><b>Mrs. Dalloway</b></span></a> by <a href="https://www.goodreads.com/author/show/6765.Virginia_Woolf">Virginia Woolf</a><br>
 My rating: <a href="https://www.goodreads.com/review/show/2000913882"><span>5 of 5 stars</span></a><br>
 <i><br></i>
 <i>"Human beings have neither kindness, nor faith, nor charity beyond what serves to increase the pleasure of the moment."</i><br>

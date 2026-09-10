@@ -12,7 +12,7 @@ description = "Sujatha Gidla's family history across generations of Dalit oppres
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/31450688-ants-among-elephants" style="float: left; padding-right: 20px;"><img alt="Ants Among Elephants: An Untouchable Family and the Making of Modern India" border="0" src="https://images.gr-assets.com/books/1492189897m/31450688.jpg" /></a><a href="https://www.goodreads.com/book/show/31450688-ants-among-elephants">Ants Among Elephants: An Untouchable Family and the Making of Modern India</a> by <a href="https://www.goodreads.com/author/show/15613155.Sujatha_Gidla">Sujatha Gidla</a><br />
+<a href="https://www.goodreads.com/book/show/31450688-ants-among-elephants" style="float: left; padding-right: 20px;"><img alt="Ants Among Elephants: An Untouchable Family and the Making of Modern India" border="0" src="/images/blogger/review-of-sujatha-gidlas-ants-among-elephants--an-untouchable-family-and-the-making-of-modern-india/31450688__7758442a.jpg" width="317" height="475" /></a><a href="https://www.goodreads.com/book/show/31450688-ants-among-elephants">Ants Among Elephants: An Untouchable Family and the Making of Modern India</a> by <a href="https://www.goodreads.com/author/show/15613155.Sujatha_Gidla">Sujatha Gidla</a><br />
 My rating: <a href="https://www.goodreads.com/review/show/2084604485">4 of 5 stars</a><br />
 <br />
 <blockquote class="tr_bq" style="text-align: center;">

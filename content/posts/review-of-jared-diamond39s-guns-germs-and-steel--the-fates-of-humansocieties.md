@@ -11,7 +11,7 @@ url = "2017/04/review-of-jared-diamonds-guns-germs-and.html"
 +++
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel" style="float: left; padding-right: 20px;"><img alt="Guns, Germs, and Steel: The Fates of Human Societies" border="0" src="https://images.gr-assets.com/books/1453215833m/1842.jpg"></a><a href="https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel">Guns, Germs, and Steel: The Fates of Human Societies</a> by <a href="https://www.goodreads.com/author/show/256.Jared_Diamond">Jared Diamond</a><br>
+<a href="https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel" style="float: left; padding-right: 20px;"><img alt="Guns, Germs, and Steel: The Fates of Human Societies" border="0" src="/images/blogger/review-of-jared-diamond39s-guns-germs-and-steel--the-fates-of-humansocieties/1842__e08d6bc6.jpg" width="311" height="475" /></a><a href="https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel">Guns, Germs, and Steel: The Fates of Human Societies</a> by <a href="https://www.goodreads.com/author/show/256.Jared_Diamond">Jared Diamond</a><br>
 My rating: <a href="https://www.goodreads.com/review/show/1966892732">4 of 5 stars</a><br>
 <br>
 <div>
