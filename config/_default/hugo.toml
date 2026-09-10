@@ -19,7 +19,8 @@ enableEmoji = true
 googleAnalytics = "G-EHF8DNR5DL"
 
 [pagination]
-  pagerSize = 10
+  # 30 suits the text-first list: 137 posts fit in 6 pages instead of 15.
+  pagerSize = 30
 
 [imaging]
   anchor = 'Center'

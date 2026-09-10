@@ -9,7 +9,11 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 smartTOC = "Enable"
-defaultFeaturedImage = "img/default-featured.svg"
+# defaultFeaturedImage retired: list pages are text-first, so an imageless post shows
+# no placeholder rather than the wordmark. The asset is still at
+# assets/img/default-featured.svg — uncomment this line to bring it back.
+# It never fed og:image, so social sharing is unaffected either way.
+# defaultFeaturedImage = "img/default-featured.svg"
 
 [header]
 layout = "basic"
@@ -67,10 +71,12 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = true
+# Text-first list pages: rows, no card chrome, no placeholder image.
+# Posts that have their own picture still show it beside the title.
+showCards = false
 orderByWeight = false
 groupByYear = true
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
 
