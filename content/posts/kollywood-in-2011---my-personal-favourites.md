@@ -68,7 +68,7 @@ Directed by debuttante Kumararaja, it is the Tamil(or even Indian) movie that is
 <div>
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/kollywood-in-2011---my-personal-favourites/Aadukalam__1b83b086.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/kollywood-in-2011---my-personal-favourites/Aadukalam__1b83b086.jpg" /></a></div>
+<a href="/images/blogger/kollywood-in-2011---my-personal-favourites/Aadukalam__1b83b086.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Dhanush and a crowd of villagers around a seated elder, from Aadukalam" border="0" src="/images/blogger/kollywood-in-2011---my-personal-favourites/Aadukalam__1b83b086.jpg" /></a></div>
 <div>
 <br />
 The national award winning movie directed by Vetrimaran (his second movie after the really good Pollathavan), and starring Dhanush. The movie is set in a backdrop of Rooster Fights. Pettaikaran (Jayabalan) is the most reverred name in rooster figths, assisted by Karuppu(Dhanush) and Durai (The fantastic actor Kishore).Rathnasamy is their arch competetor. In the heat of an important competition, Karuppu decides to go against the better judgements of Pettaikaran. The movie deals with the emotional fallout of this action. The thing that strikes me the most about this movie is the raw emotions that each character in the movie has. Even the heros sidekick gets angry at a point of time. Every single actor does justice to the characters he/she plays. Though many people felt that the second half of the movie to be slow, I personally love it.<br />
@@ -79,7 +79,7 @@ The national award winning movie directed by Vetrimaran (his second movie after 
 <div>
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/kollywood-in-2011---my-personal-favourites/Engeyum-Eppothum-Movie-252814-2529__7263b088.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="212" src="/images/blogger/kollywood-in-2011---my-personal-favourites/Engeyum-Eppothum-Movie-252814-2529__6d1726c5.jpg" width="320" /></a></div>
+<a href="/images/blogger/kollywood-in-2011---my-personal-favourites/Engeyum-Eppothum-Movie-252814-2529__7263b088.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Anjali looking out of a bus window, from Engeyum Eppothum" border="0" height="212" src="/images/blogger/kollywood-in-2011---my-personal-favourites/Engeyum-Eppothum-Movie-252814-2529__6d1726c5.jpg" width="320" /></a></div>
 <div>
 <br />
 Produced by&nbsp; director A.R.Murugadoss, and directed by debutante Saravanan, this is a delightful movie. Though most people I know would cringe at what I am going to say, to me this is a feel good movie. I felt really good for 3/4th of the movie. The movie starts and ends with a bus accident, and traces the story of two couples involved in the accident. A fantastic screenplay, with a liberal dose of really good humour makes this movie a must watch. The scene depicting the actual accident has so much impact that some people I know hesitate to travel by road after watching this movie. The movie's greatness lies in the fact that there is no single thing that really stands out. This movie was lauded by almost everyone who saw it, but I still feel that it has been under-rated.<br />

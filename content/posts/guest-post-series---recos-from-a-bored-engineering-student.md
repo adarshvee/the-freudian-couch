@@ -44,7 +44,7 @@ I randomly met Pavithran once again at a movie screenwriting workshop. He didn't
 <span>This book has a 2300 word 7 page long prologue. The specialty about it is that the entire prologue is a single sentence. No. You didn’t read it wrong. 2300 words make up one sentence. If there’s a better advertisement for a book I’ve not seen it yet. I consider it among the best works by an Indian author. The Book recreates the Bombay of the 1970s and is as mad as its prologue.</span><br />
 <span><br /></span>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series---recos-from-a-bored-engineering-student/Narcopolis__fb4abed3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/guest-post-series---recos-from-a-bored-engineering-student/Narcopolis__fb4abed3.jpg" /></a></div>
+<a href="/images/blogger/guest-post-series---recos-from-a-bored-engineering-student/Narcopolis__fb4abed3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of Narcopolis by Jeet Thayil" border="0" src="/images/blogger/guest-post-series---recos-from-a-bored-engineering-student/Narcopolis__fb4abed3.jpg" /></a></div>
 <span><br /></span></div>
 <div>
 <span><br /></span></div>

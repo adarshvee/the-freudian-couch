@@ -20,7 +20,7 @@ url = "2014/10/stop-shrug-and-fly-you-fools.html"
 <span style="font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; white-space: pre-wrap;"><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/stop-shrug-and-fly-you-fools/calvin__0ea27296.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="279" src="/images/blogger/stop-shrug-and-fly-you-fools/calvin__1039ae1d.jpg" width="400" /></a></div>
+<a href="/images/blogger/stop-shrug-and-fly-you-fools/calvin__0ea27296.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A Calvin and Hobbes strip in which Calvin prices lemonade at fifteen dollars a glass, explains the absence of customers with supply and demand, and concludes that he needs to be subsidised" border="0" height="279" src="/images/blogger/stop-shrug-and-fly-you-fools/calvin__1039ae1d.jpg" width="400" /></a></div>
 <span style="font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; white-space: pre-wrap;"><br /></span></div>
 <div>
 <b style="font-weight: normal;"><br /></b></div>

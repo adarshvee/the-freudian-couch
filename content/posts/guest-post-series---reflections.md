@@ -110,7 +110,7 @@ memories being created now! Maybe that’s something worth reflecting on…</spa
 <div class="MsoNormal">
 <span lang="EN-US"><span><br></span></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" height="1200" width="1600"></a></div>
+<a href="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Place de la Bourse in Bordeaux at night, reflected in the water mirror" border="0" src="/images/blogger/guest-post-series---reflections/Place-de-la-Bourse__2910337e.jpg" height="1200" width="1600"></a></div>
 <div class="MsoNormal">
 <span lang="EN-US"><span><br></span></span></div>
 </div>

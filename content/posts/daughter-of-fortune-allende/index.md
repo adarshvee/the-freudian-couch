@@ -9,7 +9,7 @@ tags = ["Book Review", "Books", "Coming of Age", "Historical Fiction"]
 
 Before I picked up *Isabel Allende*'s **Daughter of Fortune**, I had a preconceived notion about her writing. The words "*magical realism*" and "*South America*" were in my mind, and I couldn't help but think of **Gabriel Garcia Marquez**. This was a useful reference, for a while. But soon, I realized that the comparison with Marquez is unfair to Allende, and I constantly had to battle against my presumption as I read this book.
 
-![alt](featuredSmall.png)
+![Cover of Daughter of Fortune by Isabel Allende](featuredSmall.png)
 
 *Daughter of Fortune* is, distilled to its essence, a coming of age story of its protagonist: *Eliza Sommers*. It is also a historical fiction set, for the most part, in early to mid-nineteenth century Chile and California. The novel begins exotically with the words "*Everyone is born with some special talent, and Eliza Sommers discovered early on that she had two: a good sense of smell and a good memory.*" Found abandoned outside an English home in Chile in 1832, Eliza is raised as an adopted daughter of the *Sommers* family. She is trained with Victorian etiquette towards the sole purpose of getting married respectably. But Eliza falls in love, and goes on an adventure that puts her in the middle of the California gold rush. Isabel Allende uses this setting to describe the external and internal transformation witnessed by Eliza in her journey.
 

@@ -27,7 +27,7 @@ url = "2015/06/guest-post-series-cancer.html"
 </div>
 <div class="MsoNormal">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__9477de18.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="239" src="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__5f9c621b.jpg" width="320" /></a></div>
+<a href="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__9477de18.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" height="239" src="/images/blogger/guest-post-series---cancer/cartoonspeech_bubble_117738__5f9c621b.jpg" width="320" /></a></div>
 <span lang="EN-IN"><span><br /></span></span></div>
 <div class="MsoNormal">
 <span lang="EN-IN"><span><br /></span></span>

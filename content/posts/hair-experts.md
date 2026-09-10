@@ -41,7 +41,7 @@ A few years back, I wanted to write about a very small Tamil movie made by a deb
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/hair-experts/harry-illustration__94fe44a4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/hair-experts/harry-illustration__fcae6ecb.jpg" width="214" /></a></div>
+<a href="/images/blogger/hair-experts/harry-illustration__94fe44a4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A pencil illustration of a bespectacled boy in school uniform" border="0" height="320" src="/images/blogger/hair-experts/harry-illustration__fcae6ecb.jpg" width="214" /></a></div>
 <div>
 <br /></div>
 <div>

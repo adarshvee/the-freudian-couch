@@ -51,7 +51,7 @@ Interstellar and my 120 Bucks</h1>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <span lang="EN-US"><span><br /></span></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" /></span></a></div>
+<a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img alt="Poster for Interstellar: a lone figure walking toward a column of light on a barren plain" border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstillar__39d7e6f7.jpg" /></span></a></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
 <br /></div>
 <div class="MsoNormal" style="margin-bottom: 0.0001pt;">
@@ -156,7 +156,7 @@ illustration and effects of the Black hole</span></i></b></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <b><i><span><br /></span></i></b></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" height="387" width="640" /></span></a></div>
+<a href="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img alt="The “You shall not pass” Gandalf meme" border="0" src="/images/blogger/guest-post-series--interstellar-and-my-120-bucks/interstellar2__8f09d944.jpg" height="387" width="640" /></span></a></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">
 <b><i><span lang="EN-US"><span><br /></span></span></i></b></div>
 <div align="center" class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center;">

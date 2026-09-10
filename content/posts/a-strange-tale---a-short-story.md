@@ -35,7 +35,7 @@ ended up as an "old teak chair"</div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/a-strange-tale---a-short-story/old-bullock-cart-chair__73fafb74.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/a-strange-tale---a-short-story/old-bullock-cart-chair__7ab4a61c.jpg" width="320" /></a></div>
+<a href="/images/blogger/a-strange-tale---a-short-story/old-bullock-cart-chair__73fafb74.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A weathered wooden bench built from an old bullock cart" border="0" height="240" src="/images/blogger/a-strange-tale---a-short-story/old-bullock-cart-chair__7ab4a61c.jpg" width="320" /></a></div>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />
 <br />
 <div>

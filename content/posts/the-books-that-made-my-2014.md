@@ -79,14 +79,14 @@ Throughout the latter part year, I had been of the impression that I was reading
 <b>2) The Illicit Happiness of Other People by Manu Joseph</b> : Reviewed on my blog <a href="/2014/09/the-illicit-happiness-of-other-people.html" target="_blank"><span>here</span></a>.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" height="475" width="296" /></a></div>
+<a href="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of The Illicit Happiness of Other People by Manu Joseph" border="0" src="/images/blogger/the-books-that-made-my-2014/Illicit-Happiness__d0d6f529.jpg" height="475" width="296" /></a></div>
 <br /></div>
 <div>
 <br />
 <b>1) Crime and Punishment by Fyodor Dostoyevsky </b>: Reviewed on my blog <a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment" target="_blank"><span>here</span></a>.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-books-that-made-my-2014/crime_punishment200__8a488a26.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-made-my-2014/crime_punishment200__8a488a26.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-made-my-2014/crime_punishment200__8a488a26.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of Crime and Punishment by Fyodor Dostoyevsky" border="0" src="/images/blogger/the-books-that-made-my-2014/crime_punishment200__8a488a26.jpg" /></a></div>
 <br />
 <br />
 Outside books, it has been my most memorable year till date. Also, this happens to be the year where I inundated you all with a personal record number of blogposts. I will try not to repeat it :) Thanks for putting up with me. Wish you all a great year ahead!</div>

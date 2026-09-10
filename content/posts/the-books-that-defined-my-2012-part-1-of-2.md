@@ -26,7 +26,7 @@ As described in a previous blog <a href="/2012/10/the-hindi-test.html" target="_
 <b>Verdict</b> : I would thoroughly recommend this book to most people. Go read!!<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/freedomatmidnight__d77d9dc9.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/freedomatmidnight__d77d9dc9.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/freedomatmidnight__d77d9dc9.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of Freedom at Midnight by Larry Collins and Dominique Lapierre" border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/freedomatmidnight__d77d9dc9.jpg" /></a></div>
 <br />
 <br />
 <h3 style="text-align: left;">
@@ -49,7 +49,7 @@ Let me declare at the outset that I haven't read this author's more famous "The 
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/LastManOnTower__749e395e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/LastManOnTower__749e395e.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/LastManOnTower__749e395e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of Last Man in Tower by Aravind Adiga" border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/LastManOnTower__749e395e.jpg" /></a></div>
 <div>
 <br /></div>
 </div>
@@ -75,7 +75,7 @@ Each of us is a philosopher, and we all come up with a brand of philosophy that 
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/OfhumanBondage__554eb550.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/OfhumanBondage__554eb550.jpg" /></a></div>
+<a href="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/OfhumanBondage__554eb550.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of Of Human Bondage by W. Somerset Maugham" border="0" src="/images/blogger/the-books-that-defined-my-2012-part-1-of-2/OfhumanBondage__554eb550.jpg" /></a></div>
 <div>
 <br /></div>
 </div>

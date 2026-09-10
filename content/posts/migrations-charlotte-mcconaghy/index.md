@@ -9,7 +9,7 @@ tags = ["Book Review", "Books", "Climate Fiction", "Literary Fiction"]
 
 In an early scene in *Charlotte McConaghy*'s *Migrations*, the lead character Franny Stone spots a man outside a pub in Greenland. The man seems to unwittingly walk into an ice-cold fjord. Franny instantly plunges in to rescue the man. She drags him out, only for his shocked response: *"I was only taking a dip to sober up!"* This scene encapsulates Franny's character. She is a savior, and someone who would selflessly brave unforgiving conditions to achieve her goals. But she is also imperfect.
 
-![alt](featuredSmall.jpg)
+![Cover of Migrations by Charlotte McConaghy](featuredSmall.jpg)
 
 ## Plot
 

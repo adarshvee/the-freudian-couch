@@ -30,7 +30,7 @@ Most importantly, there was Hindi. I had a chronic fear of Hindi and Hindi teach
 Then, there were the monthly tests. Since the syllabus for a whole month had been completed, we had our first monthly test as soon as school reopened. I was clueless about any of the subjects, but managed to scrap through a few of them. When it came to Hindi, I couldn't even make head or tail out of the syllabus. I turned to my by-now-close-friend V for assistance, and asked him to list out the chapters I had to study. He helpfully took my book, and marked the name of a single poem with his pencil. Having&nbsp;diligently&nbsp;studied the poem word-by-word, I entered the exam hall filled with a high amount of out-of-character-optimism, which was shattered when I glanced at the question paper. I realised that the poem I had so thoroughly studied was only a minor part of the syllabus. The result of the exam? Please refer to the image below.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-hindi-test/DSC_0017__18ea7970.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/the-hindi-test/DSC_0017__06d3d6aa.jpg" width="240" /></a></div>
+<a href="/images/blogger/the-hindi-test/DSC_0017__18ea7970.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A school report card with the Hindi row circled in red, showing a mark of 2" border="0" height="320" src="/images/blogger/the-hindi-test/DSC_0017__06d3d6aa.jpg" width="240" /></a></div>
 <br /></div>
 <div>
 <br /></div>

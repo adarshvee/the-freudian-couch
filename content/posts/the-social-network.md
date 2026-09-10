@@ -76,7 +76,7 @@ url = "2012/11/the-social-network.html"
 <span><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-social-network/internet-addiction__aba10710.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="266" src="/images/blogger/the-social-network/internet-addiction__8ea0789a.jpg" width="320" /></a></div>
+<a href="/images/blogger/the-social-network/internet-addiction__aba10710.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="An illustration of an outstretched arm whose vein runs out of it as a computer mouse cable" border="0" height="266" src="/images/blogger/the-social-network/internet-addiction__8ea0789a.jpg" width="320" /></a></div>
 <span><br /></span></div>
 </div>
 <div style="text-align: center;">

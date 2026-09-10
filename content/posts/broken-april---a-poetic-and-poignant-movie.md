@@ -20,7 +20,7 @@ The movie starts with a young boy, who introduces himself as Pacu. He goes on to
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/broken-april---a-poetic-and-poignant-movie/abril__c7d9ff98.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/broken-april---a-poetic-and-poignant-movie/abril__c4f80e2e.jpg" width="320" /></a></div>
+<a href="/images/blogger/broken-april---a-poetic-and-poignant-movie/abril__c7d9ff98.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A bloodstained white shirt strung between two poles against a dusk sky, from Behind the Sun" border="0" height="240" src="/images/blogger/broken-april---a-poetic-and-poignant-movie/abril__c4f80e2e.jpg" width="320" /></a></div>
 <div>
 <br /></div>
 <br />
@@ -33,7 +33,7 @@ Reading my sludgy attempt to describe the plot line, you must be imagining a gor
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/broken-april---a-poetic-and-poignant-movie/tonio-and-pacu-in-behind-the-sun__58d96000.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="184" src="/images/blogger/broken-april---a-poetic-and-poignant-movie/tonio-and-pacu-in-behind-the-sun__63084fd0.jpg" width="320" /></a></div>
+<a href="/images/blogger/broken-april---a-poetic-and-poignant-movie/tonio-and-pacu-in-behind-the-sun__58d96000.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Tonio and Pacu sitting together in the dirt, from Behind the Sun" border="0" height="184" src="/images/blogger/broken-april---a-poetic-and-poignant-movie/tonio-and-pacu-in-behind-the-sun__63084fd0.jpg" width="320" /></a></div>
 <div>
 <br /></div>
 <ul style="text-align: left;">

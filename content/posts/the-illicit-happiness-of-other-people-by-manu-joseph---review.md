@@ -37,7 +37,7 @@ they?</i>", she asks her younger son.&nbsp;</div>
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-illicit-happiness-of-other-people-by-manu-joseph---review/Illicit-Happiness__b7015217.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-illicit-happiness-of-other-people-by-manu-joseph---review/Illicit-Happiness__b7015217.jpg" height="475" width="296" /></a></div>
+<a href="/images/blogger/the-illicit-happiness-of-other-people-by-manu-joseph---review/Illicit-Happiness__b7015217.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of The Illicit Happiness of Other People by Manu Joseph" border="0" src="/images/blogger/the-illicit-happiness-of-other-people-by-manu-joseph---review/Illicit-Happiness__b7015217.jpg" height="475" width="296" /></a></div>
 <div>
 <br /></div>
 <div>

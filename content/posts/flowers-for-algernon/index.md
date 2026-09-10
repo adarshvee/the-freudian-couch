@@ -15,7 +15,7 @@ I have my own term for a genre of novels that were written in the early to mid 2
 
 **Daniel Keyes**'s extraordinary **Flowers for Algernon**, published in 1966 as an expanded version of his own short story fits my made-up genre. It examines intellectual disability - the book refers to it as *"mental retardation"* -- and society's treatment of people who fall below the average intellect. *Flowers for Algernon* also follows another template - the Greek tragedy, explored through a rise-and-fall arc. Charlie's transformation, though, is due to factors completely out of his control.
 
-![alt](featuredSmall.jpg)
+![Cover of Flowers for Algernon by Daniel Keyes](featuredSmall.jpg)
 
 # Plot
 

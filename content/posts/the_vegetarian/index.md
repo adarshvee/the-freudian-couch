@@ -11,7 +11,7 @@ tags = ["Absurdism", "Book Review", "Books", "Literary Fiction"]
 
 *Han Kang*’s **The Vegetarian** is one of my quickest reads in recent times. But I am doing a disservice to the difficulty of reading the book when I say that out loud. Engrossing, yes, but also challenging. Han Kang mixes East-Asian modernism popularized by the likes of *Yasunari Kawabata* with the existentialism of *Franz Kafka* to examine South-Korean culture and family structure, and the status of women in both. The book is structured as a three-part novel, adding up to less than 200 pages. Each part is narrated from the perspective of a different person, and together portray the distance between close family members. 
 
-**![alt](featuredSmall.jpeg)
+**![Cover of The Vegetarian by Han Kang](featuredSmall.jpeg)
 
 # Part 1 - The Vegetarian
 

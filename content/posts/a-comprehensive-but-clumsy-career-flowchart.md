@@ -30,7 +30,7 @@ Ever since the overwhelmingly positive response by all of my one and half reader
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/a-comprehensive-but-clumsy-career-flowchart/Diagram1__568818ae.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/a-comprehensive-but-clumsy-career-flowchart/Diagram1__17312d98.jpeg" /></a></div>
+<a href="/images/blogger/a-comprehensive-but-clumsy-career-flowchart/Diagram1__568818ae.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A sprawling flowchart of career paths in which every branch — passion, money, giving up, trudging on — eventually terminates in some flavour of “career is overrated”" border="0" src="/images/blogger/a-comprehensive-but-clumsy-career-flowchart/Diagram1__17312d98.jpeg" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">

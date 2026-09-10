@@ -33,7 +33,7 @@ Hold on! If you have been reading my blog posts for a reasonable amount of time 
 <span style="orphans: 2; text-align: -webkit-auto; widows: 2;"><br /></span></div>
 <div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="/images/blogger/entropy-and-orderliness/Sisyphus-Image-01C__0596f67a.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="158" src="/images/blogger/entropy-and-orderliness/Sisyphus-Image-01C__a8a39577.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/blogger/entropy-and-orderliness/Sisyphus-Image-01C__0596f67a.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="A man pushing a boulder up a rock face" border="0" height="158" src="/images/blogger/entropy-and-orderliness/Sisyphus-Image-01C__a8a39577.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Sysiphus</td></tr>
 </tbody></table>
 <span style="orphans: 2; text-align: -webkit-auto; widows: 2;"><span id="goog_1967633972"></span><span id="goog_1967633973"></span><br /></span></div>

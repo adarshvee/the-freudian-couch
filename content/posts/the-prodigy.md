@@ -38,7 +38,7 @@ With a collective sigh of relief, the audience continued their applause. Radha t
 <i>She will be fine."</i> Saying so, he opened the door of his sedan, hesitated a little, and spoke again -- this time in an uncharacteristically soft and faraway voice -- <i>"I will retire from teaching dance once her Arengetram is over. She will be my last student. She will be the best."</i><br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-prodigy/dancing1__021d00ca.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1301" height="320" src="/images/blogger/the-prodigy/dancing1__777487c4.jpg" width="260" /></a></div>
+<a href="/images/blogger/the-prodigy/dancing1__021d00ca.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A silhouette of a dancer in a classical Indian pose" border="0" data-original-height="1600" data-original-width="1301" height="320" src="/images/blogger/the-prodigy/dancing1__777487c4.jpg" width="260" /></a></div>
 <br />
 <br />
 <div>

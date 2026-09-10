@@ -30,7 +30,7 @@ Life is Beautiful</h2>
 A strange title, one would say, in a post that is supposed to touch upon the the possibility that life has no intrinsic meaning or value. But, I am trying to draw your attention to the wonderful movie with the same name &nbsp;directed by Robert Benigni. In an unlikely case that you haven't seen this movie, I advise you to see it as soon as possible. Here is the plot of the movie in short : Guido Orefice (Robert Benigni) is an Italian Jew blessed with immense wit and humour. He charms a schoolteacher, Dora, and they both get married. Leading a perfectly happy life, they proudly watch their son - Giosue - grow into a 5-year old, until they face the horrific political situation around them. They are arrested by Nazis for being Jews, and sent to a concentration camp. Orefice makes his son believe that they are on a holiday, playing a complicated game. He takes immense risks to convince his son that they have a good chance of winning the game, if only the boy follows a certain set of "rules". Throughout their time at the concentration camp, Orefice suffers, but protects his son from the brutal truth. The movie ends with a grown up Giosue (who narrates the whole story in flashback) saying "This is my story. This is the sacrifice my father made. This is his gift to me."</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-undesirability-of-truth/LifeisBeatiful__3a3e9409.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/the-undesirability-of-truth/LifeisBeatiful__a9bbd4be.jpg" width="231" /></a></div>
+<a href="/images/blogger/the-undesirability-of-truth/LifeisBeatiful__3a3e9409.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="French poster for Life Is Beautiful, Roberto Benigni beside a small boy and a bicycle" border="0" height="320" src="/images/blogger/the-undesirability-of-truth/LifeisBeatiful__a9bbd4be.jpg" width="231" /></a></div>
 <br />
 <br />
 <div>
@@ -61,7 +61,7 @@ Would you? Is hope so important that truth can take a backseat? I would say not 
 Whenever I hear this quote, I am invariably reminded of The Matrix, and the character of Cypher. Cypher is the character who strikes a deal with The Agents -he would lay a trap for Morpheus in return for being sent back to The Matrix as a rich and powerful man, with no memories of the "truth". Cypher is a perfect example that there are quite a few people who would like to escape reality, if it is full of suffering.</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-undesirability-of-truth/Cypher__5c8aa279.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="141" src="/images/blogger/the-undesirability-of-truth/Cypher__5b1375fd.png" width="320" /></a></div>
+<a href="/images/blogger/the-undesirability-of-truth/Cypher__5c8aa279.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Joe Pantoliano as Cypher in The Matrix, a forkful of steak halfway to his mouth" border="0" height="141" src="/images/blogger/the-undesirability-of-truth/Cypher__5b1375fd.png" width="320" /></a></div>
 <br />
 <br />
 <div>

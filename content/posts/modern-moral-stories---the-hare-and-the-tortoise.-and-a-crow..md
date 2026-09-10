@@ -16,7 +16,7 @@ Once upon a time, a Hare and a Tortoise happened to meet at a village. Being old
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./tommy__e68d0537.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./tommy__e7fd429d.gif" width="248" /></a></div>
+<a href="/images/blogger/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./tommy__e68d0537.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A cartoon tortoise in a red hat standing beside a tall, grinning hare" border="0" height="320" src="/images/blogger/modern-moral-stories---the-hare-and-the-tortoise.-and-a-crow./tommy__e7fd429d.gif" width="248" /></a></div>
 <div>
 <br /></div>
 <div>

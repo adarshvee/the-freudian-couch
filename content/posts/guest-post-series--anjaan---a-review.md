@@ -29,7 +29,7 @@ He had more surprise for us in store as he started a blog soon. Though he hasn't
 <div>
 <span><br /></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series--anjaan---a-review/10350618_703884633039848_6184319377554270064_n__5f293e59.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--anjaan---a-review/10350618_703884633039848_6184319377554270064_n__5f293e59.jpg" height="300" width="480" /></span></a></div>
+<a href="/images/blogger/guest-post-series--anjaan---a-review/10350618_703884633039848_6184319377554270064_n__5f293e59.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img alt="A Tamil film meme captioned “My reaction before going to Anjaan movie”" border="0" src="/images/blogger/guest-post-series--anjaan---a-review/10350618_703884633039848_6184319377554270064_n__5f293e59.jpg" height="300" width="480" /></span></a></div>
 <div>
 <span><br /></span></div>
 <div>
@@ -47,7 +47,7 @@ He had more surprise for us in store as he started a blog soon. Though he hasn't
 <span><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series--anjaan---a-review/1__d3106564.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--anjaan---a-review/1__d3106564.jpg" /></span></a></div>
+<a href="/images/blogger/guest-post-series--anjaan---a-review/1__d3106564.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img alt="Four small boys pointing toy guns at the camera" border="0" src="/images/blogger/guest-post-series--anjaan---a-review/1__d3106564.jpg" /></span></a></div>
 <span><br /></span>
 <span><br /></span>
 <br />
@@ -68,7 +68,7 @@ He had more surprise for us in store as he started a blog soon. Though he hasn't
 <span><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/guest-post-series--anjaan---a-review/1610784_704943446267300_2008385430787493242_n__9a39dd9d.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img border="0" src="/images/blogger/guest-post-series--anjaan---a-review/1610784_704943446267300_2008385430787493242_n__9a39dd9d.jpg" height="575" width="280" /></span></a></div>
+<a href="/images/blogger/guest-post-series--anjaan---a-review/1610784_704943446267300_2008385430787493242_n__9a39dd9d.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span><img alt="A Tamil troll meme of two policemen arguing about how a don ought to behave" border="0" src="/images/blogger/guest-post-series--anjaan---a-review/1610784_704943446267300_2008385430787493242_n__9a39dd9d.jpg" height="575" width="280" /></span></a></div>
 <span><br /></span>
 <span><br /></span>
 <span>Bottomline: Rajju Bhai has made Viswha bhai a better bhai (Acha Kidar?).</span><br />

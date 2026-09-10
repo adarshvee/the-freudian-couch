@@ -27,7 +27,7 @@ Something about the modern lifestyle makes us to be in such a state. Everything 
 A lot of impatience we seem to have acquired follows from the free market structure. I can definitely feel this in a country like India, where people have just started getting used to luxuries a few other nations take for granted. After all, why sweat on our way to work when folks from Western countries have been travelling comfortably in cars for decades? &nbsp;However, with our population, the ambitions of every one of us to get rich put together will turn out to be destructive. Would Ola and Uber drivers drive so damn rashly if they were not incentivized for completing more trips at a faster rate? &nbsp;As corporates try to squeeze in as much as they can from their employees, work has become the central focus for many of us. We don't mind that we are ignoring people close to us. We don't mind knocking out a couple of people on our way to work. After all, work is worship.</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/hurry-up/sisyphus-stressed-time-man__5f341940.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="234" src="/images/blogger/hurry-up/sisyphus-stressed-time-man__51ec9af0.jpg" width="320" /></a></div>
+<a href="/images/blogger/hurry-up/sisyphus-stressed-time-man__5f341940.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A man pushing a giant clock up a hillside" border="0" height="234" src="/images/blogger/hurry-up/sisyphus-stressed-time-man__51ec9af0.jpg" width="320" /></a></div>
 <br />
 <div>
 <br /></div>

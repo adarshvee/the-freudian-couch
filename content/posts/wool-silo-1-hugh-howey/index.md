@@ -11,7 +11,7 @@ tags = ["Books", "Book Review", "Dystopian", "Science Fiction"]
 
 I had an awareness of *Hugh Howey*'s self-publishing success story before I started reading his immensely popular **Wool** (part # 1 of the **Silo** series). What I hadn't known was that Hugh's journey began with a self-contained short-story titled *Holston* as an outlet for his personal grief. The unexpected success of this story prompted Hugh to write four more novellas. The combination of these five short stories cum novellas together make Wool.
 
-![alt](featuredSmall.jpeg)
+![Cover of the Wool audiobook by Hugh Howey](featuredSmall.jpeg)
 
 ## On Speculative Dystopian novels
 

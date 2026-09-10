@@ -12,7 +12,7 @@ url = "2017/07/nithya.html"
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/nithya/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965__633dce94.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="939" height="320" src="/images/blogger/nithya/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965__5e2edd17.jpg" width="188" /></a></div>
+<a href="/images/blogger/nithya/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965__633dce94.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A silhouette of a child running in school uniform" border="0" data-original-height="1600" data-original-width="939" height="320" src="/images/blogger/nithya/stock-vector-silhouette-of-a-child-running-in-school-uniform-boy-209921965__5e2edd17.jpg" width="188" /></a></div>
 <div>
 <br /></div>
 <div>

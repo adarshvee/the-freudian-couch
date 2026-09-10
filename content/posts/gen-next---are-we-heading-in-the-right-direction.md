@@ -29,7 +29,7 @@ Having led a mostly impassive life, today was one of those occasions when I felt
 <a href="http://en.wikipedia.org/wiki/The_Dirty_Picture" target="_blank">The Dirty Picture</a> was scheduled to be screened in Setmax this afternoon. It seems the channel had acquired a clearance from the Bombay High Court, and was all set to screen the movie as per schedule (with quite a lot of cuts). Just before the&nbsp;scheduled&nbsp;time, the <a href="http://www.ndtv.com/article/india/tv-telecast-of-the-dirty-picture-stalled-air-it-after-11-pm-says-govt-200760" target="_blank">Ministry of Information and Broadcast</a>, having suddenly decided that the movie is not proper for matinee viewing, directed the channel not to screen the movie during daytime, and to screen it after 11 PM instead. Now, this was just a passing news for page 3. I was not even aware of this snippet of information until I logged into twitter. What greeted me was an combined outrage by all the twitterati and twitteople. Having nothing better to do, I decided to click on the trending topics, and see what the fuss is all about. I saw that almost everyone seemed to be outraged at the fact that the Government was trying to decide what is suitable for us.</div>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="/images/blogger/gen-next---are-we-heading-in-the-right-direction/Untitled2__7ffb7912.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="344" src="/images/blogger/gen-next---are-we-heading-in-the-right-direction/Untitled2__9371a6c5.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/images/blogger/gen-next---are-we-heading-in-the-right-direction/Untitled2__7ffb7912.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="A 2012 Twitter search for “The Dirty Picture”, filled with tweets about the film’s telecast being pulled" border="0" height="344" src="/images/blogger/gen-next---are-we-heading-in-the-right-direction/Untitled2__9371a6c5.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">The Dirty Picture trending on twitter</td></tr>
 </tbody></table>
 <br />
@@ -46,7 +46,7 @@ Let me declare at the outset that I have nothing against the movie. In fact, I h
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/gen-next---are-we-heading-in-the-right-direction/anarchy-no-government-like-no-government__59f0a1dc.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/gen-next---are-we-heading-in-the-right-direction/anarchy-no-government-like-no-government__59f0a1dc.png" /></a></div>
+<a href="/images/blogger/gen-next---are-we-heading-in-the-right-direction/anarchy-no-government-like-no-government__59f0a1dc.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="An anarchy symbol captioned “There’s no government like no government”" border="0" src="/images/blogger/gen-next---are-we-heading-in-the-right-direction/anarchy-no-government-like-no-government__59f0a1dc.png" /></a></div>
 <div>
 <br /></div>
 <div>

@@ -14,7 +14,7 @@ People from *Tamil Nadu*, as I implied, are extremely proud of their language. W
 
 My wife grew up in *Tamil Nadu* too, but her mother tongue is a language called *Konkani*. She and I converse in *Tamil*. We have a son. When my son was born, we briefly considered if we should be deliberate about the language we speak to him in. We could, as many people justifiably do these days, especially in the *USA*, default to *English*. We definitely did not want a *Tower of Babel* situation within the house. But then, we are vibe-parents, and we each started talking to my son in our own language. When we explained to his first pediatrician that I speak to my son in language A, my wife speaks to him in language B, and my wife and I speak to each other in language C, he was encouraging. A subsequent pediatrician was aghast and implied that while being bilingual is good, this is too much. By then, it was too late.
 
-![alt](featuredSmall.png)
+![A tower of Babel built out of speech bubbles in many scripts, a small figure standing at its foot with arms raised](featuredSmall.png)
 
 My son now speaks fluently in *Konkani*, *English*, and *my-version-of-Kannada*. He is constantly around *Tamil* and listens to my favorite *Tamil* songs. He seems to understand the language, but in his mind, the language is just an extension of *my-version-of-Kannada*. He is also being introduced to *Spanish* in his school, but he denies knowing any words in the language. I can't help but suspect that he is just pretending. What in the world would give me that idea?
 

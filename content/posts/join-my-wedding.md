@@ -21,7 +21,7 @@ I learnt today that there is a <a href="https://www.joinmywedding.com/" target="
 <span><br /></span>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/join-my-wedding/AR-301069997__9138cbad.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="332" data-original-width="504" height="211" src="/images/blogger/join-my-wedding/AR-301069997__949f293c.jpg" width="320" /></a></div>
+<a href="/images/blogger/join-my-wedding/AR-301069997__9138cbad.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Two gold wedding rings resting on a heap of dollar bills" border="0" data-original-height="332" data-original-width="504" height="211" src="/images/blogger/join-my-wedding/AR-301069997__949f293c.jpg" width="320" /></a></div>
 <span><br /></span> <span><br /></span></div>
 <div style="margin: 0in;">
 <span>I can't help but wonder, who pays to attend a wedding?&nbsp; Even in my prime days of gregariousness (let me think.. that one Saturday 4 years back, and one other time),&nbsp; I would rather not attend a wedding. I mean, weddings are nice and all, but the representative Indian wedding is made up of more than dancing, flavourful food, fashionable gaudy clothes, and fancy celebrations. Most Indian weddings are made up of crippling debts,&nbsp;</span>unwilling protagonists,&nbsp;<span>simmering family feuds</span>,<span>&nbsp;the bawling child who slipped from a chair and hurt her nose,&nbsp; unsatisfied guests and the mysterious thief who steals half a pair of footwear.</span></div>

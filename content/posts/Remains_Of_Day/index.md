@@ -13,7 +13,7 @@ Just about 20  pages into **The Remains of the Day**, in the first of three very
 > ‘Oh, I’m not in a hurry at all,’ I said with a smile. ‘For the first time in many a year, I’m able to take my time and I must say, it’s rather an enjoyable experience. I’m just motoring for the pleasure of it, you see.’
 # Background and Setting
 
-![alt](featuredSmall.jpeg)
+![Cover of The Remains of the Day by Kazuo Ishiguro](featuredSmall.jpeg)
 
 *The Remains of the Day* is set in 1956. Mr. Stevens reminisces about his time serving as the butler to Lord Darlington between the two major World Wars. This is a period of dramatic upheaval throughout the World, but especially in Britain. Fascism is rising in Europe, and the British empire is gradually imploding. The subsequent end of the World War II sees the rise in dominance of a new World power - the USA. Ishiguro represents this shift with Mr. Stevens now serving an American master. However, Mr. Farraday, a man of considerable wealth, is still an outsider, viewing the uppityness of the British with amusement. The profession of the butler is slowly becoming a relic of the past, and Mr. Stevens is doing his best to adapt to changing times.
 # Narrative structure

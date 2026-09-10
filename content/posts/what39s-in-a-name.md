@@ -50,7 +50,7 @@ If the meaning behind your name affects your inner identity, there are other way
 But what is life if not a set of small compromises, which you concede so that you get the bargaining power for the more important things? In fact, when I was informed that my name was supposed to have been spelt as Aadarsh if not for a clerical error on the part of the helpful guy who printed out my birth certificate, I took solace looking at what might have been. I got through all these little hurdles and finally started becoming used to my name. I even start loving it. I was so obsessed with my name that I went to Google to type in "Adarsh is a", and this is what I got :</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/what39s-in-a-name/AdarshIsA__7b2f2d15.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/what39s-in-a-name/AdarshIsA__7b2f2d15.png" height="267" width="811" /></a></div>
+<a href="/images/blogger/what39s-in-a-name/AdarshIsA__7b2f2d15.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="A Google search box reading “adarsh is a”, autocompleting to “taran adarsh is an idiot”" border="0" src="/images/blogger/what39s-in-a-name/AdarshIsA__7b2f2d15.png" height="267" width="811" /></a></div>
 <div>
 <br />
 <br />
@@ -88,7 +88,7 @@ A lesser soul would have given up by now. But not me. If such embarrassments are
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/what39s-in-a-name/Nicknames__2e9a9e90.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/what39s-in-a-name/Nicknames__2e9a9e90.gif" /></a></div>
+<a href="/images/blogger/what39s-in-a-name/Nicknames__2e9a9e90.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A cartoon birthday party in which every guest calls the same girl a different name — Elizabeth, Betty, Liz, Lisa, Beth, Wiz" border="0" src="/images/blogger/what39s-in-a-name/Nicknames__2e9a9e90.gif" /></a></div>
 <div>
 <br /></div>
 <div>

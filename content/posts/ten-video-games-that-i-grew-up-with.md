@@ -22,7 +22,7 @@ When I see the variety and detail in video games today, I never cease to be amaz
 <div>
 I apologise for the not-so-catchy-sounding title, but if you stretch your memory a litttle, you will remember that hand-held games we grew up with did not have names. They had numbers, and in my own device, the car games were numbered B1 to B4. The concept was simple. You are riding a car in what can be imagined as a two lane highway. The only aim of the game is that you should not crash with the cars coming in the oppsite direction. Yet, this game was completely engrossing. I remember starting with level 1, where the car would move slowly, and the speed would get increased as we gather more speed. In case I stirred your nostalgia a little, have a look at this <a href="http://www.youtube.com/watch?v=rUcxD9_6eiM" target="_blank">video</a>.&nbsp;</div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__bfe50f83.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="244" src="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__03b88424.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__bfe50f83.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A handheld Brick Game console, “9999 in 1”" border="0" height="244" src="/images/blogger/ten-video-games-that-i-grew-up-with/BrickVideoGame__03b88424.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both;">
@@ -32,7 +32,7 @@ I am sure this is up high on everyone's list. I won't waste time by trying to de
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__56c2ffc4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__4a0b1f05.png" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__56c2ffc4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A level of Super Mario War, sprites scattered across green platforms" border="0" height="240" src="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__4a0b1f05.png" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -66,7 +66,7 @@ I saw this game for the first time when a school mate took me to a browsing cent
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__56c2ffc4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__4a0b1f05.png" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__56c2ffc4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A level of Super Mario War, sprites scattered across green platforms" border="0" height="240" src="/images/blogger/ten-video-games-that-i-grew-up-with/super_mario_war__4a0b1f05.png" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -78,7 +78,7 @@ I discovered this game along with a couple of my cousins, and we were awed by th
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/TeutonicKnight__58161b14.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/ten-video-games-that-i-grew-up-with/TeutonicKnight__58161b14.jpg" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/TeutonicKnight__58161b14.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A Teutonic Knight in Age of Empires II" border="0" src="/images/blogger/ten-video-games-that-i-grew-up-with/TeutonicKnight__58161b14.jpg" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -91,7 +91,7 @@ I have always had a fascination for cricket games, and EA Cricket is here purely
 <div class="separator" style="clear: both;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___cbdb547a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="224" src="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___c72de76c.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___cbdb547a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A batsman facing a delivery in EA Sports Cricket 07" border="0" height="224" src="/images/blogger/ten-video-games-that-i-grew-up-with/_-EA-Sports-Cricket-07-PS2-___c72de76c.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -103,7 +103,7 @@ This was a game that originated from a less interesting version in Brick video g
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/Snake__98d985ca.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/ten-video-games-that-i-grew-up-with/Snake__98d985ca.jpg" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/Snake__98d985ca.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="The Snake game on a monochrome handheld screen" border="0" src="/images/blogger/ten-video-games-that-i-grew-up-with/Snake__98d985ca.jpg" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -115,7 +115,7 @@ The best cricket game ever, its only drawback being that the game is very fast p
 <div class="separator" style="clear: both;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__c1ed242b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__0711e4e1.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__c1ed242b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="The Stick Cricket logo, a stick figure playing a shot" border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/10de9beeb1f7413286a8b6b6e7a32d1f__0711e4e1.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both;">
 <br /></div>
 <br />
@@ -128,7 +128,7 @@ I discovered this game when I got a laptop during the&nbsp;beginning&nbsp;of the
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__40c4dcfa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__14ca1947.png" width="214" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__40c4dcfa.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A game of 3D Ping Pong seen from behind the paddle" border="0" height="320" src="/images/blogger/ten-video-games-that-i-grew-up-with/3d-ping-pong-10-1__14ca1947.png" width="214" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both;">
@@ -138,7 +138,7 @@ I came across this game in a friend's Sony Ericson mobile in my third year. The 
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__9e50a437.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="214" src="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__ec10fc61.jpg" width="320" /></a></div>
+<a href="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__9e50a437.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Johnny Crash, a stunt-rider game set in a desert" border="0" height="214" src="/images/blogger/ten-video-games-that-i-grew-up-with/johnny-crash__ec10fc61.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both;">

@@ -16,7 +16,7 @@ url = "2014/08/oiling-happiness.html"
 A couple of months back, I was having one of those sudden urges I occasionally get to read a book immedietely. Such urges have an uncanny ability to creep in exactly when there is not a single good book within reach. But they are also compulsive, and I couldn't give up. I scoured my uncle's place thoroughly, and located a few books that I had to do with. One of them was this interesting looking book that you see below. Since my work is related vaguely to the oil and gas industry, I decided to do something that I seldom do : mix business with pleasure.</span></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/oiling-happiness/2014-04-04-13.25.37-1__a85b220c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/oiling-happiness/2014-04-04-13.25.37-1__a85b220c.jpg" height="1600" width="1200" /></a></div>
+<a href="/images/blogger/oiling-happiness/2014-04-04-13.25.37-1__a85b220c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A library copy of Oil for the World by Stewart Schackne and N. D’Arcy Drake, still carrying its Qatar Petroleum barcode" border="0" src="/images/blogger/oiling-happiness/2014-04-04-13.25.37-1__a85b220c.jpg" height="1600" width="1200" /></a></div>
 <br />
 <div>
 <span>

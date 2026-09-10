@@ -24,7 +24,7 @@ Wanting to write a series of articles on how I feel about motivational messages,
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-success-series--the-dog-and-the-buffalo/Success-Starts-Here-Freeway-Style-Desert-Landscape__5db41f7e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-success-series--the-dog-and-the-buffalo/Success-Starts-Here-Freeway-Style-Desert-Landscape__5db41f7e.jpg" height="1200" width="1600" /></a></div>
+<a href="/images/blogger/the-success-series--the-dog-and-the-buffalo/Success-Starts-Here-Freeway-Style-Desert-Landscape__5db41f7e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A green highway sign reading “Success Starts Here”" border="0" src="/images/blogger/the-success-series--the-dog-and-the-buffalo/Success-Starts-Here-Freeway-Style-Desert-Landscape__5db41f7e.jpg" height="1200" width="1600" /></a></div>
 <div>
 <br /></div>
 <div>

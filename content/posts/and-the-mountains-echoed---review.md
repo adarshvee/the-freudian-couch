@@ -42,7 +42,7 @@ url = "2013/06/and-mountains-echoed-review.html"
 <span>
 </span>
 <div class="separator" style="clear: both; text-align: center;">
-<span><a href="/images/blogger/and-the-mountains-echoed---review/And-The-Mountains__d398e4f6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/and-the-mountains-echoed---review/And-The-Mountains__d398e4f6.jpg" /></a></span></div>
+<span><a href="/images/blogger/and-the-mountains-echoed---review/And-The-Mountains__d398e4f6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of And the Mountains Echoed by Khaled Hosseini" border="0" src="/images/blogger/and-the-mountains-echoed---review/And-The-Mountains__d398e4f6.jpg" /></a></span></div>
 <span>
 <div>
 <span><br /></span></div>

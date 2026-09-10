@@ -30,7 +30,7 @@ Of course, I’m being rude. I’m spoiling the ending, not only of the entire b
 The Book Thief by Markus Zusak is a fairly modern novel, but it is yet another story set during World War 2 Germany. The Book Thief reminds me -- due to my own ability/snag of relating completely unrelated things -- a lot of <i>Odd Thomas</i> by Dean Koontz; another profound book. Both The Book Thief and Odd Thomas are stories set in the backdrop of immense tragedies, and told with an unexpected sense of humour. The narrators in both the stories seem to be attempting to gloss over the tragic parts by narrating the events with a detachment. The tragedy is so pronounced in both the stories that it still manages to creep in, with far more impact than it would have otherwise. Odd Thomas is mostly about the struggles of one person in dealing with his tragedies, whereas The Book Thief is about the tragedy of a country, or even humanity as a whole.<br>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-book-thief---review/BookThief__16011f6d.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-book-thief---review/BookThief__16011f6d.jpg" height="1576" width="1036"></a></div>
+<a href="/images/blogger/the-book-thief---review/BookThief__16011f6d.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Cover of The Book Thief by Markus Zusak" border="0" src="/images/blogger/the-book-thief---review/BookThief__16011f6d.jpg" height="1576" width="1036"></a></div>
 <br></div>
 </div>
 <div class="MsoNormal" style="text-align: left;">

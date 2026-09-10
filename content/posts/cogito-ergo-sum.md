@@ -28,7 +28,7 @@ Desecrates was a rationalist. He was aware of the possibility that anything we s
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/cogito-ergo-sum/cogito-ergo-sum-consciousness-2__bf48a42a.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/cogito-ergo-sum/cogito-ergo-sum-consciousness-2__bf48a42a.gif" height="467" width="530" /></a></div>
+<a href="/images/blogger/cogito-ergo-sum/cogito-ergo-sum-consciousness-2__bf48a42a.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A cartoon of a man sitting on a chair inside his own thought bubble, reading a book titled Cogito Ergo Sum" border="0" src="/images/blogger/cogito-ergo-sum/cogito-ergo-sum-consciousness-2__bf48a42a.gif" height="467" width="530" /></a></div>
 <div>
 <br /></div>
 <div>

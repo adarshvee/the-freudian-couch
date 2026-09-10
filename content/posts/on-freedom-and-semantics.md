@@ -16,7 +16,7 @@ A stone thrown up in the air has to come back down. This is the undefiable law o
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/on-freedom-and-semantics/be-free__9e62abc7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/on-freedom-and-semantics/be-free__9e62abc7.jpg" height="466" width="500" /></a></div>
+<a href="/images/blogger/on-freedom-and-semantics/be-free__9e62abc7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A blue feather with “be free” written across it" border="0" src="/images/blogger/on-freedom-and-semantics/be-free__9e62abc7.jpg" height="466" width="500" /></a></div>
 <div>
 <br /></div>
 <div>

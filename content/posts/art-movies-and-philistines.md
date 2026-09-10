@@ -22,7 +22,7 @@ url = "2013/07/art-movies-and-philistines.html"
 <center>
 
 <dl class="wp-caption foter-photo" id="foter-photo-figure" style="border-bottom-left-radius: 3px; border-bottom-right-radius: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; border: 1px solid rgb(221, 221, 221); overflow: hidden; padding: 4px; position: relative; width: 325px; zoom: 1;">
-<dt class="wp-caption-dt"><a href="http://foter.com/photo/woody-allen/"><img class="foter-photo mceItem" src="/images/blogger/art-movies-and-philistines/2399051630_05d104b504_b__879a5f2b.jpg" style="display: block; width: 100%;" width="1023" height="823" /></a></dt>
+<dt class="wp-caption-dt"><a href="http://foter.com/photo/woody-allen/"><img alt="A signed publicity photograph of Woody Allen, inscribed “To Alan, best wishes”" class="foter-photo mceItem" src="/images/blogger/art-movies-and-philistines/2399051630_05d104b504_b__879a5f2b.jpg" style="display: block; width: 100%;" width="1023" height="823" /></a></dt>
 <dd class="wp-caption-dd" style="margin: 0; padding: 0;"><span style="display: block; float: right;"><a href="http://www.flickr.com/photos/alan-light/2399051630/">Alan Light</a> / <a href="http://foter.com/">Foter</a> / <a href="http://www.eduteka.pl/doc/cc-by">CC BY</a></span></dd></dl>
 <div>
 </div>

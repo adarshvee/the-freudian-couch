@@ -11,7 +11,7 @@ tags = ["Books", "Book Review", "Thriller"]
 
 As a teenager, I enjoyed spy thrillers and action adventures. *Alistair MacLean*, *Robert Ludlum*, and *Frederik Forsyth* were among the authors I gravitated towards. I have read some of *John le Carr&eacute;*'s works, and I knew that his mold of spy thrillers is not the same. Unlike many other writers of the genre, his focus is not on the mechanics of espionage itself, but on the humans involved. Nevertheless, I purchased his **The Russia House** from a library book sale hoping that the genre would still entertain me. Though I’d picked it up long ago, the theme felt both too relevant and not relevant enough—so it sat untouched on my shelf until now. I finally gave it a shot, and I can report that well written spy thrillers still interest me. *The Russia House's* core thesis -- once we remove the veneers of flags and idealism, humanity is not so different across borders -- is timeless.
 
-![alt](featuredSmall.jpeg)
+![Cover of The Russia House by John le Carré](featuredSmall.jpeg)
 ## Plot and setting
 
 >"We all thought science could rule the world. Well I suppose it does now, though not in the way it was meant to be."

@@ -15,19 +15,19 @@ url = "2015/01/george-carlin-tees.html"
 Humanity is doomed. I am basing this statement on the fact that we -- almost each one of us -- are filled with half stupidity and half greed : a deadly combination. There are, and there have been a few exceptional people though, who have transcended the average stupidity, and drawn attention to this fact repeatedly. Here is one such; one of my favorites - George Carlin, presented in unusual avatars.</div>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/george-carlin-tees/Carlin1__5cb2dd62.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/george-carlin-tees/Carlin1__5cb2dd62.jpg" height="689" width="720"></a></div>
+<a href="/images/blogger/george-carlin-tees/Carlin1__5cb2dd62.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A black T-shirt printed with George Carlin’s face and the line “I don’t have pet peeves, I have major psychotic fucking hatreds!”" border="0" src="/images/blogger/george-carlin-tees/Carlin1__5cb2dd62.jpg" height="689" width="720"></a></div>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/george-carlin-tees/Carlin4__617092fa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/george-carlin-tees/Carlin4__617092fa.jpg" height="648" width="648"></a></div>
+<a href="/images/blogger/george-carlin-tees/Carlin4__617092fa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A T-shirt for Carlin’s special Life Is Worth Losing" border="0" src="/images/blogger/george-carlin-tees/Carlin4__617092fa.jpg" height="648" width="648"></a></div>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/george-carlin-tees/Carlin5__e6212cb2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/george-carlin-tees/Carlin5__e6212cb2.jpg" height="550" width="550"></a></div>
+<a href="/images/blogger/george-carlin-tees/Carlin5__e6212cb2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A white T-shirt with a pencil portrait of a young, bearded George Carlin" border="0" src="/images/blogger/george-carlin-tees/Carlin5__e6212cb2.jpg" height="550" width="550"></a></div>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/george-carlin-tees/carlin_planet__8096611b.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/george-carlin-tees/carlin_planet__8096611b.gif" height="413" width="400"></a></div>
+<a href="/images/blogger/george-carlin-tees/carlin_planet__8096611b.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A T-shirt printed with Carlin pointing at the viewer and the line “The planet isn’t going anywhere… we are!”" border="0" src="/images/blogger/george-carlin-tees/carlin_planet__8096611b.gif" height="413" width="400"></a></div>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/george-carlin-tees/george_carlin_me__f5386424.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/george-carlin-tees/george_carlin_me__f5386424.jpg" height="528" width="450"></a></div>
+<a href="/images/blogger/george-carlin-tees/george_carlin_me__f5386424.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A man wearing a Last Words T-shirt showing Carlin sitting on a stoop" border="0" src="/images/blogger/george-carlin-tees/george_carlin_me__f5386424.jpg" height="528" width="450"></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br></div>
 <div class="separator" style="clear: both;">
@@ -39,7 +39,7 @@ My research abilities are inadequate to determine who makes money out of all Geo
 To top it all, the best of the lot I could find online is this image of Geroge Carlin, on a sleeveless shirt.<br>
 <br>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/george-carlin-tees/Carlin6__95923440.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/george-carlin-tees/Carlin6__95923440.jpg" height="380" width="380"></a></div>
+<a href="/images/blogger/george-carlin-tees/Carlin6__95923440.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="A sleeveless shirt with a stark black-and-white portrait of George Carlin, 1937–2008" border="0" src="/images/blogger/george-carlin-tees/Carlin6__95923440.jpg" height="380" width="380"></a></div>
 <br>
 Care to find out what George Carlin thought about sleeveless shirts? Watch this video :<br>
 &nbsp;<span id="goog_1194343027"></span><span id="goog_1194343028"></span> <br>

@@ -36,7 +36,7 @@ One of the major reasons for my rekindled love for books is my new Kindle EInk. 
 I seek books as a cure for depression, and ironically the kind of books that accentuate it. In a rare occasion where I get to show my work skills outside of it, I have charted out a flowchart that depicts a normal working day in my life.&nbsp;</div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="/images/blogger/the-depression-flowchart/Depression__fbae4392.jpeg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/blogger/the-depression-flowchart/Depression__fbae4392.jpeg" /></a></div>
+<a href="/images/blogger/the-depression-flowchart/Depression__fbae4392.jpeg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="A flowchart of a day in the life of a blogger, running from waking up late through an indifferent day at the office and a blog post nobody replies to, and ending where it always ends — reading another book" border="0" src="/images/blogger/the-depression-flowchart/Depression__fbae4392.jpeg" /></a></div>
 <br />
 <br />
 <br />
