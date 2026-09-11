@@ -1,0 +1,31 @@
+/* Custom CSS for The Freudian Couch.
+ *
+ * Blowfish ships PREBUILT Tailwind, so utility classes the theme does not already
+ * use do not exist and silently do nothing. Everything here is hand-written CSS
+ * against the theme's own variables and classes. Do not "tidy" it into utilities.
+ */
+
+/* ---------------------------------------------------------------------------
+ * Centre the article column on wide screens.
+ *
+ * The theme lays an article out as a flex row: the prose in one column, and
+ * space beside it for a table of contents. This site has showTableOfContents
+ * off by choice, so that sidebar never renders — leaving the prose pinned to
+ * the left with roughly 370px of permanently empty margin at a 1440px viewport.
+ *
+ * Two rules are needed because the header and the body are constrained
+ * differently: the <header> is itself max-w-prose (so auto margins centre it),
+ * while the <section> is max-w-full and centres via its flex alignment.
+ *
+ * Kept behind the same 1024px breakpoint the theme uses to switch to flex-row,
+ * so narrow screens are untouched.
+ * ------------------------------------------------------------------------ */
+@media (min-width: 1024px) {
+  article > header {
+    margin-inline: auto;
+  }
+
+  article > section {
+    justify-content: center;
+  }
+}
