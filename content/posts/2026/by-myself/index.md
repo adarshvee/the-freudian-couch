@@ -4,6 +4,7 @@ url = "2026/03/by-myself"
 date = 2026-03-07
 description = "a literary fiction that captures the fragile, everyday negotiations between a child’s stubborn independence and a mother’s weary resilience"
 tags = ["Childhood", "Literary Fiction", "Short Story"]
+showRelatedContent = false
 +++
 
 “Yes, her school is closed today, ma,” Amma said on the phone.

@@ -4,6 +4,7 @@ url = "2026/08/mahajaya"
 date = 2026-08-24
 description = "A modern retelling of the Mahabharata set among Delhi University students, fought out over campus politics and a game of Kabaddi."
 tags = ["Book Review", "Books", "Mythology"]
+showRelatedContent = false
 +++
 
 The Indian epic Mahabharata is said to contain every story that can ever be told. It is also dismissed by detractors as a “horrible chaos”. When I recently read the first of Ramesh Menon’s two volume translations of the book, I had a dual reaction : part-frustration and part-awe. My favorite parts of the story are the many side-quests and smaller episodes that make up the book. 

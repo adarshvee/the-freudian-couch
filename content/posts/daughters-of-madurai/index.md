@@ -4,6 +4,7 @@ url = "2025/10/daughters-of-madurai-variya.html"
 date = 2025-10-29
 tags = ["Book Review", "Books", "Indian Literature", "Literary Fiction"]
 description = "This novel dealing with Female Infanticide in India works in parts, but some glaring mistakes stop from feeling authentic."
+showRelatedContent = false
 +++
 
 > “.. some things are not important to tell. And even .." she hesitates. “Some things that you shouldn't tell. The past is gone, no?" 

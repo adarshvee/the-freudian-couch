@@ -4,6 +4,7 @@ url = "2026/07/loneliness-sonia-sunny"
 date = 2026-07-02
 description = "A sprawling tale of romance and loneliness that spans India, the USA and a few other countries"
 tags = ["Book Review", "Books", "Literary Fiction"]
+showRelatedContent = false
 +++
 
 > “Why do we try to solve other problems? There is only one that is necessary to solve.”\

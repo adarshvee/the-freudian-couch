@@ -4,6 +4,7 @@ url = "2026/06/trinkets"
 date = 2026-06-09
 description = "A blend of historical fiction and magical realism set in 15th century Calicut for the prompt 'For Sale - Baby Shoes - Never Worn'"
 tags = ["Historical Fiction", "Magical Realism", "Short Story"]
+showRelatedContent = false
 +++
 
 As his eyes set upon Ko-li’s shining hills, his ears deafened by the cacophony at the shore, Kung Chen realized that nothing Ma Huan had said about the country prepared him for its magic. 

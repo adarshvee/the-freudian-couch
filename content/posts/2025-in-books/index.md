@@ -4,6 +4,7 @@ url = "2025/12/2025-in-books.html"
 date = 2025-12-28
 description = ""
 tags = ["Books", "Lists"]
+showRelatedContent = false
 +++
 
 Goodreads tells me that I read [16 books](https://www.goodreads.com/user/year_in_books/2025/4391307) this year. Though this is not a lot, I am pleased that I found time to read. I am even more pleased that I found time to write about most of these books. I reviewed 10 of these books on my site, and felt bad every time I did not write about a book. This was due to a self-imposed rule that I should create content in proportion to my consumption. I am hoping that writing becomes easier at some point in time, but it's been 15 years since I started hoping, and it has only gotten more difficult.

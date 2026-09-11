@@ -4,6 +4,7 @@ url = "2026/03/damaged-goods-scheufele"
 date = 2026-03-02
 description = "Paul Scheufele's Damaged Goods tackles class, luck, and sibling bonds in an engaging but uneven debut — a review."
 tags = ["Books", "Literary Fiction", "Book Review"]
+showRelatedContent = false
 +++
 
 At the beginning of *Paul Scheufele*'s debut novel **Damaged Goods**, we meet a fleeting Indian character who introduces herself as *Dr. Prana*. *Prana* is the Sanskrit word for life-sustaining energy. Later on, we learn that another character is a Doula who helps women give birth. The metaphors with birth and life are hard to miss, and foreshadow the themes of the book. But then a character dies. **Damaged Goods** ponders questions of a fulfilling life, wasted potential, and legacy. 

@@ -4,6 +4,7 @@ url = "2026/03/destiny-other-follies-venters"
 date = 2026-03-19
 description = "Gregory Venters's Destiny and other Follies looks like a novel about corporate politics. At its core, it is about the animal instincts that civilization only thinly disguises."
 tags = ["Books", "Book Review", "Literary Fiction"]
+showRelatedContent = false
 +++
 
 > He knew then with immediate, intuitive certainty that his career, his life’s work, his surrendered existence had only ever been collectively statistical, individually commonplace, his own relevance nothing more than one more name among the dead, one more gravestone identical to all the others in a field of many.

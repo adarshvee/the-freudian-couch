@@ -4,6 +4,7 @@ url = "2026/04/sigma"
 date = 2026-04-03
 description = "A darkly humorous story about the influence of Manosphere on adolescents in a South Indian town"
 tags = ["Childhood", "Dark Humor", "Literary Fiction", "Short Story"]
+showRelatedContent = false
 +++
 
 "*That's it. I have decided to kill him.*"

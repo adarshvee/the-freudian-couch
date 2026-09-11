@@ -60,6 +60,14 @@ showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
 sharingLinks = ["linkedin", "bluesky", "facebook", "whatsapp", "twitter"]
+# Automatic related posts. 133 of 136 get one; the 20 posts with the author's own
+# {{< related >}} block set showRelatedContent = false in their front matter, because
+# the automatic picks duplicated the hand-picked ones (4 identical, 7 partial overlap).
+# NOTE: the similarly named `showRelatedPosts` is NOT this setting — in the pinned
+# Blowfish it opens a sidebar containing an upstream debug leftover that renders the
+# literal text "sd" on every post. Do not enable it.
+showRelatedContent = true
+relatedContentLimit = 3
 showComments = true
 
 [list]
